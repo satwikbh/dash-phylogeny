@@ -1196,8 +1196,9 @@ def _update_curve(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_
      dash.dependencies.Input('d_lassa', 'value'),
      dash.dependencies.Input('d_avian_opt1', 'value'), dash.dependencies.Input('d_avian_opt2', 'value'),
      dash.dependencies.Input('d_flu_opt1', 'value'), dash.dependencies.Input('d_flu_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt3', 'value')])
-def _update_histo(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3):
+     dash.dependencies.Input('d_flu_opt3', 'value'),
+     dash.dependencies.Input('id-year', 'value')])
+def _update_histo(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3, id_year):
     virus_name = virus_name.lower()
     if virus_name == "ebola" or virus_name == "zika" or virus_name == "measles":
         tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1="",
@@ -1225,10 +1226,15 @@ def _update_histo(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_
                                                                                                  level2=flu_opt2,
                                                                                                  level3=flu_opt3)
     df = pd.read_csv(metadata_file_stat_filtred)
-    min_date, max_date = min_max_date(df)
+    min_date, max_date = id_year
+    print(id_year)
+
+    #min_date, max_date = min_max_date(df)
     # To select only the data between min_date and max_date
+    print(df.shape)
     df = df[df["Year"] >= min_date]
     df = df[df["Year"] <= max_date]
+    print(df.shape)
 
     # Count the number of viruses by Country
     df_group_by_country = df.groupby(['Country'])['Value'].sum()
@@ -1256,7 +1262,6 @@ def _update_histo(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_
             }
         }
     )
-
 
 # @app.callback(
 #    dash.dependencies.Output('id-year', 'children'),
