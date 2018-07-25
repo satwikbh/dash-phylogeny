@@ -8,6 +8,7 @@ from geopy.geocoders import Nominatim
 import plotly.graph_objs as go
 import numpy as np
 import random
+from dash.dependencies import Input, Output, State
 
 app = dash.Dash(__name__)
 server = app.server
@@ -382,7 +383,51 @@ def random_color():
 
 
 def create_curve_line(df, virus_name, min_date, max_date):
+
+    results_country_by_year = df.groupby(['Country', 'Year'])['Value'].sum()
+    # Translate pandas.core.series.series object in dataframe
+    df_group_by_country = results_country_by_year.to_frame()
+    # Rename the first column in Value
+    df_group_by_country.columns = ['Value']
+    # Move the index values (i.e. Country column) in column and reset index
+    df_group_by_country = df_group_by_country.reset_index()
+    country_list = df_group_by_country.Country.unique()
+    p_data = []
+    p_name = []
+    p_year = []
+
+
+    for country_name in country_list:
+        country_data = np.extract(df_group_by_country.Country == country_name, df_group_by_country.Value)
+        country_year = np.extract(df_group_by_country.Country == country_name, df_group_by_country.Year)
+        #print(country_year)
+        #print(country_year[0])
+        #print(country_year[len(country_year)-1])
+        if country_year[0] < min_date:
+            min_date = country_year[0]
+        if country_year[len(country_year)-1] > max_date:
+            max_date = country_year[len(country_year)-1]
+
+        # Stock country name in array structure
+        if len(country_name) != 0:
+            p_name.append(country_name)
+
+        # Stock country data in array structure
+        if len(country_data) != 0:
+            p_data.append(country_data)
+
+        # Stock country year in array structure
+        if len(country_year) != 0:
+            p_year.append(country_year)
+
+            # for l_country in p_data:
+            # print(l_country)
+
     # Add step in x axe
+    print("***************************************")
+    print(min_date)
+    print(max_date)
+    print("***************************************")
     step = 1
     if 5 < max_date - min_date <= 10:
         step = 2
@@ -399,37 +444,6 @@ def create_curve_line(df, virus_name, min_date, max_date):
 
     year = marks_data
     #print(year)
-
-    results_country_by_year = df.groupby(['Country', 'Year'])['Value'].sum()
-    # Translate pandas.core.series.series object in dataframe
-    df_group_by_country = results_country_by_year.to_frame()
-    # Rename the first column in Value
-    df_group_by_country.columns = ['Value']
-    # Move the index values (i.e. Country column) in column and reset index
-    df_group_by_country = df_group_by_country.reset_index()
-    country_list = df_group_by_country.Country.unique()
-    p_data = []
-    p_name = []
-    p_year = []
-
-    for country_name in country_list:
-        country_data = np.extract(df_group_by_country.Country == country_name, df_group_by_country.Value)
-        country_year = np.extract(df_group_by_country.Country == country_name, df_group_by_country.Year)
-
-        # Stock country name in array structure
-        if len(country_name) != 0:
-            p_name.append(country_name)
-
-        # Stock country data in array structure
-        if len(country_data) != 0:
-            p_data.append(country_data)
-
-        # Stock country year in array structure
-        if len(country_year) != 0:
-            p_year.append(country_year)
-
-            # for l_country in p_data:
-            # print(l_country)
 
     i = 0
     data = []
@@ -451,14 +465,14 @@ def create_curve_line(df, virus_name, min_date, max_date):
         max_date) + " by country.",
                   xaxis=dict(title='Year'),
                   yaxis=dict(title='Number of ' + virus_name.title() + " virus"),
-                  legend=dict(orientation="h", x=.0, y=-.3),
+                  legend=dict(overflowY="scroll"),
                   margin=go.Margin(
-                      l=50,
-                      r=0,
-                      b=100,
-                      t=100,
-                      pad=0
-                  ),
+                          l=50,
+                          r=0,
+                          b=100,
+                          t=100,
+                          pad=0
+                      ),
                   )
 
     fig = dict(data=data, layout=layout)
@@ -936,7 +950,8 @@ def serve_layout():
                                         html.Br(),
                                         dcc.Graph(
                                             id='curve-line-graph',
-                                            figure=fig_curve_line
+                                            figure=fig_curve_line,
+                                            style={'height': 700}
                                         ),
                                     ]),
                             ],
@@ -985,15 +1000,15 @@ app.layout = serve_layout()
 
 ######################################### UPDATING FIGURES #########################################
 @app.callback(
-    dash.dependencies.Output('output-container', 'children'),
-    [dash.dependencies.Input('d_virus-name', 'value')])
+    Output('output-container', 'children'),
+    [Input('d_virus-name', 'value')])
 def _update_output(virus_name):
     return 'You have selected "{}" virus'.format(virus_name)
 
 
 @app.callback(
-    dash.dependencies.Output('controls-container_mumps', 'style'),
-    [dash.dependencies.Input('d_virus-name', 'value')])
+    Output('controls-container_mumps', 'style'),
+    [Input('d_virus-name', 'value')])
 def _update_output(virus_name):
     if virus_name == "Mumps":
         return {'display': 'block'}
@@ -1002,8 +1017,8 @@ def _update_output(virus_name):
 
 
 @app.callback(
-    dash.dependencies.Output('controls-container_dengue', 'style'),
-    [dash.dependencies.Input('d_virus-name', 'value')])
+    Output('controls-container_dengue', 'style'),
+    [Input('d_virus-name', 'value')])
 def _update_output(virus_name):
     if virus_name == "Dengue":
         return {'display': 'block'}
@@ -1012,8 +1027,8 @@ def _update_output(virus_name):
 
 
 @app.callback(
-    dash.dependencies.Output('controls-container_lassa', 'style'),
-    [dash.dependencies.Input('d_virus-name', 'value')])
+    Output('controls-container_lassa', 'style'),
+    [Input('d_virus-name', 'value')])
 def _update_output(virus_name):
     if virus_name == "Lassa":
         return {'display': 'block'}
@@ -1022,8 +1037,8 @@ def _update_output(virus_name):
 
 
 @app.callback(
-    dash.dependencies.Output('controls-container_avian', 'style'),
-    [dash.dependencies.Input('d_virus-name', 'value')])
+    Output('controls-container_avian', 'style'),
+    [Input('d_virus-name', 'value')])
 def _update_output(virus_name):
     if virus_name == "Avian":
         return {'display': 'block'}
@@ -1032,8 +1047,8 @@ def _update_output(virus_name):
 
 
 @app.callback(
-    dash.dependencies.Output('controls-container_flu', 'style'),
-    [dash.dependencies.Input('d_virus-name', 'value')])
+    Output('controls-container_flu', 'style'),
+    [Input('d_virus-name', 'value')])
 def _update_output(virus_name):
     if virus_name == "Flu":
         return {'display': 'block'}
@@ -1042,14 +1057,14 @@ def _update_output(virus_name):
 
 
 @app.callback(
-    dash.dependencies.Output('right-top-graph', 'children'),
-    [dash.dependencies.Input('d_virus-name', 'value'),
-     dash.dependencies.Input('d_mumps', 'value'),
-     dash.dependencies.Input('d_dengue', 'value'),
-     dash.dependencies.Input('d_lassa', 'value'),
-     dash.dependencies.Input('d_avian_opt1', 'value'), dash.dependencies.Input('d_avian_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt1', 'value'), dash.dependencies.Input('d_flu_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt3', 'value')])
+    Output('right-top-graph', 'children'),
+    [Input('d_virus-name', 'value'),
+     Input('d_mumps', 'value'),
+     Input('d_dengue', 'value'),
+     Input('d_lassa', 'value'),
+     Input('d_avian_opt1', 'value'), Input('d_avian_opt2', 'value'),
+     Input('d_flu_opt1', 'value'), Input('d_flu_opt2', 'value'),
+     Input('d_flu_opt3', 'value')])
 def _update_fig(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3):
     virus_name = virus_name.lower()
     ord_by_elt = "Country"
@@ -1100,15 +1115,15 @@ def _update_fig(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_op
 
 
 @app.callback(
-    dash.dependencies.Output('left-mid-graph', 'figure'),
-    [dash.dependencies.Input('d_virus-name', 'value'),
-     dash.dependencies.Input('d_mumps', 'value'),
-     dash.dependencies.Input('d_dengue', 'value'),
-     dash.dependencies.Input('d_lassa', 'value'),
-     dash.dependencies.Input('d_avian_opt1', 'value'), dash.dependencies.Input('d_avian_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt1', 'value'), dash.dependencies.Input('d_flu_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt3', 'value'),
-     dash.dependencies.Input('id-year', 'value')])
+    Output('left-mid-graph', 'figure'),
+    [Input('d_virus-name', 'value'),
+     Input('d_mumps', 'value'),
+     Input('d_dengue', 'value'),
+     Input('d_lassa', 'value'),
+     Input('d_avian_opt1', 'value'), Input('d_avian_opt2', 'value'),
+     Input('d_flu_opt1', 'value'), Input('d_flu_opt2', 'value'),
+     Input('d_flu_opt3', 'value'),
+     Input('id-year', 'value')])
 def _update_map(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3, id_year):
     virus_name = virus_name.lower()
     if virus_name == "ebola" or virus_name == "zika" or virus_name == "measles":
@@ -1137,7 +1152,7 @@ def _update_map(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_op
                                                                                                  level2=flu_opt2,
                                                                                                  level3=flu_opt3)
     df = pd.read_csv(metadata_file_stat_filtred)
-    #min_date, max_date = min_max_date(df)
+
     min_date, max_date = id_year
     # To select only the data between min_date and max_date
     df = df[df["Year"] >= min_date]
@@ -1146,15 +1161,64 @@ def _update_map(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_op
 
 
 @app.callback(
-    dash.dependencies.Output('curve-line-graph', 'figure'),
-    [dash.dependencies.Input('d_virus-name', 'value'),
-     dash.dependencies.Input('d_mumps', 'value'),
-     dash.dependencies.Input('d_dengue', 'value'),
-     dash.dependencies.Input('d_lassa', 'value'),
-     dash.dependencies.Input('d_avian_opt1', 'value'), dash.dependencies.Input('d_avian_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt1', 'value'), dash.dependencies.Input('d_flu_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt3', 'value'),
-     dash.dependencies.Input('id-year', 'value')])
+    Output('id-year', 'value'),
+    [Input('d_virus-name', 'value'),
+     Input('d_mumps', 'value'),
+     Input('d_dengue', 'value'),
+     Input('d_lassa', 'value'),
+     Input('d_avian_opt1', 'value'), Input('d_avian_opt2', 'value'),
+     Input('d_flu_opt1', 'value'), Input('d_flu_opt2', 'value'),
+     Input('d_flu_opt3', 'value')])
+def _update_slicer(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3):
+    virus_name = virus_name.lower()
+    if virus_name == "ebola" or virus_name == "zika" or virus_name == "measles":
+        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1="",
+                                                                                                 level2="", level3="")
+    elif virus_name == "mumps":
+        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
+                                                                                                 level1=mumps,
+                                                                                                 level2="", level3="")
+    elif virus_name == "dengue":
+        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
+                                                                                                 level1=dengue,
+                                                                                                 level2="", level3="")
+    elif virus_name == "lassa":
+        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
+                                                                                                 level1=lassa,
+                                                                                                 level2="", level3="")
+    elif virus_name == "avian":
+        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
+                                                                                                 level1=avian_opt1,
+                                                                                                 level2=avian_opt2,
+                                                                                                 level3="")
+    elif virus_name == "flu":
+        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
+                                                                                                 level1=flu_opt1,
+                                                                                                 level2=flu_opt2,
+                                                                                                 level3=flu_opt3)
+    df = pd.read_csv(metadata_file_stat_filtred)
+    min_date, max_date = min_max_date(df)
+    # create the dictionary of slider
+    marks_data = slicer(min_date, max_date)
+    min_max_date_value = [min_date, max_date]
+
+    # To select only the data between min_date and max_date
+    df = df[df["Year"] >= min_date]
+    df = df[df["Year"] <= max_date]
+
+    return (min_date, max_date)
+
+
+@app.callback(
+    Output('curve-line-graph', 'figure'),
+    [Input('d_virus-name', 'value'),
+     Input('d_mumps', 'value'),
+     Input('d_dengue', 'value'),
+     Input('d_lassa', 'value'),
+     Input('d_avian_opt1', 'value'), Input('d_avian_opt2', 'value'),
+     Input('d_flu_opt1', 'value'), Input('d_flu_opt2', 'value'),
+     Input('d_flu_opt3', 'value'),
+     Input('id-year', 'value')])
 def _update_curve(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3, id_year):
     virus_name = virus_name.lower()
     if virus_name == "ebola" or virus_name == "zika" or virus_name == "measles":
@@ -1184,7 +1248,7 @@ def _update_curve(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_
                                                                                                  level3=flu_opt3)
     df = pd.read_csv(metadata_file_stat_filtred)
     min_date, max_date = id_year
-    #min_date, max_date = min_max_date(df)
+
     # To select only the data between min_date and max_date
     df = df[df["Year"] >= min_date]
     df = df[df["Year"] <= max_date]
@@ -1193,15 +1257,15 @@ def _update_curve(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_
 
 
 @app.callback(
-    dash.dependencies.Output('id-histo', 'children'),
-    [dash.dependencies.Input('d_virus-name', 'value'),
-     dash.dependencies.Input('d_mumps', 'value'),
-     dash.dependencies.Input('d_dengue', 'value'),
-     dash.dependencies.Input('d_lassa', 'value'),
-     dash.dependencies.Input('d_avian_opt1', 'value'), dash.dependencies.Input('d_avian_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt1', 'value'), dash.dependencies.Input('d_flu_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt3', 'value'),
-     dash.dependencies.Input('id-year', 'value')])
+    Output('id-histo', 'children'),
+    [Input('d_virus-name', 'value'),
+     Input('d_mumps', 'value'),
+     Input('d_dengue', 'value'),
+     Input('d_lassa', 'value'),
+     Input('d_avian_opt1', 'value'), Input('d_avian_opt2', 'value'),
+     Input('d_flu_opt1', 'value'), Input('d_flu_opt2', 'value'),
+     Input('d_flu_opt3', 'value'),
+     Input('id-year', 'value')])
 def _update_histo(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3, id_year):
     virus_name = virus_name.lower()
     if virus_name == "ebola" or virus_name == "zika" or virus_name == "measles":
@@ -1231,14 +1295,10 @@ def _update_histo(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_
                                                                                                  level3=flu_opt3)
     df = pd.read_csv(metadata_file_stat_filtred)
     min_date, max_date = id_year
-    print(id_year)
 
-    #min_date, max_date = min_max_date(df)
     # To select only the data between min_date and max_date
-    print(df.shape)
     df = df[df["Year"] >= min_date]
     df = df[df["Year"] <= max_date]
-    print(df.shape)
 
     # Count the number of viruses by Country
     df_group_by_country = df.groupby(['Country'])['Value'].sum()
@@ -1266,232 +1326,6 @@ def _update_histo(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_
             }
         }
     )
-
-# @app.callback(
-#    dash.dependencies.Output('id-year', 'children'),
-#    [dash.dependencies.Input('d_virus-name', 'value'),
-#     dash.dependencies.Input('d_mumps', 'value'),
-#     dash.dependencies.Input('d_dengue', 'value'),
-#     dash.dependencies.Input('d_lassa', 'value'),
-#     dash.dependencies.Input('d_avian_opt1', 'value'), dash.dependencies.Input('d_avian_opt2', 'value'),
-#     dash.dependencies.Input('d_flu_opt1', 'value'), dash.dependencies.Input('d_flu_opt2', 'value'), dash.dependencies.Input('d_flu_opt3', 'value')])
-# def _update_slicer(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3):
-#    virus_name = virus_name.lower()
-#    if virus_name == "ebola" or virus_name == "zika" or virus_name == "measles":
-#        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1="", level2="", level3="")
-#    elif virus_name == "mumps":
-#        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1=mumps, level2="", level3="")
-#    elif virus_name == "dengue":
-#        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1=dengue, level2="", level3="")
-#    elif virus_name == "lassa":
-#        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1=lassa, level2="", level3="")
-#    elif virus_name == "avian":
-#        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1=avian_opt1, level2=avian_opt2, level3="")
-#    elif virus_name == "flu":
-#        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1=flu_opt1, level2=flu_opt2, level3=flu_opt3)
-#    df = pd.read_csv(metadata_file_stat_filtred)
-#    min_date, max_date = min_max_date(df)
-#    marks_data = slicer(min_date, max_date)
-#    return dcc.RangeSlider(
-#        min=min_date,
-#        max=max_date,
-#        step=None,
-#        marks=marks_data,
-#        value=[min_date, max_date]
-#    ),
-
-
-@app.callback(
-    dash.dependencies.Output('id-year', 'min'),
-    [dash.dependencies.Input('d_virus-name', 'value'),
-     dash.dependencies.Input('d_mumps', 'value'),
-     dash.dependencies.Input('d_dengue', 'value'),
-     dash.dependencies.Input('d_lassa', 'value'),
-     dash.dependencies.Input('d_avian_opt1', 'value'), dash.dependencies.Input('d_avian_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt1', 'value'), dash.dependencies.Input('d_flu_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt3', 'value')])
-def _update_min_slicer(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3):
-    virus_name = virus_name.lower()
-    if virus_name == "ebola" or virus_name == "zika" or virus_name == "measles":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1="",
-                                                                                                 level2="", level3="")
-    elif virus_name == "mumps":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=mumps,
-                                                                                                 level2="", level3="")
-    elif virus_name == "dengue":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=dengue,
-                                                                                                 level2="", level3="")
-    elif virus_name == "lassa":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=lassa,
-                                                                                                 level2="", level3="")
-    elif virus_name == "avian":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=avian_opt1,
-                                                                                                 level2=avian_opt2,
-                                                                                                 level3="")
-    elif virus_name == "flu":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=flu_opt1,
-                                                                                                 level2=flu_opt2,
-                                                                                                 level3=flu_opt3)
-    df = pd.read_csv(metadata_file_stat_filtred)
-    min_date, max_date = min_max_date(df)
-    marks_data = slicer(min_date, max_date)
-    min_max_date_value = [min_date, max_date]
-    return min_date
-
-
-@app.callback(
-    dash.dependencies.Output('id-year', 'max'),
-    [dash.dependencies.Input('d_virus-name', 'value'),
-     dash.dependencies.Input('d_mumps', 'value'),
-     dash.dependencies.Input('d_dengue', 'value'),
-     dash.dependencies.Input('d_lassa', 'value'),
-     dash.dependencies.Input('d_avian_opt1', 'value'), dash.dependencies.Input('d_avian_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt1', 'value'), dash.dependencies.Input('d_flu_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt3', 'value')])
-def _update_max_slicer(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3):
-    virus_name = virus_name.lower()
-    if virus_name == "ebola" or virus_name == "zika" or virus_name == "measles":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1="",
-                                                                                                 level2="", level3="")
-    elif virus_name == "mumps":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=mumps,
-                                                                                                 level2="", level3="")
-    elif virus_name == "dengue":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=dengue,
-                                                                                                 level2="", level3="")
-    elif virus_name == "lassa":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=lassa,
-                                                                                                 level2="", level3="")
-    elif virus_name == "avian":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=avian_opt1,
-                                                                                                 level2=avian_opt2,
-                                                                                                 level3="")
-    elif virus_name == "flu":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=flu_opt1,
-                                                                                                 level2=flu_opt2,
-                                                                                                 level3=flu_opt3)
-    df = pd.read_csv(metadata_file_stat_filtred)
-    min_date, max_date = min_max_date(df)
-    marks_data = slicer(min_date, max_date)
-    min_max_date_value = [min_date, max_date]
-    return max_date
-
-
-@app.callback(
-    dash.dependencies.Output('id-year', 'marks'),
-    [dash.dependencies.Input('d_virus-name', 'value'),
-     dash.dependencies.Input('d_mumps', 'value'),
-     dash.dependencies.Input('d_dengue', 'value'),
-     dash.dependencies.Input('d_lassa', 'value'),
-     dash.dependencies.Input('d_avian_opt1', 'value'), dash.dependencies.Input('d_avian_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt1', 'value'), dash.dependencies.Input('d_flu_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt3', 'value')])
-def _update_marks_slicer(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3):
-    virus_name = virus_name.lower()
-    if virus_name == "ebola" or virus_name == "zika" or virus_name == "measles":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1="",
-                                                                                                 level2="", level3="")
-    elif virus_name == "mumps":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=mumps,
-                                                                                                 level2="", level3="")
-    elif virus_name == "dengue":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=dengue,
-                                                                                                 level2="", level3="")
-    elif virus_name == "lassa":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=lassa,
-                                                                                                 level2="", level3="")
-    elif virus_name == "avian":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=avian_opt1,
-                                                                                                 level2=avian_opt2,
-                                                                                                 level3="")
-    elif virus_name == "flu":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=flu_opt1,
-                                                                                                 level2=flu_opt2,
-                                                                                                 level3=flu_opt3)
-    df = pd.read_csv(metadata_file_stat_filtred)
-    min_date, max_date = min_max_date(df)
-    marks_data = slicer(min_date, max_date)
-    min_max_date_value = [min_date, max_date]
-    return marks_data
-
-
-@app.callback(
-    dash.dependencies.Output('id-year', 'value'),
-    [dash.dependencies.Input('d_virus-name', 'value'),
-     dash.dependencies.Input('d_mumps', 'value'),
-     dash.dependencies.Input('d_dengue', 'value'),
-     dash.dependencies.Input('d_lassa', 'value'),
-     dash.dependencies.Input('d_avian_opt1', 'value'), dash.dependencies.Input('d_avian_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt1', 'value'), dash.dependencies.Input('d_flu_opt2', 'value'),
-     dash.dependencies.Input('d_flu_opt3', 'value')])
-def _update_value_slicer(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3):
-    virus_name = virus_name.lower()
-    if virus_name == "ebola" or virus_name == "zika" or virus_name == "measles":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name, level1="",
-                                                                                                 level2="", level3="")
-    elif virus_name == "mumps":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=mumps,
-                                                                                                 level2="", level3="")
-    elif virus_name == "dengue":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=dengue,
-                                                                                                 level2="", level3="")
-    elif virus_name == "lassa":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=lassa,
-                                                                                                 level2="", level3="")
-    elif virus_name == "avian":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=avian_opt1,
-                                                                                                 level2=avian_opt2,
-                                                                                                 level3="")
-    elif virus_name == "flu":
-        tree_file_filtred, metadata_file_filtred, metadata_file_stat_filtred = create_paths_file(virus_name,
-                                                                                                 level1=flu_opt1,
-                                                                                                 level2=flu_opt2,
-                                                                                                 level3=flu_opt3)
-    df = pd.read_csv(metadata_file_stat_filtred)
-    min_date, max_date = min_max_date(df)
-    marks_data = slicer(min_date, max_date)
-    min_max_date_value = [min_date, max_date]
-    return min_max_date_value
-
-
-# @app.callback(
-#    dash.dependencies.Output('id-year', 'children'),
-#    [dash.dependencies.Input('output-container-range-slider', 'children')])
-# def _update_slicer(dates):
-#    print(dates)
-#    return dcc.RangeSlider(
-#        min=1980,
-#        max=2010,
-#        step=None,
-#        marks=[1980,1990,2000,2010],
-#        value=[min_date, max_date]
-#    ),
-
-
-# @app.callback(
-#    dash.dependencies.Output('output-container-range-slider', 'children'),
-#    [dash.dependencies.Input('id-year', 'children')])
-# def _update_output(info):
-#    return 'You have selected the dates between {} and {}'.format(info[0]["props"]["value"][0], info[0]["props"]["value"][1])
 
 
 ######################################### CSS #########################################
