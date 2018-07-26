@@ -876,7 +876,7 @@ def serve_layout():
                                         html.Div(id='controls-container_mumps', children=[
                                             dcc.Dropdown(
                                                 id='d_mumps',
-                                                options=[{'label': i, 'value': i} for i in ['global', 'na']],
+                                                options=[{'label': i, 'value': i, 'display': 'block'} for i in ['global', 'na']],
                                                 value='global',
                                             ),
                                         ]),
@@ -884,7 +884,7 @@ def serve_layout():
                                         html.Div(id='controls-container_dengue', children=[
                                             dcc.Dropdown(
                                                 id='d_dengue',
-                                                options=[{'label': i, 'value': i} for i in
+                                                options=[{'label': i, 'value': i, 'display': 'block'} for i in
                                                          ['all', 'denv1', 'denv2', 'denv3', 'denv4']],
                                                 value='all',
                                             ),
@@ -893,7 +893,7 @@ def serve_layout():
                                         html.Div(id='controls-container_lassa', children=[
                                             dcc.Dropdown(
                                                 id='d_lassa',
-                                                options=[{'label': i, 'value': i} for i in ['s', 'l']],
+                                                options=[{'label': i, 'value': i, 'display': 'block'} for i in ['s', 'l']],
                                                 value='s',
                                             ),
                                         ]),
@@ -901,12 +901,12 @@ def serve_layout():
                                         html.Div(id='controls-container_avian', children=[
                                             dcc.Dropdown(
                                                 id='d_avian_opt1',
-                                                options=[{'label': i, 'value': i} for i in ['h7n9']],
+                                                options=[{'label': i, 'value': i, 'display': 'block'} for i in ['h7n9']],
                                                 value='h7n9',
                                             ),
                                             dcc.Dropdown(
                                                 id='d_avian_opt2',
-                                                options=[{'label': i, 'value': i} for i in
+                                                options=[{'label': i, 'value': i, 'display': 'block'} for i in
                                                          ['ha', 'mp', 'na', 'ns', 'np', 'pa', 'pb2', 'pb1']],
                                                 value='ha',
                                             ),
@@ -915,19 +915,19 @@ def serve_layout():
                                         html.Div(id='controls-container_flu', children=[
                                             dcc.Dropdown(
                                                 id='d_flu_opt1',
-                                                options=[{'label': i, 'value': i} for i in
+                                                options=[{'label': i, 'value': i, 'display': 'block'} for i in
                                                          ['h3n2', 'h1n1pdm', 'vic', 'yam']],
                                                 value='h3n2',
                                             ),
                                             dcc.Dropdown(
                                                 id='d_flu_opt2',
-                                                options=[{'label': i, 'value': i} for i in
+                                                options=[{'label': i, 'value': i, 'display': 'block'} for i in
                                                          ['ha', 'na']],
                                                 value='ha',
                                             ),
                                             dcc.Dropdown(
                                                 id='d_flu_opt3',
-                                                options=[{'label': i, 'value': i} for i in
+                                                options=[{'label': i, 'value': i, 'display': 'block'} for i in
                                                          ['2y', '3y', '6y', '12y']],
                                                 value='3y',
                                             ),
@@ -935,14 +935,16 @@ def serve_layout():
                                         html.Br(),
                                         html.Br(),
                                         html.H6(children='Data Range'),
-                                        dcc.RangeSlider(
-                                            id='id-year',
-                                            min=min_date,
-                                            max=max_date,
-                                            step=None,
-                                            marks=marks_data,
-                                            value=min_max_date_value
-                                        ),
+                                        html.Div(id='id-slicer', children=[
+                                            dcc.RangeSlider(
+                                                id='id-year',
+                                                min=min_date,
+                                                max=max_date,
+                                                step=None,
+                                                marks=marks_data,
+                                                value=min_max_date_value
+                                            ),
+                                        ]),
                                         html.Br(),
                                         html.Br(),
                                         html.Div(id='output-container-range-slider'),
@@ -1002,14 +1004,14 @@ app.layout = serve_layout()
 @app.callback(
     Output('output-container', 'children'),
     [Input('d_virus-name', 'value')])
-def _update_output(virus_name):
+def _update_legend_gene(virus_name):
     return 'You have selected "{}" virus'.format(virus_name)
 
 
 @app.callback(
     Output('controls-container_mumps', 'style'),
     [Input('d_virus-name', 'value')])
-def _update_output(virus_name):
+def _update_mumps_option(virus_name):
     if virus_name == "Mumps":
         return {'display': 'block'}
     else:
@@ -1019,7 +1021,7 @@ def _update_output(virus_name):
 @app.callback(
     Output('controls-container_dengue', 'style'),
     [Input('d_virus-name', 'value')])
-def _update_output(virus_name):
+def _update_dengue_option(virus_name):
     if virus_name == "Dengue":
         return {'display': 'block'}
     else:
@@ -1029,7 +1031,7 @@ def _update_output(virus_name):
 @app.callback(
     Output('controls-container_lassa', 'style'),
     [Input('d_virus-name', 'value')])
-def _update_output(virus_name):
+def _update_lassa_option(virus_name):
     if virus_name == "Lassa":
         return {'display': 'block'}
     else:
@@ -1039,7 +1041,7 @@ def _update_output(virus_name):
 @app.callback(
     Output('controls-container_avian', 'style'),
     [Input('d_virus-name', 'value')])
-def _update_output(virus_name):
+def _update_avian_option(virus_name):
     if virus_name == "Avian":
         return {'display': 'block'}
     else:
@@ -1049,7 +1051,7 @@ def _update_output(virus_name):
 @app.callback(
     Output('controls-container_flu', 'style'),
     [Input('d_virus-name', 'value')])
-def _update_output(virus_name):
+def _update_flu_option(virus_name):
     if virus_name == "Flu":
         return {'display': 'block'}
     else:
@@ -1065,7 +1067,7 @@ def _update_output(virus_name):
      Input('d_avian_opt1', 'value'), Input('d_avian_opt2', 'value'),
      Input('d_flu_opt1', 'value'), Input('d_flu_opt2', 'value'),
      Input('d_flu_opt3', 'value')])
-def _update_fig(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3):
+def _update_pĥylogentic_tree(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_opt1, flu_opt2, flu_opt3):
     virus_name = virus_name.lower()
     ord_by_elt = "Country"
     data_virus_info = {}
@@ -1161,7 +1163,7 @@ def _update_map(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu_op
 
 
 @app.callback(
-    Output('id-year', 'value'),
+    Output('id-slicer', 'children'),
     [Input('d_virus-name', 'value'),
      Input('d_mumps', 'value'),
      Input('d_dengue', 'value'),
@@ -1205,8 +1207,14 @@ def _update_slicer(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu
     # To select only the data between min_date and max_date
     df = df[df["Year"] >= min_date]
     df = df[df["Year"] <= max_date]
-
-    return (min_date, max_date)
+    return dcc.RangeSlider(
+                id='id-year',
+                min=min_date,
+                max=max_date,
+                step=None,
+                marks=marks_data,
+                value=min_max_date_value
+            )
 
 
 @app.callback(
@@ -1344,4 +1352,4 @@ for css in external_css:
 
 # Running the server
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8050)
+    app.run_server(debug=True)
