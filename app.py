@@ -4,7 +4,6 @@ import dash_core_components as dcc
 import dash_html_components as html
 from Bio import Phylo
 import pandas as pd
-from geopy.geocoders import Nominatim
 import plotly.graph_objs as go
 import numpy as np
 import random
@@ -127,45 +126,6 @@ def compute_expensive_data(chemin):
     return dir
 
 
-def get_lon_lat(city):
-    '''
-    Example:
-    location = geolocator.geocode("Chicago Illinois")
-    return:
-    Chicago, Cook County, Illinois, United States of America
-    location.address    location.altitude   location.latitude   location.longitude  location.point      location.raw
-    '''
-    geolocator = Nominatim()
-    location = geolocator.geocode(city)
-    return location.longitude, location.latitude
-
-
-def get_lon(city):
-    '''
-    Example:
-    location = geolocator.geocode("Chicago Illinois")
-    return:
-    Chicago, Cook County, Illinois, United States of America
-    location.address    location.altitude   location.latitude   location.longitude  location.point      location.raw
-    '''
-    geolocator = Nominatim()
-    location = geolocator.geocode(city)
-    return location.longitude
-
-
-def get_lat(city):
-    '''
-    Example:
-    location = geolocator.geocode("Chicago Illinois")
-    return:
-    Chicago, Cook County, Illinois, United States of America
-    location.address    location.altitude   location.latitude   location.longitude  location.point      location.raw
-    '''
-    geolocator = Nominatim()
-    location = geolocator.geocode(city)
-    return location.latitude
-
-
 def create_map_bubble_year(virus_name, metadata_file_stat, map_choice, min_date, max_date):
     df = pd.read_csv(metadata_file_stat)
     # To select only the data between min_date and max_date
@@ -216,6 +176,8 @@ def create_map_bubble_year(virus_name, metadata_file_stat, map_choice, min_date,
             margin=go.Margin(
                 l=0,
                 r=0,
+                b=0,
+                t=35,
                 pad=0
             ),
             geo=dict(
@@ -787,7 +749,7 @@ def serve_layout():
                                                 id='id-year',
                                                 min=min_date,
                                                 max=max_date,
-                                                step=None,
+                                                step=1,
                                                 marks=marks_data,
                                                 value=min_max_date_value
                                             ),
@@ -822,7 +784,7 @@ def serve_layout():
                         html.Div(
                             [
                                 dcc.Graph(
-                                    id='left-mid-graph',
+                                    id='graph_map',
                                     figure=fig_map_bubble
                                 )
                             ],
@@ -964,7 +926,7 @@ def _update_pĥylogentic_tree(virus_name, mumps, dengue, lassa, avian_opt1, avia
 
 
 @app.callback(
-    Output('left-mid-graph', 'figure'),
+    Output('graph_map', 'figure'),
     [Input('d_virus-name', 'value'),
      Input('d_mumps', 'value'),
      Input('d_dengue', 'value'),
@@ -1058,7 +1020,7 @@ def _update_slicer(virus_name, mumps, dengue, lassa, avian_opt1, avian_opt2, flu
                 id='id-year',
                 min=min_date,
                 max=max_date,
-                step=None,
+                step=1,
                 marks=marks_data,
                 value=min_max_date_value
             )
