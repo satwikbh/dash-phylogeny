@@ -8,7 +8,7 @@ from geopy.geocoders import Nominatim
 import plotly.graph_objs as go
 import numpy as np
 import random
-from dash.dependencies import Input, Output, State
+from dash.dependencies import Input, Output
 
 app = dash.Dash(__name__)
 server = app.server
@@ -25,8 +25,8 @@ def get_x_coordinates(tree):
     """
     xcoords = tree.depths()
     # tree.depth() maps tree clades to depths (by branch length).
-    # returns a dict {clade: depth} where clade runs over all Clade instances of the tree, and depth is the distance from root
-    # to clade
+    # returns a dict {clade: depth} where clade runs over all Clade instances of the tree, and depth
+    # is the distance from root to clade
 
     #  If there are no branch lengths, assign unit branch lengths
     if not max(xcoords.values()):
@@ -182,68 +182,8 @@ def create_map_bubble_year(virus_name, metadata_file_stat, map_choice, min_date,
     months = {1: 'Jan', 2: 'Feb', 3: 'Mar', 4: 'Apr', 5: 'May', 6: 'Jun', 7: 'Jul', 8: 'Aug', 9: 'Sept', 10: 'Oct',
               11: 'Nov', 12: 'Dec'}
 
-    if map_choice == 1:
-        for i in range(1, 13)[::-1]:
-            cases.append(go.Scattergeo(
-                lon=df[df['Month'] == i]['Lon'],  # -(max(range(6,10))-i),
-                lat=df[df['Month'] == i]['Lat'],
-                text=df[df['Month'] == i]['Value'],
-                name=months[i],
-                marker=dict(
-                    size=df[df['Month'] == i]['Value'],
-                    color=colors[i - 1],
-                    line=dict(width=0)
-                ),
-            ))
-
-        cases[0]['text'] = df[df['Month'] == 9]['Value'].map('{:.0f}'.format).astype(str) + ' ' + \
-                           df[df['Month'] == 9]['Country']
-        cases[0]['mode'] = 'markers+text'
-        cases[0]['textposition'] = 'bottom center'
-
-        layout = go.Layout(
-            title=virus_name.title() + ' Virus cases reported by month in West Africa <br>Between ' + str(
-                min_date) + " and " + str(max_date),
-            geo=dict(
-                resolution=50,
-                scope='africa',
-                showframe=False,
-                showcoastlines=True,
-                showland=True,
-                landcolor="rgb(229, 229, 229)",
-                countrycolor="rgb(255, 255, 255)",
-                coastlinecolor="rgb(255, 255, 255)",
-                projection=dict(
-                    type='Mercator'
-                ),
-                lonaxis=dict(range=[-15.0, -5.0]),
-                lataxis=dict(range=[0.0, 12.0]),
-                domain=dict(
-                    x=[0, 1],
-                    y=[0, 1]
-                )
-            ),
-            geo2=dict(
-                scope='world',
-                showframe=False,
-                showland=True,
-                landcolor="rgb(229, 229, 229)",
-                showcountries=False,
-                domain=dict(
-                    x=[0, 0.6],
-                    y=[0, 0.6]
-                ),
-                bgcolor='rgba(255, 255, 255, 0.0)',
-            ),
-            legend=dict(
-                traceorder='reversed'
-            )
-        )
-        fig_map_bubble2 = go.Figure(layout=layout, data=cases)
-        return fig_map_bubble2
-    elif map_choice == 2:
+    if map_choice == 2:
         df_old = df
-        # print(df_old)
         df = pd.read_csv('data/2014_world_gdp_with_codes.csv')
         for index2, row2 in df.iterrows():
             for index, row in df_old.iterrows():
@@ -290,86 +230,6 @@ def create_map_bubble_year(virus_name, metadata_file_stat, map_choice, min_date,
 
         fig = dict(data=data, layout=layout)
         return fig
-    else:
-        for i in range(1, 13)[::-1]:
-            cases.append(go.Scattergeo(
-                lon=df[df['Month'] == i]['Lon'],  # -(max(range(6,10))-i),
-                lat=df[df['Month'] == i]['Lat'],
-                text=df[df['Month'] == i]['Value'],
-                name=months[i],
-                marker=dict(
-                    size=df[df['Month'] == i]['Value'],
-                    color=colors[i - 1],
-                    line=dict(width=0)
-                ),
-            ))
-
-        cases[0]['text'] = df[df['Month'] == 9]['Value'].map('{:.0f}'.format).astype(str) + ' ' + \
-                           df[df['Month'] == 9]['Country']
-        cases[0]['mode'] = 'markers+text'
-        cases[0]['textposition'] = 'bottom center'
-
-        inset = [
-            go.Choropleth(
-                locationmode='country names',
-                locations=df[df['Month'] == 9]['Country'],
-                z=df[df['Month'] == 9]['Value'],
-                text=df[df['Month'] == 9]['Country'],
-                colorscale=[[0, 'rgb(0, 0, 0)'], [1, 'rgb(0, 0, 0)']],
-                autocolorscale=False,
-                showscale=False,
-                geo='geo2'
-            ),
-            go.Scattergeo(
-                lon=[21.0936],
-                lat=[7.1881],
-                text=['Africa'],
-                mode='text',
-                showlegend=False,
-                geo='geo2'
-            )
-        ]
-
-        layout = go.Layout(
-            title=virus_name.title() + ' Virus cases reported by month in West Africa <br>Between ' + str(
-                min_date) + " and " + str(max_date),
-            geo=dict(
-                resolution=50,
-                scope='africa',
-                showframe=False,
-                showcoastlines=True,
-                showland=True,
-                landcolor="rgb(229, 229, 229)",
-                countrycolor="rgb(255, 255, 255)",
-                coastlinecolor="rgb(255, 255, 255)",
-                projection=dict(
-                    type='Mercator'
-                ),
-                lonaxis=dict(range=[-15.0, -5.0]),
-                lataxis=dict(range=[0.0, 12.0]),
-                domain=dict(
-                    x=[0, 1],
-                    y=[0, 1]
-                )
-            ),
-            geo2=dict(
-                scope='world',
-                showframe=False,
-                showland=True,
-                landcolor="rgb(229, 229, 229)",
-                showcountries=False,
-                domain=dict(
-                    x=[0, 0.6],
-                    y=[0, 0.6]
-                ),
-                bgcolor='rgba(255, 255, 255, 0.0)',
-            ),
-            legend=dict(
-                traceorder='reversed'
-            )
-        )
-        fig_map_bubble2 = go.Figure(layout=layout, data=cases + inset)
-        return fig_map_bubble2
 
 
 def random_color():
@@ -377,8 +237,6 @@ def random_color():
     colors = ["red", "green", "blue", "orange", "purple", "pink", "yellow", "black", "gray", "sliver", "violet",
               "yellowgreen", "turquoise", "sienna", "salmon"]
     color = random.choice(colors)
-    # rgbl=[255,10,0]
-    # random.shuffle(rgbl)
     return tuple(color)
 
 
@@ -400,9 +258,7 @@ def create_curve_line(df, virus_name, min_date, max_date):
     for country_name in country_list:
         country_data = np.extract(df_group_by_country.Country == country_name, df_group_by_country.Value)
         country_year = np.extract(df_group_by_country.Country == country_name, df_group_by_country.Year)
-        #print(country_year)
-        #print(country_year[0])
-        #print(country_year[len(country_year)-1])
+
         if country_year[0] < min_date:
             min_date = country_year[0]
         if country_year[len(country_year)-1] > max_date:
@@ -420,14 +276,7 @@ def create_curve_line(df, virus_name, min_date, max_date):
         if len(country_year) != 0:
             p_year.append(country_year)
 
-            # for l_country in p_data:
-            # print(l_country)
-
     # Add step in x axe
-    print("***************************************")
-    print(min_date)
-    print(max_date)
-    print("***************************************")
     step = 1
     if 5 < max_date - min_date <= 10:
         step = 2
@@ -443,7 +292,6 @@ def create_curve_line(df, virus_name, min_date, max_date):
         marks_data.append(str(max_date))
 
     year = marks_data
-    #print(year)
 
     i = 0
     data = []
@@ -458,7 +306,6 @@ def create_curve_line(df, virus_name, min_date, max_date):
         )
         i = i + 1
         data.append(trace)
-        # print(l_country)
 
     # Edit the layout
     layout = dict(title="Evolution of " + virus_name.title() + " virus <br>Between " + str(min_date) + " and " + str(
@@ -479,7 +326,7 @@ def create_curve_line(df, virus_name, min_date, max_date):
     return fig
 
 
-def create_fig(virus_name, tree_file, metadata_file, ord_by):
+def create_tree(virus_name, tree_file, metadata_file, ord_by):
     tree = read_treefile(tree_file)
     x_coords = get_x_coordinates(tree)
     y_coords = get_y_coordinates(tree)
@@ -500,10 +347,6 @@ def create_fig(virus_name, tree_file, metadata_file, ord_by):
     data_metadata_stat_csv = df.groupby(ord_by)['Strain'].count()
 
     # for index_val, series_val in data_metadata_stat_csv.iteritems():
-    # print(index_val, ",", series_val, ",", get_lat(index_val), ",", get_lon(index_val))
-
-    # print(data_metadata_stat_csv)
-    # print(type(data_metadata_stat_csv))
     df.columns
     nb_genome = len(df)
 
@@ -675,10 +518,13 @@ def create_fig(virus_name, tree_file, metadata_file, ord_by):
 
         i = text.index(strain)
 
+        # Split journal title if gt 50 characters
+        new_title_journal = split_at_n_caracter(df.loc[k, 'Journal'], 50)
+
         text[i] = text[i] + '<br>Country: ' + '{:s}'.format(df.loc[k, 'Country']) + '<br>Region: ' + '{:s}'.format(
             df.loc[k, 'Region']) + \
                   '<br>Collection date: ' + '{:s}'.format(df.loc[k, 'Date']) + \
-                  '<br>Journal: ' + '{:s}'.format(df.loc[k, 'Journal']) + '<br>Authors: ' + '{:s}'.format(
+                  '<br>Journal: ' + '{:s}'.format(new_title_journal) + '<br>Authors: ' + '{:s}'.format(
             df.loc[k, 'Authors'])
         country.append(df.loc[k, 'Country'])
         region.append(df.loc[k, 'Region'])
@@ -751,6 +597,11 @@ def create_fig(virus_name, tree_file, metadata_file, ord_by):
     return fig
 
 
+def split_at_n_caracter(title, n):
+    sentences = "<br>".join([title[i:i + n] for i in range(0, len(title), n)])
+    return sentences
+
+
 # TO DO validation file and directory exist
 def create_paths_file(virus_name, level1="", level2="", level3=""):
     dir = "data/" + virus_name + "/"
@@ -797,7 +648,6 @@ def slicer(min_date, max_date):
         step = 10
     marks_data = {}
     for i in range(int(min_date), int(max_date) + 1, step):
-        #print("i " + str(i))
         if i > int(max_date):
             marks_data[i] = str(int(max_date))
         else:
@@ -811,9 +661,7 @@ def slicer(min_date, max_date):
 
 def min_max_date(df):
     min_date = df['Year'].min()
-    # min_date = date_4_number(min_date)
     max_date = df['Year'].max()
-    # max_date = date_4_number(max_date)
     if min_date > max_date:
         tmp = min_date
         min_date = max_date
@@ -829,11 +677,10 @@ min_date, max_date = min_max_date(df_stat_metadata)
 marks_data = slicer(min_date, max_date)
 min_max_date_value = [min_date, max_date]
 
-fig = create_fig(virus_name, tree_file, metadata_file, "Country")
+fig = create_tree(virus_name, tree_file, metadata_file, "Country")
 tree_fig[tree_file] = fig
 
 fig_map_bubble = create_map_bubble_year(virus_name, metadata_file_stat, 2, min_date, max_date)
-# print(df_stat_metadata)
 fig_curve_line = create_curve_line(df_stat_metadata, virus_name, min_date, max_date)
 
 
@@ -1107,7 +954,7 @@ def _update_pĥylogentic_tree(virus_name, mumps, dengue, lassa, avian_opt1, avia
         fig = tree_fig[tree_file_filtred]
     else:
         if ord_by_elt == "Country" or ord_by_elt == "Division" or ord_by_elt == "Date":
-            fig = create_fig(virus_name, tree_file_filtred, metadata_file_filtred, ord_by_elt)
+            fig = create_tree(virus_name, tree_file_filtred, metadata_file_filtred, ord_by_elt)
 
         tree_fig[tree_file_filtred] = fig
     return dcc.Graph(
@@ -1352,4 +1199,4 @@ for css in external_css:
 
 # Running the server
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, port=8051)
