@@ -33,7 +33,7 @@ External packages used in the project:
 ## Screenshots
 The following are screenshots for the app in this repo:
 
-![Screenshot1](dash-phylo-tree.gif)
+![Screenshot1](images/dash-phylo-tree.gif)
 
 ![Screenshot2](images/Screenshot1.png)
 
