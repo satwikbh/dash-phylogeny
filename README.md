@@ -1,4 +1,4 @@
-# Dash virus phylogenetic tree Application
+# Dash: Virus Phylogenetic Tree Application
 
 This is a demo of the Dash interactive Python framework developed by [Plotly](https://plot.ly/).
 
@@ -7,10 +7,12 @@ Dash abstracts away all of the technologies and protocols required to build an i
 To learn more check out our [documentation](https://plot.ly/dash).
 
 ## Introduction
-In this area, include a brief description of what the application does, and include a link to the [Heroku application](https://dash-phylogeny.herokuapp.com/).
+
+👉 [Explore the app on Heroku](https://dash-phylogeny.herokuapp.com/).
 
 ### [Technique/field associated with the instrument]
-Give a brief description of the scientific background related to the application that you're interfacing with.
+
+This Dash app was inspired by the excellent [Nextstrain project](https://nextstrain.org/zika?dmin=2014-06-17).
 
 ## Requirements
 - The Python version required is >= 3 to control this app;
@@ -21,8 +23,7 @@ Give a brief description of the scientific background related to the application
 The command needed to run the app:
 python3.6 app.py
 
-In the web page, you can select the bacteria, and the genes in depends on the bacteria.
-
+In the [online app](https://dash-phylogeny.herokuapp.com/), you can select a virus, and the evolution of the virus as a phylogeny tree will display with a map and time series of the virus's global spread.
 
 ## Resources
 
