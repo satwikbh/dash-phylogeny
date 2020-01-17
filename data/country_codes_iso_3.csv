@@ -1,4 +1,4 @@
-COUNTRY,GDP (BILLIONS),CODE
+COUNTRY,OCCURRENCE,CODE
 Afghanistan,0,AFG
 Albania,0,ALB
 Algeria,0,DZA
@@ -14,8 +14,6 @@ Australia,0,AUS
 Austria,0,AUT
 Azerbaijan,0,AZE
 "Bahamas, The",0,BHM
-Bahamas The,0,BHM
-Bahamas,0,BHM
 Bahrain,0,BHR
 Bangladesh,0,BGD
 Barbados,0,BRB
@@ -47,9 +45,7 @@ China,0,CHN
 Colombia,0,COL
 Comoros,0,COM
 "Congo, Democratic Republic of the",0,COD
-Congo Democratic Republic of the,0,COD
 "Congo, Republic of the",0,COG
-Congo Republic of the,0,COG
 Cook Islands,0,COK
 Costa Rica,0,CRI
 Cote d'Ivoire,0,CIV
@@ -76,8 +72,7 @@ Finland,0,FIN
 France,0,FRA
 French Polynesia,0,PYF
 Gabon,0,GAB
-Gambia The,0,GMB
-Gambia,0,GMB
+"Gambia, The",0,GMB
 Georgia,0,GEO
 Germany,0,DEU
 Ghana,0,GHA
@@ -112,9 +107,7 @@ Kazakhstan,0,KAZ
 Kenya,0,KEN
 Kiribati,0,KIR
 "Korea, North",0,PRK
-Korea North,0,PRK
 "Korea, South",0,KOR
-Korea South,0,KOR
 Kosovo,0,KSV
 Kuwait,0,KWT
 Kyrgyzstan,0,KGZ
@@ -140,8 +133,6 @@ Mauritania,0,MRT
 Mauritius,0,MUS
 Mexico,0,MEX
 "Micronesia, Federated States of",0,FSM
-Micronesia Federated States of,0,FSM
-Micronesia,0,FSM
 Moldova,0,MDA
 Monaco,0,MCO
 Mongolia,0,MNG

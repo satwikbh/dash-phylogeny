@@ -1,3 +1,4 @@
+backcall==0.1.0
 biopython==1.71
 certifi==2018.4.16
 chardet==3.0.4
@@ -14,8 +15,11 @@ geographiclib==1.49
 geopy==1.13.0
 gunicorn==19.8.1
 idna==2.6
+ipdb==0.12.3
+ipython==7.11.1
 ipython-genutils==0.2.0
 itsdangerous==0.24
+jedi==0.15.2
 Jinja2==2.10
 jsonschema==2.6.0
 jupyter-core==4.4.0
@@ -24,11 +28,19 @@ nbformat==4.4.0
 nominatim==0.1
 numpy==1.14.3
 pandas==0.22.0
+parso==0.5.2
+pexpect==4.7.0
+pickleshare==0.7.5
 plotly==2.5.1
+prompt-toolkit==3.0.2
+ptyprocess==0.6.0
+pycountry==19.8.18
+Pygments==2.5.2
 python-dateutil==2.7.2
 pytz==2018.4
 requests==2.18.4
 six==1.11.0
 traitlets==4.3.2
 urllib3==1.22
+wcwidth==0.1.8
 Werkzeug==0.14.1
