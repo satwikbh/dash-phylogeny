@@ -25,3 +25,5 @@ In the [online app](https://dash-phylogeny.herokuapp.com/), you can select a vir
 External packages used in the project:
 - biopython (https://biopython.org/wiki/Documentation)
 - nominatim (https://geopy.readthedocs.io/en/stable/)
+
+[![Build Status](https://travis-ci.com/satwikbh/dash-phylogeny.svg?branch=dev)](https://travis-ci.com/satwikbh/dash-phylogeny)
