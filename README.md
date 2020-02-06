@@ -1,5 +1,7 @@
 # Dash: Malware Phylogenetic Tree Application
 
+[![Build Status](https://travis-ci.com/satwikbh/dash-phylogeny.svg?branch=dev)](https://travis-ci.com/satwikbh/dash-phylogeny)
+
 This is an interactive demo of the malware (virus) spread of 86 different families. List of all the 86 families, year when the malware was encountered, country-wise distribution can be visualized in this demo.
 
 ## Introduction
@@ -25,5 +27,3 @@ In the [online app](https://dash-phylogeny.herokuapp.com/), you can select a vir
 External packages used in the project:
 - biopython (https://biopython.org/wiki/Documentation)
 - nominatim (https://geopy.readthedocs.io/en/stable/)
-
-[![Build Status](https://travis-ci.com/satwikbh/dash-phylogeny.svg?branch=dev)](https://travis-ci.com/satwikbh/dash-phylogeny)

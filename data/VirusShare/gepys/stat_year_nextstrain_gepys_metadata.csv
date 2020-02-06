@@ -1,0 +1,1576 @@
+city,name,family_name,country,year,longitude,iso-2,iso-3,ip,latitude,value
+Redmond,VirusShare_b1cdebb77c0663f2ada54e1afa92d557,gepys,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b1cdebb77c0663f2ada54e1afa92d557,gepys,United States,2013,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b1cdebb77c0663f2ada54e1afa92d557,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1cdebb77c0663f2ada54e1afa92d557,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_374cb0d6f138042606f8ed60448bf1d0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_374cb0d6f138042606f8ed60448bf1d0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_374cb0d6f138042606f8ed60448bf1d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_374cb0d6f138042606f8ed60448bf1d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3323a2a0649a50db958339803691bdf0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3323a2a0649a50db958339803691bdf0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_3323a2a0649a50db958339803691bdf0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3323a2a0649a50db958339803691bdf0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_79727e870805b9c3d934484d904b3860,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_79727e870805b9c3d934484d904b3860,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_79727e870805b9c3d934484d904b3860,gepys,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_79727e870805b9c3d934484d904b3860,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb5abe199c663d327656aa9aa7eb7b80,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb5abe199c663d327656aa9aa7eb7b80,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb5abe199c663d327656aa9aa7eb7b80,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_bb5abe199c663d327656aa9aa7eb7b80,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b46c93c35115331295608951bee99aa0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b46c93c35115331295608951bee99aa0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b46c93c35115331295608951bee99aa0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b46c93c35115331295608951bee99aa0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7b201ab6d8fa63f9093a926e2b37c9e0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7b201ab6d8fa63f9093a926e2b37c9e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7b201ab6d8fa63f9093a926e2b37c9e0,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_7b201ab6d8fa63f9093a926e2b37c9e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3df53201c08a3b543fb981c5700b9fc0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3df53201c08a3b543fb981c5700b9fc0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3df53201c08a3b543fb981c5700b9fc0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_3df53201c08a3b543fb981c5700b9fc0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8c7dab54b117983871503ff15bfea40,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8c7dab54b117983871503ff15bfea40,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8c7dab54b117983871503ff15bfea40,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b8c7dab54b117983871503ff15bfea40,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e03abf898bba80f39d84889f30b9d780,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_e03abf898bba80f39d84889f30b9d780,gepys,United States,2014,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_e03abf898bba80f39d84889f30b9d780,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e03abf898bba80f39d84889f30b9d780,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1025488229c656aca8421df12c79350,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1025488229c656aca8421df12c79350,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e1025488229c656aca8421df12c79350,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1025488229c656aca8421df12c79350,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db366e4cd27917ce5cca3f079592f470,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baccab9c190f3558e2cb8f4cec236b50,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_baccab9c190f3558e2cb8f4cec236b50,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_baccab9c190f3558e2cb8f4cec236b50,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_baccab9c190f3558e2cb8f4cec236b50,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e035002048955d979674eeeaaee22750,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_e035002048955d979674eeeaaee22750,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_e035002048955d979674eeeaaee22750,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e035002048955d979674eeeaaee22750,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7b9c1061e47c2b20b475c058121011c0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_7b9c1061e47c2b20b475c058121011c0,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_7b9c1061e47c2b20b475c058121011c0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7b9c1061e47c2b20b475c058121011c0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_36d9a911d86ff43833f9cb29feea623b,gepys,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_36d9a911d86ff43833f9cb29feea623b,gepys,United States,2013,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_36d9a911d86ff43833f9cb29feea623b,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_36d9a911d86ff43833f9cb29feea623b,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8be4257e7ea58dd262ba96f3f72c150,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8be4257e7ea58dd262ba96f3f72c150,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8be4257e7ea58dd262ba96f3f72c150,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b8be4257e7ea58dd262ba96f3f72c150,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b843a3bc47043c08d14596a178cca1ad,gepys,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b843a3bc47043c08d14596a178cca1ad,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b843a3bc47043c08d14596a178cca1ad,gepys,United States,2013,-96.797,US,USA,184.24.97.25,32.7767,0
+Mountain View,VirusShare_b843a3bc47043c08d14596a178cca1ad,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba7984ccda4e8a9f9dc1462f5d459b00,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba7984ccda4e8a9f9dc1462f5d459b00,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_ba7984ccda4e8a9f9dc1462f5d459b00,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_ba7984ccda4e8a9f9dc1462f5d459b00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baef34da961506c0b47c91bce82def30,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_baef34da961506c0b47c91bce82def30,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_baef34da961506c0b47c91bce82def30,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_baef34da961506c0b47c91bce82def30,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3905affbb60ca27896f398f8c073b180,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_3905affbb60ca27896f398f8c073b180,gepys,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_3905affbb60ca27896f398f8c073b180,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3905affbb60ca27896f398f8c073b180,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba3a3082fa2171fee80df04e45391bd0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_ba3a3082fa2171fee80df04e45391bd0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_ba3a3082fa2171fee80df04e45391bd0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba3a3082fa2171fee80df04e45391bd0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3386dda9cc566cb6c94e8484b2c40410,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3386dda9cc566cb6c94e8484b2c40410,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_3386dda9cc566cb6c94e8484b2c40410,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3386dda9cc566cb6c94e8484b2c40410,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b84941030e8a591ca9ad0b45feb4deb0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b84941030e8a591ca9ad0b45feb4deb0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b84941030e8a591ca9ad0b45feb4deb0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b84941030e8a591ca9ad0b45feb4deb0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb3226a718c93943ab837f7a183da7cb,gepys,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_bb3226a718c93943ab837f7a183da7cb,gepys,United States,2013,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bb3226a718c93943ab837f7a183da7cb,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb3226a718c93943ab837f7a183da7cb,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb7a389fd8fd7c636c5a986addabfd80,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bb7a389fd8fd7c636c5a986addabfd80,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_bb7a389fd8fd7c636c5a986addabfd80,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb7a389fd8fd7c636c5a986addabfd80,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdf9e4bc8f4d24f129483e379c911db0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_bdf9e4bc8f4d24f129483e379c911db0,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_bdf9e4bc8f4d24f129483e379c911db0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bdf9e4bc8f4d24f129483e379c911db0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b863a525228f2248949b32b644fe4fd0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b863a525228f2248949b32b644fe4fd0,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_b863a525228f2248949b32b644fe4fd0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b863a525228f2248949b32b644fe4fd0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_78d099e24d990fd67dab5dc9e7b376f0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_78d099e24d990fd67dab5dc9e7b376f0,gepys,United States,2014,-84.388,US,USA,184.51.150.8,33.749,0
+Redmond,VirusShare_78d099e24d990fd67dab5dc9e7b376f0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_78d099e24d990fd67dab5dc9e7b376f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_320ac5084e9197c3a7a3e80218505720,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_320ac5084e9197c3a7a3e80218505720,gepys,United States,2014,-84.388,US,USA,23.73.181.59,33.749,0
+Redmond,VirusShare_320ac5084e9197c3a7a3e80218505720,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_320ac5084e9197c3a7a3e80218505720,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba2c85565104d992b7dc3e7970adbdd0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba2c85565104d992b7dc3e7970adbdd0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_ba2c85565104d992b7dc3e7970adbdd0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_ba2c85565104d992b7dc3e7970adbdd0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db6630028832a948498275e7c3095fb0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bbc62c99a248e088334342f58d92ff90,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_bbc62c99a248e088334342f58d92ff90,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bbc62c99a248e088334342f58d92ff90,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bbc62c99a248e088334342f58d92ff90,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_70235deef1d72a24489d809f2c2be7f0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_70235deef1d72a24489d809f2c2be7f0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_70235deef1d72a24489d809f2c2be7f0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_70235deef1d72a24489d809f2c2be7f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8ef56f20f14f0e91d518f78d06f8600,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8ef56f20f14f0e91d518f78d06f8600,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8ef56f20f14f0e91d518f78d06f8600,gepys,United States,2015,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b8ef56f20f14f0e91d518f78d06f8600,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dbf21b5550e78e3abbba764ac55d2ef0,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e03311d9b2985e0ea35e6f854bc5db80,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_e03311d9b2985e0ea35e6f854bc5db80,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_e03311d9b2985e0ea35e6f854bc5db80,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e03311d9b2985e0ea35e6f854bc5db80,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba2d0e7be8af7c95914fe713e2b72a70,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_ba2d0e7be8af7c95914fe713e2b72a70,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_ba2d0e7be8af7c95914fe713e2b72a70,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba2d0e7be8af7c95914fe713e2b72a70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7a2312d49f4a9439e510257bbe476050,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_7a2312d49f4a9439e510257bbe476050,gepys,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Redmond,VirusShare_7a2312d49f4a9439e510257bbe476050,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7a2312d49f4a9439e510257bbe476050,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6f8fcb88ec7c51c440a3c687135d2a0,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b6f8fcb88ec7c51c440a3c687135d2a0,gepys,United States,2015,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b6f8fcb88ec7c51c440a3c687135d2a0,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6f8fcb88ec7c51c440a3c687135d2a0,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_db7b6354b87d39663c772cb18c16da20,gepys,United States,2014,-96.797,US,USA,23.67.253.171,32.7767,0
+Redmond,VirusShare_db7b6354b87d39663c772cb18c16da20,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db7b6354b87d39663c772cb18c16da20,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6b89a6a11e96ecfa64acda37955f3e0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b6b89a6a11e96ecfa64acda37955f3e0,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_b6b89a6a11e96ecfa64acda37955f3e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6b89a6a11e96ecfa64acda37955f3e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_39a83f90238e7809ae48a6558c96cdc0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_39a83f90238e7809ae48a6558c96cdc0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_39a83f90238e7809ae48a6558c96cdc0,gepys,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_39a83f90238e7809ae48a6558c96cdc0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb739a481ffad65b6128dbdde3d31e00,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb739a481ffad65b6128dbdde3d31e00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba8788500f608161993f3c0296f764e0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba8788500f608161993f3c0296f764e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba8788500f608161993f3c0296f764e0,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_ba8788500f608161993f3c0296f764e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8e497568825a79981fb72daf9449f90,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8e497568825a79981fb72daf9449f90,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8e497568825a79981fb72daf9449f90,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b8e497568825a79981fb72daf9449f90,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7bc3a7773ef9a7ae5ea02627082f14a0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7bc3a7773ef9a7ae5ea02627082f14a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7bc3a7773ef9a7ae5ea02627082f14a0,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_7bc3a7773ef9a7ae5ea02627082f14a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b82ac1f87bf1e6f5b145d86b53bd5f70,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b82ac1f87bf1e6f5b145d86b53bd5f70,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b82ac1f87bf1e6f5b145d86b53bd5f70,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b82ac1f87bf1e6f5b145d86b53bd5f70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba89f96d6c1186478986ab36e96bbf00,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba89f96d6c1186478986ab36e96bbf00,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba89f96d6c1186478986ab36e96bbf00,gepys,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_ba89f96d6c1186478986ab36e96bbf00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8b196f8297c3fe2ad17412e48875060,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8b196f8297c3fe2ad17412e48875060,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8b196f8297c3fe2ad17412e48875060,gepys,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b8b196f8297c3fe2ad17412e48875060,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba19fe05b2b16cc12c71b89788150bb0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_ba19fe05b2b16cc12c71b89788150bb0,gepys,United States,2014,-84.388,US,USA,184.51.150.57,33.749,0
+Redmond,VirusShare_ba19fe05b2b16cc12c71b89788150bb0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba19fe05b2b16cc12c71b89788150bb0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb8d29375077af812a69319ee08a6d30,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb8d29375077af812a69319ee08a6d30,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb8d29375077af812a69319ee08a6d30,gepys,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_bb8d29375077af812a69319ee08a6d30,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb5256c4fe1adfa91d4005f809b13ab0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_bb5256c4fe1adfa91d4005f809b13ab0,gepys,United States,2014,-84.388,US,USA,184.51.150.57,33.749,0
+Redmond,VirusShare_bb5256c4fe1adfa91d4005f809b13ab0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb5256c4fe1adfa91d4005f809b13ab0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e3934585ba28bee595361144fa541dd0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e3934585ba28bee595361144fa541dd0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e3934585ba28bee595361144fa541dd0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6b04c0bc1378de717219fe9aebc99d0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b6b04c0bc1378de717219fe9aebc99d0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b6b04c0bc1378de717219fe9aebc99d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6b04c0bc1378de717219fe9aebc99d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b223a45cc4036c128d08ac41b29b00f0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b223a45cc4036c128d08ac41b29b00f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b65236196666b5350cd0e639a58812a0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b65236196666b5350cd0e639a58812a0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b65236196666b5350cd0e639a58812a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b65236196666b5350cd0e639a58812a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4d9f0d83481e218b1b1d9f3fa638b10,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b4d9f0d83481e218b1b1d9f3fa638b10,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b4d9f0d83481e218b1b1d9f3fa638b10,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4d9f0d83481e218b1b1d9f3fa638b10,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_76a83e7e8080d92fb84eff2ad60e8d20,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_76a83e7e8080d92fb84eff2ad60e8d20,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_76a83e7e8080d92fb84eff2ad60e8d20,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_76a83e7e8080d92fb84eff2ad60e8d20,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4dd2d4b61cbca993a5f62e631940b80,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4dd2d4b61cbca993a5f62e631940b80,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b4dd2d4b61cbca993a5f62e631940b80,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4dd2d4b61cbca993a5f62e631940b80,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b47d646f884d3f77f8bd02675f431bf0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b47d646f884d3f77f8bd02675f431bf0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b47d646f884d3f77f8bd02675f431bf0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b47d646f884d3f77f8bd02675f431bf0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b347cf696434d94ee36a1d49ffc77160,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b347cf696434d94ee36a1d49ffc77160,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b347cf696434d94ee36a1d49ffc77160,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b347cf696434d94ee36a1d49ffc77160,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be2a3de3e232504fed68614115c196c0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_be2a3de3e232504fed68614115c196c0,gepys,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_be2a3de3e232504fed68614115c196c0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be2a3de3e232504fed68614115c196c0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b30e56cb586fe8030f679b7b9a3078e0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b30e56cb586fe8030f679b7b9a3078e0,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b30e56cb586fe8030f679b7b9a3078e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b30e56cb586fe8030f679b7b9a3078e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b658d32f51563e71fb7831de314202e0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b658d32f51563e71fb7831de314202e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Atlanta,VirusShare_b658d32f51563e71fb7831de314202e0,gepys,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Mountain View,VirusShare_b658d32f51563e71fb7831de314202e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_708ff3c5242e65fecaa7485546b61370,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_708ff3c5242e65fecaa7485546b61370,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_708ff3c5242e65fecaa7485546b61370,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_708ff3c5242e65fecaa7485546b61370,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b39ac6e6c20c89fcd6f0d3204d3f69a0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b39ac6e6c20c89fcd6f0d3204d3f69a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b39ac6e6c20c89fcd6f0d3204d3f69a0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b39ac6e6c20c89fcd6f0d3204d3f69a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b32df263465d34e0427ecee2f1ca0e10,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b32df263465d34e0427ecee2f1ca0e10,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b32df263465d34e0427ecee2f1ca0e10,gepys,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_b32df263465d34e0427ecee2f1ca0e10,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b47a735098f127d35f27fb2f5a82ced0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b47a735098f127d35f27fb2f5a82ced0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b47a735098f127d35f27fb2f5a82ced0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b47a735098f127d35f27fb2f5a82ced0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6f72e07f99d2a7d80300249d981d9f0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b6f72e07f99d2a7d80300249d981d9f0,gepys,United States,2014,-96.797,US,USA,23.72.136.171,32.7767,0
+Redmond,VirusShare_b6f72e07f99d2a7d80300249d981d9f0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6f72e07f99d2a7d80300249d981d9f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b376dbec12aa077d7443517308296390,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b376dbec12aa077d7443517308296390,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b376dbec12aa077d7443517308296390,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b376dbec12aa077d7443517308296390,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b462f7f851e5a953a21ca6b208f36c20,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b462f7f851e5a953a21ca6b208f36c20,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b462f7f851e5a953a21ca6b208f36c20,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_b462f7f851e5a953a21ca6b208f36c20,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_dc064d005a1964b7eef156e9c4355e40,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_dc064d005a1964b7eef156e9c4355e40,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_dc064d005a1964b7eef156e9c4355e40,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bbb949bba80947c95913f9b30ab181d0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_bbb949bba80947c95913f9b30ab181d0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bbb949bba80947c95913f9b30ab181d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bbb949bba80947c95913f9b30ab181d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4bdff4ffef7384a24294463415c84b0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4bdff4ffef7384a24294463415c84b0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b4bdff4ffef7384a24294463415c84b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4bdff4ffef7384a24294463415c84b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_330c880cd8f2c9fd0e627889db2bcb00,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_330c880cd8f2c9fd0e627889db2bcb00,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_330c880cd8f2c9fd0e627889db2bcb00,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_330c880cd8f2c9fd0e627889db2bcb00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_caeef8c44b1a292a5efc8f4bf019e220,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_caeef8c44b1a292a5efc8f4bf019e220,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4f68d9e6d4f06b6b5e838b64fbd93b0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b4f68d9e6d4f06b6b5e838b64fbd93b0,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b4f68d9e6d4f06b6b5e838b64fbd93b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4f68d9e6d4f06b6b5e838b64fbd93b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b455fae5dc30add1e85a4c6e4f95d550,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b455fae5dc30add1e85a4c6e4f95d550,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b455fae5dc30add1e85a4c6e4f95d550,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b455fae5dc30add1e85a4c6e4f95d550,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7c755a4df2ef904217538149feb6fcc0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7c755a4df2ef904217538149feb6fcc0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7c755a4df2ef904217538149feb6fcc0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_7c755a4df2ef904217538149feb6fcc0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4f3c97df94112dc87d3b144cbd090b0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4f3c97df94112dc87d3b144cbd090b0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b4f3c97df94112dc87d3b144cbd090b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4f3c97df94112dc87d3b144cbd090b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3c8f0d73c3a337f2d8ae92958d9e360,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3c8f0d73c3a337f2d8ae92958d9e360,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b3c8f0d73c3a337f2d8ae92958d9e360,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3c8f0d73c3a337f2d8ae92958d9e360,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_39ffed5d1569ed29d491e07073c1b850,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_39ffed5d1569ed29d491e07073c1b850,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_39ffed5d1569ed29d491e07073c1b850,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_39ffed5d1569ed29d491e07073c1b850,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b0ed8d394740f8c731dd9244a09a9dc0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b0ed8d394740f8c731dd9244a09a9dc0,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b0ed8d394740f8c731dd9244a09a9dc0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b0ed8d394740f8c731dd9244a09a9dc0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4b9548660d53681071b8241c35566a0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4b9548660d53681071b8241c35566a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4b9548660d53681071b8241c35566a0,gepys,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_b4b9548660d53681071b8241c35566a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b87ce8d51c30ea82e532a24e54f733a0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b87ce8d51c30ea82e532a24e54f733a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b87ce8d51c30ea82e532a24e54f733a0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b87ce8d51c30ea82e532a24e54f733a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b46a840e1dd11be470a33763f6b82f00,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b46a840e1dd11be470a33763f6b82f00,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b46a840e1dd11be470a33763f6b82f00,gepys,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b46a840e1dd11be470a33763f6b82f00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b420911dfddfeb7dd81379f2b0ddcde0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b420911dfddfeb7dd81379f2b0ddcde0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b420911dfddfeb7dd81379f2b0ddcde0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b420911dfddfeb7dd81379f2b0ddcde0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b61265666c26830083f37f83b3594920,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b61265666c26830083f37f83b3594920,gepys,United States,2015,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b61265666c26830083f37f83b3594920,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b61265666c26830083f37f83b3594920,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e026f2378473ed4900fa995eab8ca1b0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_e026f2378473ed4900fa995eab8ca1b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Atlanta,VirusShare_e026f2378473ed4900fa995eab8ca1b0,gepys,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Mountain View,VirusShare_e026f2378473ed4900fa995eab8ca1b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b66e36002603c132fc3f2ad63119c920,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b66e36002603c132fc3f2ad63119c920,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b66e36002603c132fc3f2ad63119c920,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b66e36002603c132fc3f2ad63119c920,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd606c7a47fee86d3b1a08db84520540,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bd606c7a47fee86d3b1a08db84520540,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bd606c7a47fee86d3b1a08db84520540,gepys,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_bd606c7a47fee86d3b1a08db84520540,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3c0dc2e730b1e49141c2e49b5446a60,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3c0dc2e730b1e49141c2e49b5446a60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b3c0dc2e730b1e49141c2e49b5446a60,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b3c0dc2e730b1e49141c2e49b5446a60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdfd101840da90ea33009e327e184b50,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bdfd101840da90ea33009e327e184b50,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bdfd101840da90ea33009e327e184b50,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bdfd101840da90ea33009e327e184b50,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db3d6deb47b23a06aa9d618c52fe4040,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_db3d6deb47b23a06aa9d618c52fe4040,gepys,United States,2015,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_db3d6deb47b23a06aa9d618c52fe4040,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b18169a84923006388c924075d494ca0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b18169a84923006388c924075d494ca0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b18169a84923006388c924075d494ca0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b18169a84923006388c924075d494ca0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_39e39ad83f37f9797c61386fb19b4bd0,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_39e39ad83f37f9797c61386fb19b4bd0,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_39e39ad83f37f9797c61386fb19b4bd0,gepys,United States,2015,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_39e39ad83f37f9797c61386fb19b4bd0,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7a00f280965b229df9182da58e3bea00,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7a00f280965b229df9182da58e3bea00,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7a00f280965b229df9182da58e3bea00,gepys,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_7a00f280965b229df9182da58e3bea00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1824c7cdaed7ef0de1c9429314adf00,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b1824c7cdaed7ef0de1c9429314adf00,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b1824c7cdaed7ef0de1c9429314adf00,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b1824c7cdaed7ef0de1c9429314adf00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b65448b888cd89ff7ae9d4b066969360,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b65448b888cd89ff7ae9d4b066969360,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b65448b888cd89ff7ae9d4b066969360,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b65448b888cd89ff7ae9d4b066969360,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dae6ffa305e89e0acef0119b28db7a70,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dae6ffa305e89e0acef0119b28db7a70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0a01f47223d3f45432e3c16c78e9970,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f0a01f47223d3f45432e3c16c78e9970,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f0a01f47223d3f45432e3c16c78e9970,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0a01f47223d3f45432e3c16c78e9970,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e39a990968363d9f304192dcaffd8100,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e39a990968363d9f304192dcaffd8100,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e39a990968363d9f304192dcaffd8100,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc762eead701930a240c2fc22632f350,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc762eead701930a240c2fc22632f350,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_774e1927e3617ae6505656288713f8a0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Mountain View,VirusShare_774e1927e3617ae6505656288713f8a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_774e1927e3617ae6505656288713f8a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_774e1927e3617ae6505656288713f8a0,gepys,United States,2014,-96.797,US,USA,23.72.136.130,32.7767,0
+Redmond,VirusShare_b897f2485cd62578fe5a217781e32e10,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b897f2485cd62578fe5a217781e32e10,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b897f2485cd62578fe5a217781e32e10,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b897f2485cd62578fe5a217781e32e10,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b472f86da68f08004865e8083a3299d0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b472f86da68f08004865e8083a3299d0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b472f86da68f08004865e8083a3299d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b472f86da68f08004865e8083a3299d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_36b58faa0b2d0ce038ffd6cb625ed750,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_36b58faa0b2d0ce038ffd6cb625ed750,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_36b58faa0b2d0ce038ffd6cb625ed750,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_36b58faa0b2d0ce038ffd6cb625ed750,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_bfd3ac4fe526c5c8182363adc6ea36a0,gepys,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_bfd3ac4fe526c5c8182363adc6ea36a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bfd3ac4fe526c5c8182363adc6ea36a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4b82e92c4d43980ed6c7a0d58214ea0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4b82e92c4d43980ed6c7a0d58214ea0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4b82e92c4d43980ed6c7a0d58214ea0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b4b82e92c4d43980ed6c7a0d58214ea0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_caa41be68f795200b12840e47d089830,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_caa41be68f795200b12840e47d089830,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3a8953cc2625df32d21ae68920eaa030,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3a8953cc2625df32d21ae68920eaa030,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_3a8953cc2625df32d21ae68920eaa030,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3a8953cc2625df32d21ae68920eaa030,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b197f2d55c3849d9f249f6c8675b4af0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b197f2d55c3849d9f249f6c8675b4af0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b197f2d55c3849d9f249f6c8675b4af0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b197f2d55c3849d9f249f6c8675b4af0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b31ec5fa0781d89917e354409cb14680,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b31ec5fa0781d89917e354409cb14680,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b31ec5fa0781d89917e354409cb14680,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b31ec5fa0781d89917e354409cb14680,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b44a8b800955396976a88d741cd4a160,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b44a8b800955396976a88d741cd4a160,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b44a8b800955396976a88d741cd4a160,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b44a8b800955396976a88d741cd4a160,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b18afba0380bdc58daba04330750af50,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b18afba0380bdc58daba04330750af50,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b18afba0380bdc58daba04330750af50,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b18afba0380bdc58daba04330750af50,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b423b4a986465f60200ec6a06c3904f4,gepys,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b423b4a986465f60200ec6a06c3904f4,gepys,United States,2013,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b423b4a986465f60200ec6a06c3904f4,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b423b4a986465f60200ec6a06c3904f4,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3a647ceaec0d1abf75068cbb4019ec0,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3a647ceaec0d1abf75068cbb4019ec0,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b3a647ceaec0d1abf75068cbb4019ec0,gepys,United States,2015,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_b3a647ceaec0d1abf75068cbb4019ec0,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4a71b47a8d9599ca1037f519e759ea0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b4a71b47a8d9599ca1037f519e759ea0,gepys,United States,2014,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_b4a71b47a8d9599ca1037f519e759ea0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4a71b47a8d9599ca1037f519e759ea0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baceab13a49b1655e12ebed9e966b8d0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_baceab13a49b1655e12ebed9e966b8d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_baceab13a49b1655e12ebed9e966b8d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0e40e7b8d60e397f4a0963675b0ecc0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e0e40e7b8d60e397f4a0963675b0ecc0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e0e40e7b8d60e397f4a0963675b0ecc0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e0e40e7b8d60e397f4a0963675b0ecc0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd16a49083e24dd048d921605adb1b80,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd16a49083e24dd048d921605adb1b80,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bd16a49083e24dd048d921605adb1b80,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd16a49083e24dd048d921605adb1b80,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7a5a8b811e72fef5fb60ce2ee9f492a0,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7a5a8b811e72fef5fb60ce2ee9f492a0,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Atlanta,VirusShare_7a5a8b811e72fef5fb60ce2ee9f492a0,gepys,United States,2015,-84.388,US,USA,23.72.137.81,33.749,0
+Mountain View,VirusShare_7a5a8b811e72fef5fb60ce2ee9f492a0,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e139089ccd352ec389461ba7669251f0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e139089ccd352ec389461ba7669251f0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e139089ccd352ec389461ba7669251f0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e139089ccd352ec389461ba7669251f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e295b3cd452a72e6090ea246288707d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e295b3cd452a72e6090ea246288707d0,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e295b3cd452a72e6090ea246288707d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_72c53c9506e4ce815e8ba16ed0fee370,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_72c53c9506e4ce815e8ba16ed0fee370,gepys,United States,2014,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_72c53c9506e4ce815e8ba16ed0fee370,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_72c53c9506e4ce815e8ba16ed0fee370,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_361aaf7721e981b145af753f0473a3e4,gepys,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_361aaf7721e981b145af753f0473a3e4,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_361aaf7721e981b145af753f0473a3e4,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_361aaf7721e981b145af753f0473a3e4,gepys,United States,2013,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_f0313d795ebbd2bf9b76c3cb7b1718e0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0313d795ebbd2bf9b76c3cb7b1718e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f0313d795ebbd2bf9b76c3cb7b1718e0,gepys,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_f0313d795ebbd2bf9b76c3cb7b1718e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba9169e1568096c938d09c8433b8c250,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba9169e1568096c938d09c8433b8c250,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba9169e1568096c938d09c8433b8c250,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_ba9169e1568096c938d09c8433b8c250,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e08b1a13998749a558dd4c0286d52080,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e08b1a13998749a558dd4c0286d52080,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e08b1a13998749a558dd4c0286d52080,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e08b1a13998749a558dd4c0286d52080,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4fc8f0c627651e4f0f9bcc0f129d074,gepys,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4fc8f0c627651e4f0f9bcc0f129d074,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4fc8f0c627651e4f0f9bcc0f129d074,gepys,United States,2013,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b4fc8f0c627651e4f0f9bcc0f129d074,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f109c3f68c55b98e7cb223203a696180,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f109c3f68c55b98e7cb223203a696180,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f109c3f68c55b98e7cb223203a696180,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f109c3f68c55b98e7cb223203a696180,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb6838287a1e8a84e364b0a5216dc220,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb6838287a1e8a84e364b0a5216dc220,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7437d5f568e4555e82d1fa801e4ea4d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7437d5f568e4555e82d1fa801e4ea4d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b167f28f46d9da052678febe08959ed0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b167f28f46d9da052678febe08959ed0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc14371476ca90e1b81fda4131a08120,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc14371476ca90e1b81fda4131a08120,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_ca9346922b72832a97132aae98561780,gepys,United States,2015,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_ca9346922b72832a97132aae98561780,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ca9346922b72832a97132aae98561780,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc59d4f33120aeef346fd3eb97a7d7b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc59d4f33120aeef346fd3eb97a7d7b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baeb96ec85ea6617d33c435185915ec0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_baeb96ec85ea6617d33c435185915ec0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_baeb96ec85ea6617d33c435185915ec0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_baeb96ec85ea6617d33c435185915ec0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b1a2ce83d3fd37570d39fc50f8e551d0,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b1a2ce83d3fd37570d39fc50f8e551d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1a2ce83d3fd37570d39fc50f8e551d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_77ca16d0ff360e39014db6fb2f01f520,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_77ca16d0ff360e39014db6fb2f01f520,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_77ca16d0ff360e39014db6fb2f01f520,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cc1bf28682f37ae8be4d5f560cf1ce80,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b2317b1d36fe5f37625aff3831bd04a0,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_b2317b1d36fe5f37625aff3831bd04a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b2317b1d36fe5f37625aff3831bd04a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_babef70e97c1ff4debd5bd226d47ddc0,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_babef70e97c1ff4debd5bd226d47ddc0,gepys,United States,2015,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_babef70e97c1ff4debd5bd226d47ddc0,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_babef70e97c1ff4debd5bd226d47ddc0,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b1aeab87d9feb2ec66cda11493b85c00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_74993936fe50d3e65bcb914913f32278,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b1f91edb8d2e7214fab6e353f2a28040,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db97baa3dbf3670378802a9fb9afeec0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db97baa3dbf3670378802a9fb9afeec0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1134628c17120e7b2904953a46e8070,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1134628c17120e7b2904953a46e8070,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e12569969fd878a985289e4c6120a4f0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e12569969fd878a985289e4c6120a4f0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e12569969fd878a985289e4c6120a4f0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e12569969fd878a985289e4c6120a4f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_f1bb2c0b488392db07324c286b53f2e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_f1bb2c0b488392db07324c286b53f2e0,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_f1bb2c0b488392db07324c286b53f2e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db849ee8fb9dfca47fda5d4f8dce2d70,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db849ee8fb9dfca47fda5d4f8dce2d70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_db849ee8fb9dfca47fda5d4f8dce2d70,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Dallas,VirusShare_ca7fb9f8881fd826f2c041f2dad91930,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_ca7fb9f8881fd826f2c041f2dad91930,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ca7fb9f8881fd826f2c041f2dad91930,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6b2277a81dd814dd424c53f6f06cb30,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_b6b2277a81dd814dd424c53f6f06cb30,gepys,United States,2015,-84.388,US,USA,23.73.181.59,33.749,0
+Redmond,VirusShare_b6b2277a81dd814dd424c53f6f06cb30,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6b2277a81dd814dd424c53f6f06cb30,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_cb3fdd125a86b3002764c014cb3b4d80,gepys,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_cb3fdd125a86b3002764c014cb3b4d80,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb3fdd125a86b3002764c014cb3b4d80,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8a63b79e97545dfa3a32636e7781b90,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8a63b79e97545dfa3a32636e7781b90,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8a63b79e97545dfa3a32636e7781b90,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b8a63b79e97545dfa3a32636e7781b90,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dbc449fe7eda9168abac5d74b68d3dd0,gepys,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb56a9ceb8153d05c89dbae1ba22c00b,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb56a9ceb8153d05c89dbae1ba22c00b,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_7addee37a740d317bdc730b078f485e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1d6c69561d83e9538403f74da78a850,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1d6c69561d83e9538403f74da78a850,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_e1d6c69561d83e9538403f74da78a850,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1d6c69561d83e9538403f74da78a850,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ca8cdd01326b1522007fe06b5ac461b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ca8cdd01326b1522007fe06b5ac461b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cbb5a23ec43970f600e98828d3d9e0b1,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bbf8854a1fd9d7c79df0efa4d0bfd6c0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bbf8854a1fd9d7c79df0efa4d0bfd6c0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bbf8854a1fd9d7c79df0efa4d0bfd6c0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bbf8854a1fd9d7c79df0efa4d0bfd6c0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf439677fc755399079666a9ac991310,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bf439677fc755399079666a9ac991310,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_bf439677fc755399079666a9ac991310,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbf2487dce2ea5893ccf775e43653a90,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cbf2487dce2ea5893ccf775e43653a90,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b823daaad0c74c336295dcab16466020,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b823daaad0c74c336295dcab16466020,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b823daaad0c74c336295dcab16466020,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b823daaad0c74c336295dcab16466020,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b17cbda215bb719032102dc6f41217b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba3fafe30adf810fa2c324b2d7025700,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_ba3fafe30adf810fa2c324b2d7025700,gepys,United States,2014,-84.388,US,USA,184.51.150.57,33.749,0
+Redmond,VirusShare_ba3fafe30adf810fa2c324b2d7025700,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba3fafe30adf810fa2c324b2d7025700,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_f1e3db7d35e0dbbaee0ad5845bb86f30,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_f1e3db7d35e0dbbaee0ad5845bb86f30,gepys,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_f1e3db7d35e0dbbaee0ad5845bb86f30,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2efe754beb0af8070a10b9669eadd2d,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e2efe754beb0af8070a10b9669eadd2d,gepys,United States,2013,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e2efe754beb0af8070a10b9669eadd2d,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_dc2d7511765a17a46c7c8680f3d7d0e0,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_dc2d7511765a17a46c7c8680f3d7d0e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc2d7511765a17a46c7c8680f3d7d0e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cb065766244541d97f84eae4153b17f0,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_cb065766244541d97f84eae4153b17f0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb065766244541d97f84eae4153b17f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2338eb744f61512aa0ee4a4b93dd754,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e2338eb744f61512aa0ee4a4b93dd754,gepys,United States,2013,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e2338eb744f61512aa0ee4a4b93dd754,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bfb92ac074b67b9be1167e49daaeb1f0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bfb92ac074b67b9be1167e49daaeb1f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f09cb8f79d9ac28177a5b153abdf7940,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f09cb8f79d9ac28177a5b153abdf7940,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f09cb8f79d9ac28177a5b153abdf7940,gepys,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_f09cb8f79d9ac28177a5b153abdf7940,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bac958e818d6b115c8af05c247a2e950,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bac958e818d6b115c8af05c247a2e950,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bac958e818d6b115c8af05c247a2e950,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_e20dcb5e419de0d6bd4059cfa5740bb0,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_e20dcb5e419de0d6bd4059cfa5740bb0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e20dcb5e419de0d6bd4059cfa5740bb0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f08092322cae2c05ed2b3a34859af430,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_f08092322cae2c05ed2b3a34859af430,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_f08092322cae2c05ed2b3a34859af430,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f08092322cae2c05ed2b3a34859af430,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f00609d9afe9f7e5e83082c0ff7b1b00,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f00609d9afe9f7e5e83082c0ff7b1b00,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f00609d9afe9f7e5e83082c0ff7b1b00,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f00609d9afe9f7e5e83082c0ff7b1b00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_e23fc9b9272cccc6697a8da56fcef4d0,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_e23fc9b9272cccc6697a8da56fcef4d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e23fc9b9272cccc6697a8da56fcef4d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cc2273ba5c3743285bf68a8c70c9b3f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3b439f41bd57d113175e4f0428882af0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_3b439f41bd57d113175e4f0428882af0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_3b439f41bd57d113175e4f0428882af0,gepys,France,2014,2.35222,FR,FRA,23.219.160.65,48.8566,0
+Mountain View,VirusShare_3b439f41bd57d113175e4f0428882af0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e001c5322694360139f83a158482af60,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_e001c5322694360139f83a158482af60,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_e001c5322694360139f83a158482af60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e001c5322694360139f83a158482af60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b1114f60e3791d10b9b4853c92b81630,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db03b7391942cad6994f784d098e34a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7916baddc8a749ba9eea7cd456408040,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7916baddc8a749ba9eea7cd456408040,gepys,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_7916baddc8a749ba9eea7cd456408040,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb425e5222df964fd4d985ebbb32b770,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb425e5222df964fd4d985ebbb32b770,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1c47d6cb2f7fb5b58616b8ce85a8d80,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1c47d6cb2f7fb5b58616b8ce85a8d80,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_e1c47d6cb2f7fb5b58616b8ce85a8d80,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1c47d6cb2f7fb5b58616b8ce85a8d80,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7a0bcb02ec4eddaa7465a12a352090e0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_7a0bcb02ec4eddaa7465a12a352090e0,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_7a0bcb02ec4eddaa7465a12a352090e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7a0bcb02ec4eddaa7465a12a352090e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f128f2f938c79318ff9b78c1ff4251b0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f128f2f938c79318ff9b78c1ff4251b0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f128f2f938c79318ff9b78c1ff4251b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f128f2f938c79318ff9b78c1ff4251b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f16a1d5393c59a1faabfb616ad1e8370,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f16a1d5393c59a1faabfb616ad1e8370,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f16a1d5393c59a1faabfb616ad1e8370,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc41ddf88bbc6d521c63323452376a10,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc41ddf88bbc6d521c63323452376a10,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_dc41ddf88bbc6d521c63323452376a10,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b4505c5993a050dada1c3d009b4255b0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4505c5993a050dada1c3d009b4255b0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b4505c5993a050dada1c3d009b4255b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4505c5993a050dada1c3d009b4255b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bbcf3a0f4aca0eee342f1f709bb85250,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_bbcf3a0f4aca0eee342f1f709bb85250,gepys,United States,2014,-84.388,US,USA,184.51.150.8,33.749,0
+Redmond,VirusShare_bbcf3a0f4aca0eee342f1f709bb85250,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bbcf3a0f4aca0eee342f1f709bb85250,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdbb7cb92fd877297bb8bfe384b4f970,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bdbb7cb92fd877297bb8bfe384b4f970,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bdbb7cb92fd877297bb8bfe384b4f970,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bdbb7cb92fd877297bb8bfe384b4f970,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf709817a072d4d3b9adb09123e298d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bf709817a072d4d3b9adb09123e298d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dbefcab3dcda0d51e1f9f0a4a82220f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc56763629ce27ebf0d78e5845e62630,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc56763629ce27ebf0d78e5845e62630,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2a127f17184626ce170d75a5d11d210,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e2a127f17184626ce170d75a5d11d210,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e2a127f17184626ce170d75a5d11d210,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b303bed9c112cbec24a9ff3fcc33f850,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b303bed9c112cbec24a9ff3fcc33f850,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b303bed9c112cbec24a9ff3fcc33f850,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b303bed9c112cbec24a9ff3fcc33f850,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_beacfbeddadef8f405d93a7b6b3f82a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_beacfbeddadef8f405d93a7b6b3f82a0,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_beacfbeddadef8f405d93a7b6b3f82a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_766b6e8aaa3836dff5a39a2861d28020,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_766b6e8aaa3836dff5a39a2861d28020,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_70567b1c89854e5954c00b27d88e47b0,gepys,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_70567b1c89854e5954c00b27d88e47b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_70567b1c89854e5954c00b27d88e47b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_caee01f5f35ea586bf7dd81560117ca0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_78176850ca5d6bb9387e8ee97e398680,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_78176850ca5d6bb9387e8ee97e398680,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_78176850ca5d6bb9387e8ee97e398680,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_78176850ca5d6bb9387e8ee97e398680,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1478de80820ba59348583bce1939410,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b1478de80820ba59348583bce1939410,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b1478de80820ba59348583bce1939410,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b1478de80820ba59348583bce1939410,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b45551f9daac1adfb8a39f782ccd014c,gepys,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b45551f9daac1adfb8a39f782ccd014c,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b45551f9daac1adfb8a39f782ccd014c,gepys,United States,2013,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_b45551f9daac1adfb8a39f782ccd014c,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bff1d00e8a464f19c2fc92b8d4f8b630,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_bff1d00e8a464f19c2fc92b8d4f8b630,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_bff1d00e8a464f19c2fc92b8d4f8b630,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be4eb55deceb39ccdfc4f6073ebd0710,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_be4eb55deceb39ccdfc4f6073ebd0710,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_be4eb55deceb39ccdfc4f6073ebd0710,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_be4eb55deceb39ccdfc4f6073ebd0710,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb54b795471c438b993e629bd0cf0560,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_bb54b795471c438b993e629bd0cf0560,gepys,United States,2014,-84.388,US,USA,184.51.150.57,33.749,0
+Redmond,VirusShare_bb54b795471c438b993e629bd0cf0560,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb54b795471c438b993e629bd0cf0560,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_3472d6ff2dc19e547565f8adcf346490,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_3472d6ff2dc19e547565f8adcf346490,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3472d6ff2dc19e547565f8adcf346490,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cb95fd911a8a1b08f603ffbe24b59720,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db234129b82911ff7c2e0f877076a250,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b891285193d572fb89e625ba2e335c00,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b891285193d572fb89e625ba2e335c00,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b891285193d572fb89e625ba2e335c00,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b891285193d572fb89e625ba2e335c00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b20d144823dbaeaf5f5a9a38b637da50,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd7f49cec0004de758acf428eac4d050,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd7f49cec0004de758acf428eac4d050,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_bd7f49cec0004de758acf428eac4d050,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd7f49cec0004de758acf428eac4d050,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b17304b41942b99bf45e82cffbe75730,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b17304b41942b99bf45e82cffbe75730,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db1d7483e47cdb3f6be05f90b182b3f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_e38a73b3de7d1226c76294a535315430,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_e38a73b3de7d1226c76294a535315430,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e38a73b3de7d1226c76294a535315430,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_caf262b330caba7047a3bf562b01c350,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8724a376d530ece2be39604c6581a80,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8724a376d530ece2be39604c6581a80,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8724a376d530ece2be39604c6581a80,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b8724a376d530ece2be39604c6581a80,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b25edbf3a0168cf849fbc5bc48b3d400,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b25edbf3a0168cf849fbc5bc48b3d400,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bec12b93c6b18de870ffc182f98294e0,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bec12b93c6b18de870ffc182f98294e0,gepys,United States,2013,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_bec12b93c6b18de870ffc182f98294e0,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3efef248fc8930bbd92aac8e48c04190,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_3efef248fc8930bbd92aac8e48c04190,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_3efef248fc8930bbd92aac8e48c04190,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_3efef248fc8930bbd92aac8e48c04190,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_753726afe61de5ecce9a4ed1741618c0,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_753726afe61de5ecce9a4ed1741618c0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_753726afe61de5ecce9a4ed1741618c0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0cde5c005c5b41cbc45fffe81fae730,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0cde5c005c5b41cbc45fffe81fae730,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0cde5c005c5b41cbc45fffe81fae730,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_f0cde5c005c5b41cbc45fffe81fae730,gepys,United States,2014,-96.797,US,USA,23.67.253.162,32.7767,0
+Redmond,VirusShare_b0e0d0b1f4400e750294b527dcbf9c60,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b0e0d0b1f4400e750294b527dcbf9c60,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b0e0d0b1f4400e750294b527dcbf9c60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b0e0d0b1f4400e750294b527dcbf9c60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b869e582b5d14b39aef9be582718c190,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b869e582b5d14b39aef9be582718c190,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b869e582b5d14b39aef9be582718c190,gepys,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_b869e582b5d14b39aef9be582718c190,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b451546cd2b783149d0d02e3e613ba90,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b451546cd2b783149d0d02e3e613ba90,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b451546cd2b783149d0d02e3e613ba90,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b451546cd2b783149d0d02e3e613ba90,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf40ddc9e808d6d105b3b2ab45b9b890,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bf40ddc9e808d6d105b3b2ab45b9b890,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bf40ddc9e808d6d105b3b2ab45b9b890,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1f6057ae0b7134d411131d1bfa068d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1f6057ae0b7134d411131d1bfa068d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b1f6057ae0b7134d411131d1bfa068d0,gepys,United States,2014,-96.797,US,USA,23.67.253.162,32.7767,0
+Redmond,VirusShare_bffe276e8ab798b042159a1691abe310,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bffe276e8ab798b042159a1691abe310,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_bffe276e8ab798b042159a1691abe310,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_bddbac1b5ed905e1bc6f258878dc61b0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bddbac1b5ed905e1bc6f258878dc61b0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_bddbac1b5ed905e1bc6f258878dc61b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bddbac1b5ed905e1bc6f258878dc61b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8b701f2c9064cd27cdbb76d9050b660,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8b701f2c9064cd27cdbb76d9050b660,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8b701f2c9064cd27cdbb76d9050b660,gepys,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b8b701f2c9064cd27cdbb76d9050b660,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b2391fd00b2762e39aafc0e4adb424d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b2391fd00b2762e39aafc0e4adb424d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b61ea5cf8cf46ca568a83439e72b78b0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b61ea5cf8cf46ca568a83439e72b78b0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b61ea5cf8cf46ca568a83439e72b78b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b61ea5cf8cf46ca568a83439e72b78b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e42d4e2813718a1303fbaae548858c40,gepys,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e42d4e2813718a1303fbaae548858c40,gepys,United States,2016,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e42d4e2813718a1303fbaae548858c40,gepys,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf0e07436659c7c311a266c24afa0d30,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_bf0e07436659c7c311a266c24afa0d30,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_bf0e07436659c7c311a266c24afa0d30,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf339272afbd9995a9218154d9938800,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_bf339272afbd9995a9218154d9938800,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_bf339272afbd9995a9218154d9938800,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8a0685776e04e7c7a7aa124ed330240,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8a0685776e04e7c7a7aa124ed330240,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8a0685776e04e7c7a7aa124ed330240,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b8a0685776e04e7c7a7aa124ed330240,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd0e5c61469d1ab82dd3978e9952b9e0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd0e5c61469d1ab82dd3978e9952b9e0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_bd0e5c61469d1ab82dd3978e9952b9e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd0e5c61469d1ab82dd3978e9952b9e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cc043c942778099ae0625a816751a700,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cc043c942778099ae0625a816751a700,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_cc043c942778099ae0625a816751a700,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_f1aed6f2e9d1a4085afcf865d5270d40,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f1aed6f2e9d1a4085afcf865d5270d40,gepys,United States,2015,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_f1aed6f2e9d1a4085afcf865d5270d40,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_babddb15f565866708789d9a43667720,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_babddb15f565866708789d9a43667720,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_babddb15f565866708789d9a43667720,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_babddb15f565866708789d9a43667720,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_bfd5fca3a8dad4c9a9b9636919a54960,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_bfd5fca3a8dad4c9a9b9636919a54960,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bfd5fca3a8dad4c9a9b9636919a54960,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e397609defd0e5a5b633a49fe8bbef70,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e397609defd0e5a5b633a49fe8bbef70,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e397609defd0e5a5b633a49fe8bbef70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1e3d909cc4cedb969a5394f43a65d20,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b1e3d909cc4cedb969a5394f43a65d20,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b1e3d909cc4cedb969a5394f43a65d20,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b1e3d909cc4cedb969a5394f43a65d20,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4a7b20c6477a5b4cc84e76a61760090,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4a7b20c6477a5b4cc84e76a61760090,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4a7b20c6477a5b4cc84e76a61760090,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b4a7b20c6477a5b4cc84e76a61760090,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_302efd07af4d362d9cea41c446c0a770,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_302efd07af4d362d9cea41c446c0a770,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_302efd07af4d362d9cea41c446c0a770,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd2282eae3b90ee6128521188cd79cc0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd2282eae3b90ee6128521188cd79cc0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bd2282eae3b90ee6128521188cd79cc0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd2282eae3b90ee6128521188cd79cc0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b13ccdb89de5ca9783e94869f20c5660,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b13ccdb89de5ca9783e94869f20c5660,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dbfa632dda1ab15eaa9c1091b7a26890,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dbfa632dda1ab15eaa9c1091b7a26890,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_792dc49b7de774ca899bcc7530b1a170,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_792dc49b7de774ca899bcc7530b1a170,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_792dc49b7de774ca899bcc7530b1a170,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_792dc49b7de774ca899bcc7530b1a170,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e387ab9d6dea970b4a26d3706549a770,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e387ab9d6dea970b4a26d3706549a770,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_74e223ce30045cdd79a41a1d6f7f6a70,gepys,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_74e223ce30045cdd79a41a1d6f7f6a70,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_74e223ce30045cdd79a41a1d6f7f6a70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0198316c0679e46e0b7830504f82250,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0198316c0679e46e0b7830504f82250,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f0198316c0679e46e0b7830504f82250,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f0198316c0679e46e0b7830504f82250,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_37e65076c2e1364ba8eeb7966d8a9130,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Chicago,VirusShare_37e65076c2e1364ba8eeb7966d8a9130,gepys,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_37e65076c2e1364ba8eeb7966d8a9130,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_37e65076c2e1364ba8eeb7966d8a9130,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2642f2f4bfaf458cd161e913d2a7f50,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e2642f2f4bfaf458cd161e913d2a7f50,gepys,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_e2642f2f4bfaf458cd161e913d2a7f50,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cac50e48956ae3285914b0237a21e3e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cac50e48956ae3285914b0237a21e3e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e05b3bde6d4ddcb0a55aadfbba838b30,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e05b3bde6d4ddcb0a55aadfbba838b30,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e05b3bde6d4ddcb0a55aadfbba838b30,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e05b3bde6d4ddcb0a55aadfbba838b30,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3286c56dbe1e5c76a00ad1bb85d743c0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3286c56dbe1e5c76a00ad1bb85d743c0,gepys,United States,2014,-77.0369,US,USA,23.2.17.179,38.9072,0
+Redmond,VirusShare_3286c56dbe1e5c76a00ad1bb85d743c0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3286c56dbe1e5c76a00ad1bb85d743c0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0ef761d58b764c99803d32e64dc4430,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f0ef761d58b764c99803d32e64dc4430,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f0ef761d58b764c99803d32e64dc4430,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0ef761d58b764c99803d32e64dc4430,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dc7e19ac301fff6b83b4381340174190,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd261ca92241d02c11c614f6c73e8e20,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_bd261ca92241d02c11c614f6c73e8e20,gepys,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_bd261ca92241d02c11c614f6c73e8e20,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd261ca92241d02c11c614f6c73e8e20,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_daded25609ec0cf4a3e93f65f403c470,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1a1b82ef1e74e1b54d839fb37245640,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1a1b82ef1e74e1b54d839fb37245640,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e1a1b82ef1e74e1b54d839fb37245640,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1a1b82ef1e74e1b54d839fb37245640,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e31361128f18596fde57d270c99992a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e31361128f18596fde57d270c99992a0,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e31361128f18596fde57d270c99992a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dad601aa433518f24a64754ea7d31ce0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dad601aa433518f24a64754ea7d31ce0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b65c05c0f735f76687619a335a6d25d0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Mountain View,VirusShare_b65c05c0f735f76687619a335a6d25d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b65c05c0f735f76687619a335a6d25d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b65c05c0f735f76687619a335a6d25d0,gepys,United States,2014,-96.797,US,USA,23.72.136.130,32.7767,0
+Redmond,VirusShare_cc0a8e654eb88104144f4b71b2d09d18,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cc0a8e654eb88104144f4b71b2d09d18,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_cc0a8e654eb88104144f4b71b2d09d18,gepys,United States,2013,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_f1466e92da3996f5f206cad35838f200,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f1466e92da3996f5f206cad35838f200,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f1466e92da3996f5f206cad35838f200,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f1466e92da3996f5f206cad35838f200,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b21a2ba1fd633d21ca360467cbd2f720,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b21a2ba1fd633d21ca360467cbd2f720,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b21a2ba1fd633d21ca360467cbd2f720,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_70162822e6d6d82d683c78dce82ee470,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_70162822e6d6d82d683c78dce82ee470,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_70162822e6d6d82d683c78dce82ee470,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_70162822e6d6d82d683c78dce82ee470,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bbc562b20d6bcfde0d49af31135759b0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_bbc562b20d6bcfde0d49af31135759b0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bbc562b20d6bcfde0d49af31135759b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bbc562b20d6bcfde0d49af31135759b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3bf8792a80ee4784bd15d9b82e4cc060,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3bf8792a80ee4784bd15d9b82e4cc060,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_3bf8792a80ee4784bd15d9b82e4cc060,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3bf8792a80ee4784bd15d9b82e4cc060,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e369d53b17137792d996b7aeb3290d90,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e369d53b17137792d996b7aeb3290d90,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e369d53b17137792d996b7aeb3290d90,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_362b1f5ec07ba0a0e8ae46b263c48600,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_362b1f5ec07ba0a0e8ae46b263c48600,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_362b1f5ec07ba0a0e8ae46b263c48600,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_362b1f5ec07ba0a0e8ae46b263c48600,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_791f86f0b3bf189b753c20c2d2b1d3e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_791f86f0b3bf189b753c20c2d2b1d3e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_791f86f0b3bf189b753c20c2d2b1d3e0,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Dallas,VirusShare_71b77c8bdeabb39e55069e908ea65e80,gepys,United States,2014,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_71b77c8bdeabb39e55069e908ea65e80,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_71b77c8bdeabb39e55069e908ea65e80,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_71b77c8bdeabb39e55069e908ea65e80,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dc9660cd21046b1209dfd3d80c056480,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0cee9b362bf847c727ac98d5c308950,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0cee9b362bf847c727ac98d5c308950,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_f0cee9b362bf847c727ac98d5c308950,gepys,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_f0cee9b362bf847c727ac98d5c308950,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dae10dec107e6e4deca8eeab0a07aae0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be1c37b948e026fa6e99b7d0e7861e50,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_be1c37b948e026fa6e99b7d0e7861e50,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_be1c37b948e026fa6e99b7d0e7861e50,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_be1c37b948e026fa6e99b7d0e7861e50,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbaf14f5f3e29c3b7c2ba4cdfae94c30,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cbaf14f5f3e29c3b7c2ba4cdfae94c30,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_cbaf14f5f3e29c3b7c2ba4cdfae94c30,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_763f421c316fdf8d1a09b4a7c73d8510,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_763f421c316fdf8d1a09b4a7c73d8510,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_763f421c316fdf8d1a09b4a7c73d8510,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_e350b8f69bb8a003accb9a8c20408d70,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e350b8f69bb8a003accb9a8c20408d70,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e350b8f69bb8a003accb9a8c20408d70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc2729c622192d357e6fd3e845ab7b30,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc2729c622192d357e6fd3e845ab7b30,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf0ac4ab1e8d6eb9260100c4aeaed350,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bf0ac4ab1e8d6eb9260100c4aeaed350,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_bf0ac4ab1e8d6eb9260100c4aeaed350,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc232c5734a883f878f87a0f9a91dc90,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc232c5734a883f878f87a0f9a91dc90,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb18e3747f3a593462b61851cbe64120,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bb18e3747f3a593462b61851cbe64120,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_bb18e3747f3a593462b61851cbe64120,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb18e3747f3a593462b61851cbe64120,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cac39fa1d295b6a925685572d41d31e0,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_cac39fa1d295b6a925685572d41d31e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cac39fa1d295b6a925685572d41d31e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7af192982f0c8ebd4be4213d53b2f7c0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7af192982f0c8ebd4be4213d53b2f7c0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7af192982f0c8ebd4be4213d53b2f7c0,gepys,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_7af192982f0c8ebd4be4213d53b2f7c0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dae33a6dcd0bb798d277292e3e547100,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dae33a6dcd0bb798d277292e3e547100,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_30b915a11d5eb137d9df97ffeccc7b90,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_30b915a11d5eb137d9df97ffeccc7b90,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_30b915a11d5eb137d9df97ffeccc7b90,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Dallas,VirusShare_e3f1fa650bc64a574f3d557fc1bd6f60,gepys,United States,2014,-96.797,US,USA,23.67.253.171,32.7767,0
+Redmond,VirusShare_e3f1fa650bc64a574f3d557fc1bd6f60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e3f1fa650bc64a574f3d557fc1bd6f60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_727ca63d7d69748e97d6a2ff5e7259a1,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_727ca63d7d69748e97d6a2ff5e7259a1,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_727ca63d7d69748e97d6a2ff5e7259a1,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_727ca63d7d69748e97d6a2ff5e7259a1,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1881ee396119215405715be23af1c10,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b1881ee396119215405715be23af1c10,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b1881ee396119215405715be23af1c10,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1881ee396119215405715be23af1c10,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd83bcf92e0db961b4f2d1e1ee498aa0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd83bcf92e0db961b4f2d1e1ee498aa0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_bd83bcf92e0db961b4f2d1e1ee498aa0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd83bcf92e0db961b4f2d1e1ee498aa0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4156f4fdc918bb18a34d73e50f62c40,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4156f4fdc918bb18a34d73e50f62c40,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b4156f4fdc918bb18a34d73e50f62c40,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4156f4fdc918bb18a34d73e50f62c40,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f098071159376c82ff584234156dc610,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f098071159376c82ff584234156dc610,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f098071159376c82ff584234156dc610,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f098071159376c82ff584234156dc610,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_dc702364a29d517df6a0bd2239a41a90,gepys,United States,2015,-96.797,US,USA,23.67.253.171,32.7767,0
+Redmond,VirusShare_dc702364a29d517df6a0bd2239a41a90,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc702364a29d517df6a0bd2239a41a90,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4ba4742b4baeedda692698eb10634d0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4ba4742b4baeedda692698eb10634d0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b4ba4742b4baeedda692698eb10634d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4ba4742b4baeedda692698eb10634d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e4484d1a53c238919f9476a684d42133,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e4484d1a53c238919f9476a684d42133,gepys,United States,2013,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e4484d1a53c238919f9476a684d42133,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b653a53e2e5ba25c1db08c6e52667a20,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b653a53e2e5ba25c1db08c6e52667a20,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b653a53e2e5ba25c1db08c6e52667a20,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b653a53e2e5ba25c1db08c6e52667a20,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_f05656a272122253634a8815346ca440,gepys,United States,2014,-84.388,US,USA,23.73.181.59,33.749,0
+Redmond,VirusShare_f05656a272122253634a8815346ca440,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Newark,VirusShare_f05656a272122253634a8815346ca440,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Mountain View,VirusShare_f05656a272122253634a8815346ca440,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db22a7d97f327d80e69e432801bd176c,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd8f42c588a153463ef7bc531fa56910,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd8f42c588a153463ef7bc531fa56910,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_bd8f42c588a153463ef7bc531fa56910,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd8f42c588a153463ef7bc531fa56910,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3aa2ba2e4c11be4ea8dc45c49a543c0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3aa2ba2e4c11be4ea8dc45c49a543c0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b3aa2ba2e4c11be4ea8dc45c49a543c0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b3aa2ba2e4c11be4ea8dc45c49a543c0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b0d636e684fb17aa2389ebfccbde3a20,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b0d636e684fb17aa2389ebfccbde3a20,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b0d636e684fb17aa2389ebfccbde3a20,gepys,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b0d636e684fb17aa2389ebfccbde3a20,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8f8c9b88a35f7263376619ca8ffae60,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b8f8c9b88a35f7263376619ca8ffae60,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b8f8c9b88a35f7263376619ca8ffae60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b8f8c9b88a35f7263376619ca8ffae60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_75ce8a98219d2a729d14770761369be0,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_75ce8a98219d2a729d14770761369be0,gepys,United States,2015,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_75ce8a98219d2a729d14770761369be0,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc83a91138153ffdf710de285b986770,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc83a91138153ffdf710de285b986770,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dbaa0914e58d7465010dc6ca4e676120,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dbaa0914e58d7465010dc6ca4e676120,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cab95f1b053132d6c76a8f8ba5fac340,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cab95f1b053132d6c76a8f8ba5fac340,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_74eb3ec939b0f1448c06b55901e5d4c0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db15826a650f1a817aab89288fff45e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_744146d07c600bcfd237659da0a60bf0,gepys,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_744146d07c600bcfd237659da0a60bf0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_744146d07c600bcfd237659da0a60bf0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e19e25bf1631a05feb530d2072d35190,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e19e25bf1631a05feb530d2072d35190,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e19e25bf1631a05feb530d2072d35190,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e19e25bf1631a05feb530d2072d35190,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_39381f6022ba6a7e4904ab3f34941c20,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_39381f6022ba6a7e4904ab3f34941c20,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_39381f6022ba6a7e4904ab3f34941c20,gepys,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_39381f6022ba6a7e4904ab3f34941c20,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc028db30de5f94e1c834c68c0018c60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc028db30de5f94e1c834c68c0018c60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_dc028db30de5f94e1c834c68c0018c60,gepys,United States,2014,-96.797,US,USA,23.67.253.162,32.7767,0
+Newark,VirusShare_be36dbaf26ad6e62aef58d66578df300,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be36dbaf26ad6e62aef58d66578df300,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_be36dbaf26ad6e62aef58d66578df300,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be36dbaf26ad6e62aef58d66578df300,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f02acd55d01a5d4b0f7d29d583750660,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_f02acd55d01a5d4b0f7d29d583750660,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_f02acd55d01a5d4b0f7d29d583750660,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f02acd55d01a5d4b0f7d29d583750660,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cc28ed174e035e0063ad56be7871df60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_cac0f23f27b28438df5e015c10f79e2f,gepys,United States,2013,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_cac0f23f27b28438df5e015c10f79e2f,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cac0f23f27b28438df5e015c10f79e2f,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cafba59f69c13c7f0fcdefd25f93f810,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_cafba59f69c13c7f0fcdefd25f93f810,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cafba59f69c13c7f0fcdefd25f93f810,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6ffa32916c4a4ed4eaeec4253deb4b0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b6ffa32916c4a4ed4eaeec4253deb4b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b6ffa32916c4a4ed4eaeec4253deb4b0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b6ffa32916c4a4ed4eaeec4253deb4b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0691cc2e6a7b239e867407a5288ca80,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0691cc2e6a7b239e867407a5288ca80,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f0691cc2e6a7b239e867407a5288ca80,gepys,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_f0691cc2e6a7b239e867407a5288ca80,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb6197e70e99f681e09619d2f35ce520,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb6197e70e99f681e09619d2f35ce520,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb11b03f7093edd5510334d341ca0f40,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb11b03f7093edd5510334d341ca0f40,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_cb11b03f7093edd5510334d341ca0f40,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Mountain View,VirusShare_736d756d5479fa2582f954cd50b63f70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_352424b86b521cc1a7f51b570f7a79b0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_352424b86b521cc1a7f51b570f7a79b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_352424b86b521cc1a7f51b570f7a79b0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_352424b86b521cc1a7f51b570f7a79b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dbc5f34a6d6e135df94ad23a9a4d3f40,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_dbc5f34a6d6e135df94ad23a9a4d3f40,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_dbc5f34a6d6e135df94ad23a9a4d3f40,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e01b46354f49eaa21d8ff4bff30f1c30,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_e01b46354f49eaa21d8ff4bff30f1c30,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_e01b46354f49eaa21d8ff4bff30f1c30,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e01b46354f49eaa21d8ff4bff30f1c30,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_daf3aac6bfa0510a3bd844c209bc0d90,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_daf3aac6bfa0510a3bd844c209bc0d90,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_daf3aac6bfa0510a3bd844c209bc0d90,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_bf11ec260ff69fbf48f01171e0bfb200,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bf11ec260ff69fbf48f01171e0bfb200,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bf11ec260ff69fbf48f01171e0bfb200,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cabac21f426c7155b96a5b6e918fef50,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_cabac21f426c7155b96a5b6e918fef50,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cabac21f426c7155b96a5b6e918fef50,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3392a50b5fe31a72f52db4c18380e00,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3392a50b5fe31a72f52db4c18380e00,gepys,United States,2015,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b3392a50b5fe31a72f52db4c18380e00,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3392a50b5fe31a72f52db4c18380e00,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8268127b657ce3278d0c548d496baa0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8268127b657ce3278d0c548d496baa0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b8268127b657ce3278d0c548d496baa0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b8268127b657ce3278d0c548d496baa0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b83e3aa8ec4f8b0e486f3f46887d8b20,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b83e3aa8ec4f8b0e486f3f46887d8b20,gepys,United States,2015,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_b83e3aa8ec4f8b0e486f3f46887d8b20,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b83e3aa8ec4f8b0e486f3f46887d8b20,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_74ffe2239727700452fb3ffd87920710,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_74ffe2239727700452fb3ffd87920710,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_74ffe2239727700452fb3ffd87920710,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_74ffe2239727700452fb3ffd87920710,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3722f89f367e77aebf67820ccc243f0,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3722f89f367e77aebf67820ccc243f0,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b3722f89f367e77aebf67820ccc243f0,gepys,United States,2015,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b3722f89f367e77aebf67820ccc243f0,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbe48425e62e7ce0216c8c2430a13d30,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_cbe48425e62e7ce0216c8c2430a13d30,gepys,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_cbe48425e62e7ce0216c8c2430a13d30,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbec7c9b5fc125985e101c4b1958ebd0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cbec7c9b5fc125985e101c4b1958ebd0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7ae752278e32bc56ea77a05c5377ccd0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7ae752278e32bc56ea77a05c5377ccd0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_7ae752278e32bc56ea77a05c5377ccd0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7ae752278e32bc56ea77a05c5377ccd0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_762995ad15968d1b04cc1aa8aade3820,gepys,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_762995ad15968d1b04cc1aa8aade3820,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_762995ad15968d1b04cc1aa8aade3820,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e08337fe6fc1924a901c187290b71610,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e08337fe6fc1924a901c187290b71610,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e08337fe6fc1924a901c187290b71610,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e08337fe6fc1924a901c187290b71610,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4ca0c616b63b24e477f181c69997180,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b4ca0c616b63b24e477f181c69997180,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b4ca0c616b63b24e477f181c69997180,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4ca0c616b63b24e477f181c69997180,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_71b78a55cd3a05358a9759d3606b23f0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_71b78a55cd3a05358a9759d3606b23f0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_71b78a55cd3a05358a9759d3606b23f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e053ef1cf078180b91524099e54261e0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e053ef1cf078180b91524099e54261e0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e053ef1cf078180b91524099e54261e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e053ef1cf078180b91524099e54261e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbc591cff8902d5a66774111d7538cc7,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cbc591cff8902d5a66774111d7538cc7,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f109e17350810cec77ce0da4c1d32030,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f109e17350810cec77ce0da4c1d32030,gepys,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_f109e17350810cec77ce0da4c1d32030,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f109e17350810cec77ce0da4c1d32030,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba21715f8cf4624876316a592752db60,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_ba21715f8cf4624876316a592752db60,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_ba21715f8cf4624876316a592752db60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba21715f8cf4624876316a592752db60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e07e160f73811d1759ee220e7d3aa2a0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e07e160f73811d1759ee220e7d3aa2a0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e07e160f73811d1759ee220e7d3aa2a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e07e160f73811d1759ee220e7d3aa2a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1f8b14c32ee4d1109150e59c297d8d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1f8b14c32ee4d1109150e59c297d8d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_b1f8b14c32ee4d1109150e59c297d8d0,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_f138283e160e6f412f301cc489c49f50,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f138283e160e6f412f301cc489c49f50,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f138283e160e6f412f301cc489c49f50,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_f138283e160e6f412f301cc489c49f50,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be3bce6b740acf7b3929e0e3b52b5930,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_be3bce6b740acf7b3929e0e3b52b5930,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_be3bce6b740acf7b3929e0e3b52b5930,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_be3bce6b740acf7b3929e0e3b52b5930,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e15f2e1a336de3abb45270e3593bbe90,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_e15f2e1a336de3abb45270e3593bbe90,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_e15f2e1a336de3abb45270e3593bbe90,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e15f2e1a336de3abb45270e3593bbe90,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b1d3c2232ccb28cb9ecdac25ea70d440,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1dc63720683a9f66cc39fd80d00dd70,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1dc63720683a9f66cc39fd80d00dd70,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_e1dc63720683a9f66cc39fd80d00dd70,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1dc63720683a9f66cc39fd80d00dd70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc96cecce2130c5a05aa14a3625959d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_dc96cecce2130c5a05aa14a3625959d0,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_dc96cecce2130c5a05aa14a3625959d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1808c66dc0c805cc7503ea862dfb890,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e1808c66dc0c805cc7503ea862dfb890,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e1808c66dc0c805cc7503ea862dfb890,gepys,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_e1808c66dc0c805cc7503ea862dfb890,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7b95820ca1f9d35e3c3dbe25505a7a70,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_7b95820ca1f9d35e3c3dbe25505a7a70,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_7b95820ca1f9d35e3c3dbe25505a7a70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f1968e548e38bda213ba320e8f3d9a30,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f1968e548e38bda213ba320e8f3d9a30,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f1968e548e38bda213ba320e8f3d9a30,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f1968e548e38bda213ba320e8f3d9a30,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_f197dd3a361574ff0653fb72cab6ada0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Chicago,VirusShare_f197dd3a361574ff0653fb72cab6ada0,gepys,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_f197dd3a361574ff0653fb72cab6ada0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f197dd3a361574ff0653fb72cab6ada0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_dbc0fd664b0a71f579a68b9f8c917eb0,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_dbc0fd664b0a71f579a68b9f8c917eb0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dbc0fd664b0a71f579a68b9f8c917eb0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_beed3ad3d540c037b42299ad9b45b640,gepys,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_beed3ad3d540c037b42299ad9b45b640,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_beed3ad3d540c037b42299ad9b45b640,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_f170dc7c2d5b1b4d666dae3b8bc80a10,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Chicago,VirusShare_f170dc7c2d5b1b4d666dae3b8bc80a10,gepys,United States,2015,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_f170dc7c2d5b1b4d666dae3b8bc80a10,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f170dc7c2d5b1b4d666dae3b8bc80a10,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f042f53fb3e405eeb97c64131e45a040,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f042f53fb3e405eeb97c64131e45a040,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f042f53fb3e405eeb97c64131e45a040,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f042f53fb3e405eeb97c64131e45a040,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_7b7e2d7f23ddd63e2468059b21a4fe10,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_7b7e2d7f23ddd63e2468059b21a4fe10,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_7b7e2d7f23ddd63e2468059b21a4fe10,gepys,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_7b7e2d7f23ddd63e2468059b21a4fe10,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e16510003439c218f35c1415925b2f10,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e16510003439c218f35c1415925b2f10,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e16510003439c218f35c1415925b2f10,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e16510003439c218f35c1415925b2f10,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0e1839ee19554ce76f280c2afa494e0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f0e1839ee19554ce76f280c2afa494e0,gepys,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_f0e1839ee19554ce76f280c2afa494e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0e1839ee19554ce76f280c2afa494e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e166fc2138510375b311b8d906c0f8e0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e166fc2138510375b311b8d906c0f8e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_e166fc2138510375b311b8d906c0f8e0,gepys,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_e166fc2138510375b311b8d906c0f8e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdee1c19c1fe253466019c70c9d81470,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_bdee1c19c1fe253466019c70c9d81470,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_bdee1c19c1fe253466019c70c9d81470,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bdee1c19c1fe253466019c70c9d81470,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_77b6f1e2da3045f79c8a239361dd6f60,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_77b6f1e2da3045f79c8a239361dd6f60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_77b6f1e2da3045f79c8a239361dd6f60,gepys,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_77b6f1e2da3045f79c8a239361dd6f60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_be87f777fb2d99984c804bf4e4cb4570,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_be87f777fb2d99984c804bf4e4cb4570,gepys,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_be87f777fb2d99984c804bf4e4cb4570,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_caa85b5bfc25732c2c9148aefa0e7330,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0ae7d605cabba12f2b8a7ea3afdd980,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_f0ae7d605cabba12f2b8a7ea3afdd980,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_f0ae7d605cabba12f2b8a7ea3afdd980,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0ae7d605cabba12f2b8a7ea3afdd980,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3dcee80305e75fd9111fffc581107de0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_3dcee80305e75fd9111fffc581107de0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3dcee80305e75fd9111fffc581107de0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_3dcee80305e75fd9111fffc581107de0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb4338945ef4f17cfdaada4e0ea4add0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb4338945ef4f17cfdaada4e0ea4add0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bb4338945ef4f17cfdaada4e0ea4add0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bb4338945ef4f17cfdaada4e0ea4add0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bbd4159699c73468139c9ae3110cfe90,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bbd4159699c73468139c9ae3110cfe90,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bbd4159699c73468139c9ae3110cfe90,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bbd4159699c73468139c9ae3110cfe90,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b47ab080d5cdc3d7ad692b9af9389580,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b47ab080d5cdc3d7ad692b9af9389580,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b47ab080d5cdc3d7ad692b9af9389580,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b47ab080d5cdc3d7ad692b9af9389580,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1ca00c42e5c858527087c67490afda0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1ca00c42e5c858527087c67490afda0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e1ca00c42e5c858527087c67490afda0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1ca00c42e5c858527087c67490afda0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba58adccfff75f6e6e125465a1ad7e70,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba58adccfff75f6e6e125465a1ad7e70,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba58adccfff75f6e6e125465a1ad7e70,gepys,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_ba58adccfff75f6e6e125465a1ad7e70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be27f56730d467e80977d4a6b19898f0,gepys,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be27f56730d467e80977d4a6b19898f0,gepys,United States,2016,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_be27f56730d467e80977d4a6b19898f0,gepys,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be27f56730d467e80977d4a6b19898f0,gepys,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd1051c81b402b1bc75fc5b1a7dca1b0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd1051c81b402b1bc75fc5b1a7dca1b0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bd1051c81b402b1bc75fc5b1a7dca1b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd1051c81b402b1bc75fc5b1a7dca1b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e1e99b9c7d19bafcd32bc25d3975d0f0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_e1e99b9c7d19bafcd32bc25d3975d0f0,gepys,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_e1e99b9c7d19bafcd32bc25d3975d0f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3e9cb8875002688aaa804abfd35ce8b0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3e9cb8875002688aaa804abfd35ce8b0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_3e9cb8875002688aaa804abfd35ce8b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3e9cb8875002688aaa804abfd35ce8b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b221b59fe78f86da77b54a3047b388f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baf601e3d2929083afb4165db5e72770,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_baf601e3d2929083afb4165db5e72770,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_baf601e3d2929083afb4165db5e72770,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_baf601e3d2929083afb4165db5e72770,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3ded1022bdcbb83da79a4e80ed9eb5e0,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3ded1022bdcbb83da79a4e80ed9eb5e0,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_3ded1022bdcbb83da79a4e80ed9eb5e0,gepys,United States,2015,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_3ded1022bdcbb83da79a4e80ed9eb5e0,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f156515700eb48787bb9cbb5db1d204a,gepys,United States,2013,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f156515700eb48787bb9cbb5db1d204a,gepys,United States,2013,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_f156515700eb48787bb9cbb5db1d204a,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f156515700eb48787bb9cbb5db1d204a,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0c14658d3d9fc6faf6ef5bb7b588600,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e0c14658d3d9fc6faf6ef5bb7b588600,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e0c14658d3d9fc6faf6ef5bb7b588600,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0c14658d3d9fc6faf6ef5bb7b588600,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f105bd0ee150f3f9ba61ca6a92abf7a4,gepys,United States,2013,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f105bd0ee150f3f9ba61ca6a92abf7a4,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f105bd0ee150f3f9ba61ca6a92abf7a4,gepys,United States,2013,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_f105bd0ee150f3f9ba61ca6a92abf7a4,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e18e16e1152b1861233d10d0205b3430,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e18e16e1152b1861233d10d0205b3430,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e18e16e1152b1861233d10d0205b3430,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e18e16e1152b1861233d10d0205b3430,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_bee807dedf233b0a6b11b1af05059bb0,gepys,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_bee807dedf233b0a6b11b1af05059bb0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bee807dedf233b0a6b11b1af05059bb0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b1ae06856cafd00b521c08f785cbd1e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db067b0822b768c75190df199c353070,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db067b0822b768c75190df199c353070,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_db067b0822b768c75190df199c353070,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b3ffebd60bc108618bd6bb94aa888860,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3ffebd60bc108618bd6bb94aa888860,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b3ffebd60bc108618bd6bb94aa888860,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3ffebd60bc108618bd6bb94aa888860,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Washington,VirusShare_e1ed99e134922589a03b2a1b7f8cdf40,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e1ed99e134922589a03b2a1b7f8cdf40,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1ed99e134922589a03b2a1b7f8cdf40,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db989cc7b8e4f0fa089cc9d099161e10,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_db989cc7b8e4f0fa089cc9d099161e10,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_db989cc7b8e4f0fa089cc9d099161e10,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e102a0a0d438791c9a45f7b8f4da5690,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e102a0a0d438791c9a45f7b8f4da5690,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e102a0a0d438791c9a45f7b8f4da5690,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e102a0a0d438791c9a45f7b8f4da5690,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc5d92ace283322b557d581b1fb60ad0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_dc5d92ace283322b557d581b1fb60ad0,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_dc5d92ace283322b557d581b1fb60ad0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdeb7dca7422c465172d999ad5b6b4b0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bdeb7dca7422c465172d999ad5b6b4b0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_bdeb7dca7422c465172d999ad5b6b4b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bdeb7dca7422c465172d999ad5b6b4b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0cb873acbf3d4c31e60403ee7f49340,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e0cb873acbf3d4c31e60403ee7f49340,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e0cb873acbf3d4c31e60403ee7f49340,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e0cb873acbf3d4c31e60403ee7f49340,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b42f9e534069f798f40f837f9516f6b0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b42f9e534069f798f40f837f9516f6b0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b42f9e534069f798f40f837f9516f6b0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_b42f9e534069f798f40f837f9516f6b0,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_f18f09906be1fef2e4eabef4bc25b490,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_f18f09906be1fef2e4eabef4bc25b490,gepys,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_f18f09906be1fef2e4eabef4bc25b490,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f18f09906be1fef2e4eabef4bc25b490,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba7f369e993277f749247d1a4a415f60,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba7f369e993277f749247d1a4a415f60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba7f369e993277f749247d1a4a415f60,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_ba7f369e993277f749247d1a4a415f60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb70356d157d3c8daf081916d9d25590,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bb70356d157d3c8daf081916d9d25590,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_bb70356d157d3c8daf081916d9d25590,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb70356d157d3c8daf081916d9d25590,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6a90ec5bc8a55a7f7ffaa2b08227c00,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b6a90ec5bc8a55a7f7ffaa2b08227c00,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b6a90ec5bc8a55a7f7ffaa2b08227c00,gepys,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b6a90ec5bc8a55a7f7ffaa2b08227c00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_38b4adf26b22a96d5cb0b8d135123820,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_38b4adf26b22a96d5cb0b8d135123820,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_38b4adf26b22a96d5cb0b8d135123820,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_38b4adf26b22a96d5cb0b8d135123820,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7b217c34dba4d724dd0a4db886cf15a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7b217c34dba4d724dd0a4db886cf15a0,gepys,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_7b217c34dba4d724dd0a4db886cf15a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3f40345c4a618def08e530146b87b940,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_3f40345c4a618def08e530146b87b940,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3f40345c4a618def08e530146b87b940,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_3f40345c4a618def08e530146b87b940,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3468913c0299b737c26b83db88cb760,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3468913c0299b737c26b83db88cb760,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b3468913c0299b737c26b83db88cb760,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3468913c0299b737c26b83db88cb760,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3a4cc375e94cced7f2716e8160829660,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_3a4cc375e94cced7f2716e8160829660,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_3a4cc375e94cced7f2716e8160829660,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3a4cc375e94cced7f2716e8160829660,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_7a09d46d993cb00b5a8966e134b70bd0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dc1f80c3deea976583095eb1e5f55900,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b1ff1380a90d8abe62ee703d579a53a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_7d3bb39352c035909097ef03377ee856,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7a03ec43bcdf9bbdb58791e6934b06d0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7a03ec43bcdf9bbdb58791e6934b06d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7a03ec43bcdf9bbdb58791e6934b06d0,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_7a03ec43bcdf9bbdb58791e6934b06d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cab7cabcac1566c752195b81d6f74370,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_cab7cabcac1566c752195b81d6f74370,gepys,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_cab7cabcac1566c752195b81d6f74370,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baff79faace301f2381c10b1eb100310,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_baff79faace301f2381c10b1eb100310,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_baff79faace301f2381c10b1eb100310,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_baff79faace301f2381c10b1eb100310,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b44796c789145ff49616b37e104d61c0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b44796c789145ff49616b37e104d61c0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b44796c789145ff49616b37e104d61c0,gepys,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b44796c789145ff49616b37e104d61c0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db89be5a550840b93cd16840bf85b383,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db89be5a550840b93cd16840bf85b383,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_be811b24cd8a6aeb72d05684feab6f60,gepys,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_be811b24cd8a6aeb72d05684feab6f60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be811b24cd8a6aeb72d05684feab6f60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb2f7f2defd94904e139a64570ffee70,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb2f7f2defd94904e139a64570ffee70,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bb2f7f2defd94904e139a64570ffee70,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bb2f7f2defd94904e139a64570ffee70,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be0c04c54bc061bf7f5ea57e53cd27c0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be0c04c54bc061bf7f5ea57e53cd27c0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_be0c04c54bc061bf7f5ea57e53cd27c0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be0c04c54bc061bf7f5ea57e53cd27c0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc322b4d9aa87933e00de4d2fe522780,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc322b4d9aa87933e00de4d2fe522780,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_dc322b4d9aa87933e00de4d2fe522780,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Dallas,VirusShare_cbd69e5509cd3c6f5772d00eb4f7a675,gepys,United States,2013,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_cbd69e5509cd3c6f5772d00eb4f7a675,gepys,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cbd69e5509cd3c6f5772d00eb4f7a675,gepys,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b423301b19ba5a29a276e257fd7fe270,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b423301b19ba5a29a276e257fd7fe270,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b423301b19ba5a29a276e257fd7fe270,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b423301b19ba5a29a276e257fd7fe270,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e41f89c360458bc66c44a94038f0c270,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e41f89c360458bc66c44a94038f0c270,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e41f89c360458bc66c44a94038f0c270,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_cb2b624969cae3032091df75e28327f0,gepys,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_cb2b624969cae3032091df75e28327f0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb2b624969cae3032091df75e28327f0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7138170677454264d6f4996377ef58d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7138170677454264d6f4996377ef58d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f03444c140b2e3c8e388ba838c401570,gepys,United States,2015,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f03444c140b2e3c8e388ba838c401570,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f03444c140b2e3c8e388ba838c401570,gepys,United States,2015,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f03444c140b2e3c8e388ba838c401570,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e43eb93503545e9c35df2254c2b3d9e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e43eb93503545e9c35df2254c2b3d9e0,gepys,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_e43eb93503545e9c35df2254c2b3d9e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cae53e88699a59f74e370ff63d8dcf50,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bbfd2e0fc3590642b83a74602b495d50,gepys,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bbfd2e0fc3590642b83a74602b495d50,gepys,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bbfd2e0fc3590642b83a74602b495d50,gepys,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bbfd2e0fc3590642b83a74602b495d50,gepys,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_bf85bee96514803cb2dc38b10d47f2d0,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_bf85bee96514803cb2dc38b10d47f2d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bf85bee96514803cb2dc38b10d47f2d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b2578cbcbabc2020a4b410feee907180,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b2578cbcbabc2020a4b410feee907180,gepys,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_b2578cbcbabc2020a4b410feee907180,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbadbbed17abc5266ac99f3e3b64d230,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cbadbbed17abc5266ac99f3e3b64d230,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f127cfc119a7fde638dcfa26898d8180,gepys,United States,2015,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f127cfc119a7fde638dcfa26898d8180,gepys,United States,2015,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f127cfc119a7fde638dcfa26898d8180,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f127cfc119a7fde638dcfa26898d8180,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b87d79bc9dba8be7518e9c653c794918,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b87d79bc9dba8be7518e9c653c794918,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b87d79bc9dba8be7518e9c653c794918,gepys,United States,2015,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b87d79bc9dba8be7518e9c653c794918,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b69adcce66b80f6cc7c7ed6e2f158f10,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b69adcce66b80f6cc7c7ed6e2f158f10,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b69adcce66b80f6cc7c7ed6e2f158f10,gepys,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b69adcce66b80f6cc7c7ed6e2f158f10,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cbd4990fc9c31e9c46e5c2f6644a2040,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b36ef081e84e064322642965c87dcf60,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b36ef081e84e064322642965c87dcf60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b36ef081e84e064322642965c87dcf60,gepys,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b36ef081e84e064322642965c87dcf60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3b7881685c616b69c816858b061e2dd0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3b7881685c616b69c816858b061e2dd0,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_3b7881685c616b69c816858b061e2dd0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3b7881685c616b69c816858b061e2dd0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8d3e6a9dac2ee412f2237d717b43130,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8d3e6a9dac2ee412f2237d717b43130,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8d3e6a9dac2ee412f2237d717b43130,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b8d3e6a9dac2ee412f2237d717b43130,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cae17b20409bd53218e6ae06e2894600,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cae17b20409bd53218e6ae06e2894600,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e207fa3576ae62c28d39d4025af4e740,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e207fa3576ae62c28d39d4025af4e740,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e207fa3576ae62c28d39d4025af4e740,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2cc22d1d75f9b66a37749e148327d00,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e2cc22d1d75f9b66a37749e148327d00,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e2cc22d1d75f9b66a37749e148327d00,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e050ebde2cf569fa07623a7055783070,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e050ebde2cf569fa07623a7055783070,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e050ebde2cf569fa07623a7055783070,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e050ebde2cf569fa07623a7055783070,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb5a093968580d9a4b56c27686dc3e60,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb5a093968580d9a4b56c27686dc3e60,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cafd646097e020d39375738c33626b90,gepys,United States,2016,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_cafd646097e020d39375738c33626b90,gepys,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cafd646097e020d39375738c33626b90,gepys,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b69b13eb7f6258af844d7885a45d66d0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b69b13eb7f6258af844d7885a45d66d0,gepys,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b69b13eb7f6258af844d7885a45d66d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b69b13eb7f6258af844d7885a45d66d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f16c98ef73d01036f74315d7f1e938e0,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f16c98ef73d01036f74315d7f1e938e0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f16c98ef73d01036f74315d7f1e938e0,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_f16c98ef73d01036f74315d7f1e938e0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1c397c95f6eb1b99d1cb3d74c359ae0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b1c397c95f6eb1b99d1cb3d74c359ae0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b1c397c95f6eb1b99d1cb3d74c359ae0,gepys,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b1c397c95f6eb1b99d1cb3d74c359ae0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e135659456e8ed065e4b7aec3e100e40,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e135659456e8ed065e4b7aec3e100e40,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_e135659456e8ed065e4b7aec3e100e40,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e135659456e8ed065e4b7aec3e100e40,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e145eab9b81aae3b564fe98cefa61100,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e145eab9b81aae3b564fe98cefa61100,gepys,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e145eab9b81aae3b564fe98cefa61100,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e145eab9b81aae3b564fe98cefa61100,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b35b8ee6f5c22240851f79d0493c21a0,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b35b8ee6f5c22240851f79d0493c21a0,gepys,United States,2015,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b35b8ee6f5c22240851f79d0493c21a0,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b35b8ee6f5c22240851f79d0493c21a0,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4f491fd9b1a1dd2ff8ec2c1219a1201,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4f491fd9b1a1dd2ff8ec2c1219a1201,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b4f491fd9b1a1dd2ff8ec2c1219a1201,gepys,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b4f491fd9b1a1dd2ff8ec2c1219a1201,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb2e2f5932b3353f5a6a961a83262940,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb2e2f5932b3353f5a6a961a83262940,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_cb2e2f5932b3353f5a6a961a83262940,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b36bf8cbbabaebcfe8a26acca357aa10,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b36bf8cbbabaebcfe8a26acca357aa10,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b36bf8cbbabaebcfe8a26acca357aa10,gepys,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b36bf8cbbabaebcfe8a26acca357aa10,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb6a411af67ece9c349838acbc50ea30,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bb6a411af67ece9c349838acbc50ea30,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_bb6a411af67ece9c349838acbc50ea30,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb6a411af67ece9c349838acbc50ea30,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba6ac73c52609b0266ec62ae99a8f5a0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba6ac73c52609b0266ec62ae99a8f5a0,gepys,United States,2014,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_ba6ac73c52609b0266ec62ae99a8f5a0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba6ac73c52609b0266ec62ae99a8f5a0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be0d39b68fd6f401e939a345b9464700,gepys,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_be0d39b68fd6f401e939a345b9464700,gepys,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_be0d39b68fd6f401e939a345b9464700,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be0d39b68fd6f401e939a345b9464700,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7d5910ec7e048b20a1aa6c7afc9de4c0,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7d5910ec7e048b20a1aa6c7afc9de4c0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7d5910ec7e048b20a1aa6c7afc9de4c0,gepys,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_7d5910ec7e048b20a1aa6c7afc9de4c0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8722d0d31eebc0cd5689ec1ad327b43,gepys,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8722d0d31eebc0cd5689ec1ad327b43,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8722d0d31eebc0cd5689ec1ad327b43,gepys,United States,2015,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b8722d0d31eebc0cd5689ec1ad327b43,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4413e7ea69ff493eaf1c9d0c8552660,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4413e7ea69ff493eaf1c9d0c8552660,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4413e7ea69ff493eaf1c9d0c8552660,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_b4413e7ea69ff493eaf1c9d0c8552660,gepys,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Chicago,VirusShare_b1dd7ec61007208b6d0171fdf0e42140,gepys,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_b1dd7ec61007208b6d0171fdf0e42140,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1dd7ec61007208b6d0171fdf0e42140,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8a43bc0ae327522ca4d94f016058170,gepys,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8a43bc0ae327522ca4d94f016058170,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8a43bc0ae327522ca4d94f016058170,gepys,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b8a43bc0ae327522ca4d94f016058170,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cabfbee48240252838ad70fe6b33a9d0,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cabfbee48240252838ad70fe6b33a9d0,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2c892d7771b5d9296329e84d4721320,gepys,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e2c892d7771b5d9296329e84d4721320,gepys,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e2c892d7771b5d9296329e84d4721320,gepys,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_db602344a8d730d41087c989e1c22e90,gepys,United States,2015,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_db602344a8d730d41087c989e1c22e90,gepys,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db602344a8d730d41087c989e1c22e90,gepys,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0

@@ -1,0 +1,1635 @@
+city,name,family_name,country,year,longitude,iso-2,iso-3,ip,latitude,value
+Newark,VirusShare_e0802a4df0861bbf61a9a46ffde9f600,scar,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e0802a4df0861bbf61a9a46ffde9f600,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e0802a4df0861bbf61a9a46ffde9f600,scar,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e0802a4df0861bbf61a9a46ffde9f600,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_e3d9efbcdf431e190bd0183b779c1fd0,scar,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_e3d9efbcdf431e190bd0183b779c1fd0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e3d9efbcdf431e190bd0183b779c1fd0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bbe5a573f6f8c8f50e96b6ca851936d0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bbe5a573f6f8c8f50e96b6ca851936d0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_bbe5a573f6f8c8f50e96b6ca851936d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bbe5a573f6f8c8f50e96b6ca851936d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_bab7a8e483d6f871400536e44cdf55d0,scar,United States,2014,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_bab7a8e483d6f871400536e44cdf55d0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bab7a8e483d6f871400536e44cdf55d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bab7a8e483d6f871400536e44cdf55d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_add15a25c3a2394e3dff608f05ef15bb,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_add15a25c3a2394e3dff608f05ef15bb,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_add15a25c3a2394e3dff608f05ef15bb,scar,United States,2017,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_add15a25c3a2394e3dff608f05ef15bb,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_77973a906033cfb9fd3bf356f5ff0060,scar,United States,2016,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_77973a906033cfb9fd3bf356f5ff0060,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_77973a906033cfb9fd3bf356f5ff0060,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f121b9a117ed6884306ad700226c1680,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f121b9a117ed6884306ad700226c1680,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f121b9a117ed6884306ad700226c1680,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_f121b9a117ed6884306ad700226c1680,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_daeeb8aeb1e877b6d83b31a15f541a70,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_daeeb8aeb1e877b6d83b31a15f541a70,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_daeeb8aeb1e877b6d83b31a15f541a70,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Mountain View,VirusShare_e2984c74fcc05b46455a715852c50200,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e2984c74fcc05b46455a715852c50200,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_e1ce5e7e497e4d3b5af4f30a9d063ae0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_e1ce5e7e497e4d3b5af4f30a9d063ae0,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_e1ce5e7e497e4d3b5af4f30a9d063ae0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1ce5e7e497e4d3b5af4f30a9d063ae0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e1f3bca17bf10041b669c893e693d330,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e1f3bca17bf10041b669c893e693d330,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e1f3bca17bf10041b669c893e693d330,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_d768ff84d1c88967e48d4875db13350a,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_d768ff84d1c88967e48d4875db13350a,scar,United States,2017,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_d768ff84d1c88967e48d4875db13350a,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_d768ff84d1c88967e48d4875db13350a,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba63e2e249180984e72d672d2596dc30,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_ba63e2e249180984e72d672d2596dc30,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_ba63e2e249180984e72d672d2596dc30,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba63e2e249180984e72d672d2596dc30,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8435dba0d39a4375b76364d18601ac0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8435dba0d39a4375b76364d18601ac0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8435dba0d39a4375b76364d18601ac0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b8435dba0d39a4375b76364d18601ac0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b861d16c6024a6122f51491eb43f92e0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b861d16c6024a6122f51491eb43f92e0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b861d16c6024a6122f51491eb43f92e0,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_b861d16c6024a6122f51491eb43f92e0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bbcf7a68f4164a9f5f5cb2d9f30d9790,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_bbcf7a68f4164a9f5f5cb2d9f30d9790,scar,United States,2017,-84.388,US,USA,184.51.150.57,33.749,0
+Redmond,VirusShare_bbcf7a68f4164a9f5f5cb2d9f30d9790,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bbcf7a68f4164a9f5f5cb2d9f30d9790,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bbb416dc454f8e6c2161b721a29fed7a,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_bbb416dc454f8e6c2161b721a29fed7a,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bbb416dc454f8e6c2161b721a29fed7a,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bbb416dc454f8e6c2161b721a29fed7a,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8398627144539457afb71945df26500,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b8398627144539457afb71945df26500,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b8398627144539457afb71945df26500,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_770d7d2efa4134c7e7f0596fc11e4eb0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_770d7d2efa4134c7e7f0596fc11e4eb0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_770d7d2efa4134c7e7f0596fc11e4eb0,scar,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_770d7d2efa4134c7e7f0596fc11e4eb0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba389211cf36357493e65894a6530de0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_ba389211cf36357493e65894a6530de0,scar,United States,2014,-84.388,US,USA,23.73.181.59,33.749,0
+Redmond,VirusShare_ba389211cf36357493e65894a6530de0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba389211cf36357493e65894a6530de0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8cde4891e7e7a7436e9d6ccdaef7050,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b8cde4891e7e7a7436e9d6ccdaef7050,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b8cde4891e7e7a7436e9d6ccdaef7050,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b8cde4891e7e7a7436e9d6ccdaef7050,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_beb1a02dda1a9b0a9020f595ceedaa40,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_beb1a02dda1a9b0a9020f595ceedaa40,scar,United States,2014,-77.4874,US,USA,184.26.93.48,39.0438,0
+Mountain View,VirusShare_beb1a02dda1a9b0a9020f595ceedaa40,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bab4a597712c831c715a4f6a1c20a4c0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bab4a597712c831c715a4f6a1c20a4c0,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_bab4a597712c831c715a4f6a1c20a4c0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bab4a597712c831c715a4f6a1c20a4c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0f6657ec5ba5393c0012e3e541661b0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f0f6657ec5ba5393c0012e3e541661b0,scar,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_f0f6657ec5ba5393c0012e3e541661b0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0f6657ec5ba5393c0012e3e541661b0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_367c1250094cb52a623dc0131536087b,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_367c1250094cb52a623dc0131536087b,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_367c1250094cb52a623dc0131536087b,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_367c1250094cb52a623dc0131536087b,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb80c22395ac30777177827100c07b70,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bb80c22395ac30777177827100c07b70,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_bb80c22395ac30777177827100c07b70,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb80c22395ac30777177827100c07b70,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8550f5cfc3243f6a0fb42a6fc8e08d0,scar,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8550f5cfc3243f6a0fb42a6fc8e08d0,scar,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8550f5cfc3243f6a0fb42a6fc8e08d0,scar,United States,2015,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b8550f5cfc3243f6a0fb42a6fc8e08d0,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_32da7f41f9a08a392ade56cbf2f25790,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_32da7f41f9a08a392ade56cbf2f25790,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_32da7f41f9a08a392ade56cbf2f25790,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_32da7f41f9a08a392ade56cbf2f25790,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8ba3863bc8a4248ca081f50c8baaf50,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b8ba3863bc8a4248ca081f50c8baaf50,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b8ba3863bc8a4248ca081f50c8baaf50,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b8ba3863bc8a4248ca081f50c8baaf50,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8c3d188d1ceb8feda6eaed35e6c77e0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8c3d188d1ceb8feda6eaed35e6c77e0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8c3d188d1ceb8feda6eaed35e6c77e0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b8c3d188d1ceb8feda6eaed35e6c77e0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7b68946eb5bc156f23297bc977117dd0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7b68946eb5bc156f23297bc977117dd0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_7b68946eb5bc156f23297bc977117dd0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7b68946eb5bc156f23297bc977117dd0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3f9ec161318651a0cc4ad4d3806acd20,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3f9ec161318651a0cc4ad4d3806acd20,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_3f9ec161318651a0cc4ad4d3806acd20,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3f9ec161318651a0cc4ad4d3806acd20,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba917f903bcee7674edc2d0915681790,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba917f903bcee7674edc2d0915681790,scar,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_ba917f903bcee7674edc2d0915681790,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba917f903bcee7674edc2d0915681790,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_72dbb838c926490824820282c6dcc710,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_72dbb838c926490824820282c6dcc710,scar,United States,2014,-96.797,US,USA,23.72.136.171,32.7767,0
+Redmond,VirusShare_72dbb838c926490824820282c6dcc710,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_72dbb838c926490824820282c6dcc710,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6df4d6730e038d279d0b75a50372ddf,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_b6df4d6730e038d279d0b75a50372ddf,scar,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Redmond,VirusShare_b6df4d6730e038d279d0b75a50372ddf,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6df4d6730e038d279d0b75a50372ddf,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e301ac4461fa5fb951bfa826b5b0e120,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e301ac4461fa5fb951bfa826b5b0e120,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e301ac4461fa5fb951bfa826b5b0e120,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b805df94c52ba9a2f557922e564abbe1,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_b805df94c52ba9a2f557922e564abbe1,scar,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Redmond,VirusShare_b805df94c52ba9a2f557922e564abbe1,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b805df94c52ba9a2f557922e564abbe1,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b831b889076d92a15ee929fc7320ae40,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b831b889076d92a15ee929fc7320ae40,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b831b889076d92a15ee929fc7320ae40,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b831b889076d92a15ee929fc7320ae40,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e114c0305dece948ab04c8bc467c9b60,scar,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e114c0305dece948ab04c8bc467c9b60,scar,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_e114c0305dece948ab04c8bc467c9b60,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e114c0305dece948ab04c8bc467c9b60,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_74f62ca859be096fa713a5d3094bbfb0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_74f62ca859be096fa713a5d3094bbfb0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_74f62ca859be096fa713a5d3094bbfb0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_74f62ca859be096fa713a5d3094bbfb0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb6d19273e796bba97a3d578f6cb01a1,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_bb6d19273e796bba97a3d578f6cb01a1,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bb6d19273e796bba97a3d578f6cb01a1,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb6d19273e796bba97a3d578f6cb01a1,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_badcdf342e76802982eb20081808b290,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_badcdf342e76802982eb20081808b290,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_badcdf342e76802982eb20081808b290,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_badcdf342e76802982eb20081808b290,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba6b78950a5b7db22c6d1f22d855d3e0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba6b78950a5b7db22c6d1f22d855d3e0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba6b78950a5b7db22c6d1f22d855d3e0,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_ba6b78950a5b7db22c6d1f22d855d3e0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f19e92e02c8cb978d6913563a07cb3d0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f19e92e02c8cb978d6913563a07cb3d0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f19e92e02c8cb978d6913563a07cb3d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f19e92e02c8cb978d6913563a07cb3d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e02d3db6fba1c038c509cf42d8364be3,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_e02d3db6fba1c038c509cf42d8364be3,scar,United States,2014,-84.388,US,USA,23.73.181.64,33.749,0
+Redmond,VirusShare_e02d3db6fba1c038c509cf42d8364be3,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e02d3db6fba1c038c509cf42d8364be3,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba058b65b4df0627952a9e1f7cbfc180,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_ba058b65b4df0627952a9e1f7cbfc180,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_ba058b65b4df0627952a9e1f7cbfc180,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba058b65b4df0627952a9e1f7cbfc180,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0a32be974bbba7fad64bc031e12cc40,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e0a32be974bbba7fad64bc031e12cc40,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e0a32be974bbba7fad64bc031e12cc40,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0a32be974bbba7fad64bc031e12cc40,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3bca9d569f22d4c130e7b3002683666e,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3bca9d569f22d4c130e7b3002683666e,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3bca9d569f22d4c130e7b3002683666e,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_3bca9d569f22d4c130e7b3002683666e,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6198f9c271abb0d09bd9f5d6ed5e58d,scar,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b6198f9c271abb0d09bd9f5d6ed5e58d,scar,United States,2015,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b6198f9c271abb0d09bd9f5d6ed5e58d,scar,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6198f9c271abb0d09bd9f5d6ed5e58d,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_daf09bbc0c6cde6e67da4f9d020dc1b0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_daf09bbc0c6cde6e67da4f9d020dc1b0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_daf09bbc0c6cde6e67da4f9d020dc1b0,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b843a2edf576d72faaccf1b3488ccd50,scar,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b843a2edf576d72faaccf1b3488ccd50,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b843a2edf576d72faaccf1b3488ccd50,scar,United States,2016,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b843a2edf576d72faaccf1b3488ccd50,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_701c9e4cae2f8244f63f9c42a7da1230,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_701c9e4cae2f8244f63f9c42a7da1230,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_701c9e4cae2f8244f63f9c42a7da1230,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_701c9e4cae2f8244f63f9c42a7da1230,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b86c54bd73f49b57dafefa0a9be5a202,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b86c54bd73f49b57dafefa0a9be5a202,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b86c54bd73f49b57dafefa0a9be5a202,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b86c54bd73f49b57dafefa0a9be5a202,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba0a2ac9f5b9338c86eac80d7e753c40,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba0a2ac9f5b9338c86eac80d7e753c40,scar,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_ba0a2ac9f5b9338c86eac80d7e753c40,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba0a2ac9f5b9338c86eac80d7e753c40,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b490854ae557d536dfd6a65804474c13,scar,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b490854ae557d536dfd6a65804474c13,scar,United States,2013,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b490854ae557d536dfd6a65804474c13,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b490854ae557d536dfd6a65804474c13,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baf6e57745da8c70f7fd949b43151120,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_baf6e57745da8c70f7fd949b43151120,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_baf6e57745da8c70f7fd949b43151120,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_baf6e57745da8c70f7fd949b43151120,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_76fd9f4a83b979ed089f9f1f9d10ecf0,scar,United States,2014,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_76fd9f4a83b979ed089f9f1f9d10ecf0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_76fd9f4a83b979ed089f9f1f9d10ecf0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_76fd9f4a83b979ed089f9f1f9d10ecf0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7b8ffbe63bba9e8405930ff03a716530,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_7b8ffbe63bba9e8405930ff03a716530,scar,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_7b8ffbe63bba9e8405930ff03a716530,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7b8ffbe63bba9e8405930ff03a716530,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba75dc55de9f828147460556e161dba0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba75dc55de9f828147460556e161dba0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba75dc55de9f828147460556e161dba0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_ba75dc55de9f828147460556e161dba0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3b18c52e8125ec232dca48d42e9d1f0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3b18c52e8125ec232dca48d42e9d1f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b3b18c52e8125ec232dca48d42e9d1f0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b3b18c52e8125ec232dca48d42e9d1f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b879986be5f494df0cf02f95861bd110,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b879986be5f494df0cf02f95861bd110,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b879986be5f494df0cf02f95861bd110,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b879986be5f494df0cf02f95861bd110,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7b0e15bcd784b54336cf802f847b9f60,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Los Angeles,VirusShare_7b0e15bcd784b54336cf802f847b9f60,scar,United States,2014,-118.257,US,USA,69.172.201.153,34.0473,0
+Redmond,VirusShare_7b0e15bcd784b54336cf802f847b9f60,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7b0e15bcd784b54336cf802f847b9f60,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_7b0e15bcd784b54336cf802f847b9f60,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b896b7880797f0fb6e03d6f913d2d160,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b896b7880797f0fb6e03d6f913d2d160,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b896b7880797f0fb6e03d6f913d2d160,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b896b7880797f0fb6e03d6f913d2d160,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7105780c49359b4215d6017bbda30000,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_7105780c49359b4215d6017bbda30000,scar,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_7105780c49359b4215d6017bbda30000,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7105780c49359b4215d6017bbda30000,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4e500bb61934b81db873de2a5ff1f40,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4e500bb61934b81db873de2a5ff1f40,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4e500bb61934b81db873de2a5ff1f40,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b4e500bb61934b81db873de2a5ff1f40,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b42417f49dd3aa2d31449fdf06769ca0,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b42417f49dd3aa2d31449fdf06769ca0,scar,United States,2017,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b42417f49dd3aa2d31449fdf06769ca0,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b42417f49dd3aa2d31449fdf06769ca0,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3b73fe17b13b4113f74ee15db71d9d0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3b73fe17b13b4113f74ee15db71d9d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b3b73fe17b13b4113f74ee15db71d9d0,scar,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_b3b73fe17b13b4113f74ee15db71d9d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3ae6b30053216fa8c9e94e140262170,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3ae6b30053216fa8c9e94e140262170,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b3ae6b30053216fa8c9e94e140262170,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3ae6b30053216fa8c9e94e140262170,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4f79756153c4a964115c8fb8f9c961a,scar,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4f79756153c4a964115c8fb8f9c961a,scar,United States,2013,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b4f79756153c4a964115c8fb8f9c961a,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4f79756153c4a964115c8fb8f9c961a,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba8a464717ee53ec1ee2e1938c5f37a0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba8a464717ee53ec1ee2e1938c5f37a0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba8a464717ee53ec1ee2e1938c5f37a0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_ba8a464717ee53ec1ee2e1938c5f37a0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6771902c80dd2d63410c6b17fa98a40,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b6771902c80dd2d63410c6b17fa98a40,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b6771902c80dd2d63410c6b17fa98a40,scar,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_b6771902c80dd2d63410c6b17fa98a40,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_755eb76a2705552cbd942884c651a2f0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Mountain View,VirusShare_755eb76a2705552cbd942884c651a2f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_755eb76a2705552cbd942884c651a2f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_755eb76a2705552cbd942884c651a2f0,scar,United States,2014,-96.797,US,USA,23.72.136.130,32.7767,0
+Newark,VirusShare_f0620bc405d91a4976b247d3168d1180,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f0620bc405d91a4976b247d3168d1180,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f0620bc405d91a4976b247d3168d1180,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0620bc405d91a4976b247d3168d1180,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b38908393757c009bd189311afa93d03,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b38908393757c009bd189311afa93d03,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b38908393757c009bd189311afa93d03,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b38908393757c009bd189311afa93d03,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db43a3034fa9a90ccc217e3a8915d340,scar,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db43a3034fa9a90ccc217e3a8915d340,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_db43a3034fa9a90ccc217e3a8915d340,scar,United States,2015,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_bb355f89df0726ef2320e25c927f94d0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb355f89df0726ef2320e25c927f94d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bb355f89df0726ef2320e25c927f94d0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bb355f89df0726ef2320e25c927f94d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bbaa19a4a734859eed43872fcc0075b0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bbaa19a4a734859eed43872fcc0075b0,scar,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_bbaa19a4a734859eed43872fcc0075b0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b876deaccdc7e2367c786f490d11e5d0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b876deaccdc7e2367c786f490d11e5d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b876deaccdc7e2367c786f490d11e5d0,scar,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b876deaccdc7e2367c786f490d11e5d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b30d60bfb43ba0ccd20e244eadf8a4d8,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b30d60bfb43ba0ccd20e244eadf8a4d8,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b30d60bfb43ba0ccd20e244eadf8a4d8,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b30d60bfb43ba0ccd20e244eadf8a4d8,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc2878dda8c3ca67b14e199b22b539f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc2878dda8c3ca67b14e199b22b539f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_dc2878dda8c3ca67b14e199b22b539f0,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_e0618c48c7e1fd8289a499934c60fbb0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e0618c48c7e1fd8289a499934c60fbb0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e0618c48c7e1fd8289a499934c60fbb0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0618c48c7e1fd8289a499934c60fbb0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6a58dd9b41268f481349b314a1e97f0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b6a58dd9b41268f481349b314a1e97f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b6a58dd9b41268f481349b314a1e97f0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b6a58dd9b41268f481349b314a1e97f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3fbe1afb596b2d435af3f65b83f77320,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3fbe1afb596b2d435af3f65b83f77320,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_3fbe1afb596b2d435af3f65b83f77320,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3fbe1afb596b2d435af3f65b83f77320,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b690cf54ddc6382e7e072b0feebf88f0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b690cf54ddc6382e7e072b0feebf88f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b690cf54ddc6382e7e072b0feebf88f0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b690cf54ddc6382e7e072b0feebf88f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b0f03d313aafb5968c3ffd37ec9b92f0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b0f03d313aafb5968c3ffd37ec9b92f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_b0f03d313aafb5968c3ffd37ec9b92f0,scar,France,2014,2.35222,FR,FRA,23.219.160.65,48.8566,0
+Mountain View,VirusShare_b0f03d313aafb5968c3ffd37ec9b92f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb0aff5dd1631892e8f704094a2b0600,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb0aff5dd1631892e8f704094a2b0600,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb0aff5dd1631892e8f704094a2b0600,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_bb0aff5dd1631892e8f704094a2b0600,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_beb155d0e3196a4083f177786abc9560,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_beb155d0e3196a4083f177786abc9560,scar,United States,2014,-77.4874,US,USA,184.26.93.48,39.0438,0
+Mountain View,VirusShare_beb155d0e3196a4083f177786abc9560,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1646c0e1604d69f3cab0b872648ac80,scar,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1646c0e1604d69f3cab0b872648ac80,scar,United States,2016,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e1646c0e1604d69f3cab0b872648ac80,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1646c0e1604d69f3cab0b872648ac80,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba9efb4aa6de5cd2c03eacf54daa8120,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba9efb4aa6de5cd2c03eacf54daa8120,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_ba9efb4aa6de5cd2c03eacf54daa8120,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_ba9efb4aa6de5cd2c03eacf54daa8120,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3b0603962cab3aa5f6e02aae90a97f0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3b0603962cab3aa5f6e02aae90a97f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b3b0603962cab3aa5f6e02aae90a97f0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b3b0603962cab3aa5f6e02aae90a97f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba925fdc92a14bd8dbbe9a19499e2c00,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba925fdc92a14bd8dbbe9a19499e2c00,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba925fdc92a14bd8dbbe9a19499e2c00,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_ba925fdc92a14bd8dbbe9a19499e2c00,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b88aadcf9e583452ff3e4062ba032888,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b88aadcf9e583452ff3e4062ba032888,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b88aadcf9e583452ff3e4062ba032888,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b88aadcf9e583452ff3e4062ba032888,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cb6abfc87cccc41f527948f0f63eb236,scar,United States,2013,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_cb6abfc87cccc41f527948f0f63eb236,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb6abfc87cccc41f527948f0f63eb236,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7a8a751d3b74f824cda1283becf1f2c0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7a8a751d3b74f824cda1283becf1f2c0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_7a8a751d3b74f824cda1283becf1f2c0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7a8a751d3b74f824cda1283becf1f2c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_71a494443d9f382f854d0ddc86372be0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_71a494443d9f382f854d0ddc86372be0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_71a494443d9f382f854d0ddc86372be0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_71a494443d9f382f854d0ddc86372be0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_badb62c02678de18f98edbf8e2153b20,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_badb62c02678de18f98edbf8e2153b20,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_badb62c02678de18f98edbf8e2153b20,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_badb62c02678de18f98edbf8e2153b20,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3dfd5f969c177e8029a16a16bff82e80,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3dfd5f969c177e8029a16a16bff82e80,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_3dfd5f969c177e8029a16a16bff82e80,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_3dfd5f969c177e8029a16a16bff82e80,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e20147ed4347c0794fb75e82cded89e0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e20147ed4347c0794fb75e82cded89e0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e20147ed4347c0794fb75e82cded89e0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1e1b9ba43d04379310f117366729f70,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b1e1b9ba43d04379310f117366729f70,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b1e1b9ba43d04379310f117366729f70,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1e1b9ba43d04379310f117366729f70,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_f1eff8429e0b3adef2282799a6a76040,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_f1eff8429e0b3adef2282799a6a76040,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_f1eff8429e0b3adef2282799a6a76040,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b303da7a69656d064f9f0d3d17a92262,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b303da7a69656d064f9f0d3d17a92262,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b303da7a69656d064f9f0d3d17a92262,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b303da7a69656d064f9f0d3d17a92262,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b32daef50cc8bb033d9e4cbf9a970290,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b32daef50cc8bb033d9e4cbf9a970290,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b32daef50cc8bb033d9e4cbf9a970290,scar,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_b32daef50cc8bb033d9e4cbf9a970290,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7819dd0fa0b175bc673477f32193d330,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7819dd0fa0b175bc673477f32193d330,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7819dd0fa0b175bc673477f32193d330,scar,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_7819dd0fa0b175bc673477f32193d330,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7b4ba07fa4892410712f9575d0204c70,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_7b4ba07fa4892410712f9575d0204c70,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_7b4ba07fa4892410712f9575d0204c70,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7b4ba07fa4892410712f9575d0204c70,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f05853687180b5b220267839df79d690,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f05853687180b5b220267839df79d690,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f05853687180b5b220267839df79d690,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f05853687180b5b220267839df79d690,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b499174a6da095ddb198ee4b219bd071,scar,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b499174a6da095ddb198ee4b219bd071,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b499174a6da095ddb198ee4b219bd071,scar,United States,2013,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_b499174a6da095ddb198ee4b219bd071,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb5d223724e4639072bff581305a6b10,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb5d223724e4639072bff581305a6b10,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bb5d223724e4639072bff581305a6b10,scar,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_bb5d223724e4639072bff581305a6b10,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b34ec22444d7708af88a1aaf38c37390,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b34ec22444d7708af88a1aaf38c37390,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b34ec22444d7708af88a1aaf38c37390,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b34ec22444d7708af88a1aaf38c37390,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_376c40a04bde289a3e58adf5d54677c0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_376c40a04bde289a3e58adf5d54677c0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_376c40a04bde289a3e58adf5d54677c0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_376c40a04bde289a3e58adf5d54677c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb5542d457589b4c6eda6bd02888b419,scar,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_bb5542d457589b4c6eda6bd02888b419,scar,United States,2013,-84.388,US,USA,184.51.150.8,33.749,0
+Redmond,VirusShare_bb5542d457589b4c6eda6bd02888b419,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb5542d457589b4c6eda6bd02888b419,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b335f617d0af9d93b8d33d7407061440,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b335f617d0af9d93b8d33d7407061440,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b335f617d0af9d93b8d33d7407061440,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b335f617d0af9d93b8d33d7407061440,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7c4a1b84d334bd80d11978e1d60a7650,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7c4a1b84d334bd80d11978e1d60a7650,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_7c4a1b84d334bd80d11978e1d60a7650,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7c4a1b84d334bd80d11978e1d60a7650,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3cf4e4da16023e15050807a386ba220,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3cf4e4da16023e15050807a386ba220,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b3cf4e4da16023e15050807a386ba220,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3cf4e4da16023e15050807a386ba220,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_71d1ba1bdbc32a07f11d415e302386c0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_71d1ba1bdbc32a07f11d415e302386c0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_71d1ba1bdbc32a07f11d415e302386c0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_71d1ba1bdbc32a07f11d415e302386c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b185222c37080f0759ab257de583e360,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b185222c37080f0759ab257de583e360,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b185222c37080f0759ab257de583e360,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b185222c37080f0759ab257de583e360,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dc260a25441979a4d2ff218d32586900,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc260a25441979a4d2ff218d32586900,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Redmond,VirusShare_b32d1297e1138a8d8ce65198a7076de0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b32d1297e1138a8d8ce65198a7076de0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b32d1297e1138a8d8ce65198a7076de0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b32d1297e1138a8d8ce65198a7076de0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b142fe4a8bc64eaa38e8783685705aa0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b142fe4a8bc64eaa38e8783685705aa0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b142fe4a8bc64eaa38e8783685705aa0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b142fe4a8bc64eaa38e8783685705aa0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7457db442ca77a3f833641ca9ac90400,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_7457db442ca77a3f833641ca9ac90400,scar,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_7457db442ca77a3f833641ca9ac90400,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7457db442ca77a3f833641ca9ac90400,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3e32935a9730bbbeed64286932bf5580,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3e32935a9730bbbeed64286932bf5580,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_3e32935a9730bbbeed64286932bf5580,scar,United States,2014,-77.4874,US,USA,184.26.93.48,39.0438,0
+Mountain View,VirusShare_3e32935a9730bbbeed64286932bf5580,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3ad474129b8da9d52e50334fd5fc7860,scar,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3ad474129b8da9d52e50334fd5fc7860,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3ad474129b8da9d52e50334fd5fc7860,scar,United States,2016,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_3ad474129b8da9d52e50334fd5fc7860,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7448a752f48ae0d80f6cb0b2523b6050,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7448a752f48ae0d80f6cb0b2523b6050,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7448a752f48ae0d80f6cb0b2523b6050,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_7448a752f48ae0d80f6cb0b2523b6050,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_39a67a9fc0e81cfefe083f0edf9d0f00,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_39a67a9fc0e81cfefe083f0edf9d0f00,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_39a67a9fc0e81cfefe083f0edf9d0f00,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_39a67a9fc0e81cfefe083f0edf9d0f00,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1bb77a4eb1f16085afe67f48ac08b00,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e1bb77a4eb1f16085afe67f48ac08b00,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e1bb77a4eb1f16085afe67f48ac08b00,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e1bb77a4eb1f16085afe67f48ac08b00,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bbe229e4389570fd02d2907400496330,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bbe229e4389570fd02d2907400496330,scar,United States,2014,-77.0369,US,USA,23.2.17.179,38.9072,0
+Redmond,VirusShare_bbe229e4389570fd02d2907400496330,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bbe229e4389570fd02d2907400496330,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb5a952edf0e6fefd2b24d2fc2d76f30,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb5a952edf0e6fefd2b24d2fc2d76f30,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb5a952edf0e6fefd2b24d2fc2d76f30,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_bb5a952edf0e6fefd2b24d2fc2d76f30,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0f513e151b4a7598168ac40db94cad9,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e0f513e151b4a7598168ac40db94cad9,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_e0f513e151b4a7598168ac40db94cad9,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0f513e151b4a7598168ac40db94cad9,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b655d0555a6b8dd37af0c5612ec6dae0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b655d0555a6b8dd37af0c5612ec6dae0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Atlanta,VirusShare_b655d0555a6b8dd37af0c5612ec6dae0,scar,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Mountain View,VirusShare_b655d0555a6b8dd37af0c5612ec6dae0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b61c9d232ce565bd366b98a85d0edae0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b61c9d232ce565bd366b98a85d0edae0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b61c9d232ce565bd366b98a85d0edae0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b61c9d232ce565bd366b98a85d0edae0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0e1d2f8589deaf601de5de1c7540180,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0e1d2f8589deaf601de5de1c7540180,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f0e1d2f8589deaf601de5de1c7540180,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f0e1d2f8589deaf601de5de1c7540180,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e08fa13da5fac5caaa498ff5d51dcd40,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e08fa13da5fac5caaa498ff5d51dcd40,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e08fa13da5fac5caaa498ff5d51dcd40,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e08fa13da5fac5caaa498ff5d51dcd40,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_b1acc0da5ea50739ba56147971457b40,scar,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_b1acc0da5ea50739ba56147971457b40,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1acc0da5ea50739ba56147971457b40,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3d029fcb77844f2a1597e613bdf48b60,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3d029fcb77844f2a1597e613bdf48b60,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3d029fcb77844f2a1597e613bdf48b60,scar,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_3d029fcb77844f2a1597e613bdf48b60,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b131e8d3ee16210cf7c15a91e09fecd0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_b131e8d3ee16210cf7c15a91e09fecd0,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_b131e8d3ee16210cf7c15a91e09fecd0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_79f57d5e2f868dc4d2be3de8db81ea10,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_79f57d5e2f868dc4d2be3de8db81ea10,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_79f57d5e2f868dc4d2be3de8db81ea10,scar,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_79f57d5e2f868dc4d2be3de8db81ea10,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bec4ed7c27bd03fe5adf243fd6300870,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bec4ed7c27bd03fe5adf243fd6300870,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_bec4ed7c27bd03fe5adf243fd6300870,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Mountain View,VirusShare_db1dc570adb4c6d79ec3c9ecf15784f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_db1dc570adb4c6d79ec3c9ecf15784f0,scar,United States,2014,-96.797,US,USA,23.67.253.162,32.7767,0
+Mountain View,VirusShare_7c7481433aec45591f3e8a4c6f591dc0,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cc1db24114ee87a6686b0103a5ee9e05,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_741ffac54df3777b68d69e7f93b13a20,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1aa079ca316d3f0256e2ccab8d1f5f0,scar,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_b1aa079ca316d3f0256e2ccab8d1f5f0,scar,United States,2015,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_b1aa079ca316d3f0256e2ccab8d1f5f0,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_f1e0956ba0846baf9eb339103c95de80,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_f1e0956ba0846baf9eb339103c95de80,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f1e0956ba0846baf9eb339103c95de80,scar,United States,2016,-96.797,US,USA,23.67.252.11,32.7767,0
+Newark,VirusShare_f16d0ce5437cfad1f189a21ae12d6cc0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f16d0ce5437cfad1f189a21ae12d6cc0,scar,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_f16d0ce5437cfad1f189a21ae12d6cc0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f16d0ce5437cfad1f189a21ae12d6cc0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb077ef6e09699c2d96caf962a05b800,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb077ef6e09699c2d96caf962a05b800,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb077ef6e09699c2d96caf962a05b800,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_bb077ef6e09699c2d96caf962a05b800,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbde78b49806bee4e8a03669e34667a0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_cbde78b49806bee4e8a03669e34667a0,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_cbde78b49806bee4e8a03669e34667a0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db997a0d190a7792060b9450e5569215,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8318927c0567d6353343799c3523cf0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b8318927c0567d6353343799c3523cf0,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b8318927c0567d6353343799c3523cf0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b8318927c0567d6353343799c3523cf0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_7411e741d6a91c2ad44d7e0669d64917,scar,United States,2015,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_7411e741d6a91c2ad44d7e0669d64917,scar,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7411e741d6a91c2ad44d7e0669d64917,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_b20f9a7a8d1d9e50b2a50fb8ebd82370,scar,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_b20f9a7a8d1d9e50b2a50fb8ebd82370,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b20f9a7a8d1d9e50b2a50fb8ebd82370,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_79c6f209f36eaf0019791f386e0a1490,scar,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_79c6f209f36eaf0019791f386e0a1490,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_79c6f209f36eaf0019791f386e0a1490,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_32349f57a9aa834a7868cd21a038bb80,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_32349f57a9aa834a7868cd21a038bb80,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_32349f57a9aa834a7868cd21a038bb80,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_32349f57a9aa834a7868cd21a038bb80,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b86c434bf4b73e9436a4fd85d6a1ee30,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b86c434bf4b73e9436a4fd85d6a1ee30,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b86c434bf4b73e9436a4fd85d6a1ee30,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b86c434bf4b73e9436a4fd85d6a1ee30,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_732a1cb786b527f4eb1797207c410494,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_732a1cb786b527f4eb1797207c410494,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_732a1cb786b527f4eb1797207c410494,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b410517d009b1422199013e899d23150,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b410517d009b1422199013e899d23150,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b410517d009b1422199013e899d23150,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b410517d009b1422199013e899d23150,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_daf101cf45f29816686c43d2c19b9af0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7c657c8887021d3c37e4957ced939ab0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7c657c8887021d3c37e4957ced939ab0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_7c657c8887021d3c37e4957ced939ab0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7c657c8887021d3c37e4957ced939ab0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_373e76ae62a625ab52b97e54e32d4270,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_373e76ae62a625ab52b97e54e32d4270,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_373e76ae62a625ab52b97e54e32d4270,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8e03877b62fee354a6c76ab56cd372f,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8e03877b62fee354a6c76ab56cd372f,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8e03877b62fee354a6c76ab56cd372f,scar,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_b8e03877b62fee354a6c76ab56cd372f,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_beaf9147be7838b8653094ac349517d2,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_beaf9147be7838b8653094ac349517d2,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_beaf9147be7838b8653094ac349517d2,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4554389215fd6f31860de84cac1ac1b,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4554389215fd6f31860de84cac1ac1b,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4554389215fd6f31860de84cac1ac1b,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Road Town,VirusShare_b4554389215fd6f31860de84cac1ac1b,scar,British Virgin Islands,2014,-64.6131,VG,VGB,204.11.56.48,18.4285,0
+Mountain View,VirusShare_b4554389215fd6f31860de84cac1ac1b,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Washington,VirusShare_bfc71d7e438224e07beca0adf0609050,scar,United States,2015,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bfc71d7e438224e07beca0adf0609050,scar,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bfc71d7e438224e07beca0adf0609050,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_75564d0614e45fe89439cc02d518bd50,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_75564d0614e45fe89439cc02d518bd50,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_75564d0614e45fe89439cc02d518bd50,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_75564d0614e45fe89439cc02d518bd50,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be3b60f882480d04e774fa50ad5d99c0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_be3b60f882480d04e774fa50ad5d99c0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_be3b60f882480d04e774fa50ad5d99c0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_be3b60f882480d04e774fa50ad5d99c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e33d92b19431ff164cfb5783a0e26cb0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e33d92b19431ff164cfb5783a0e26cb0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e33d92b19431ff164cfb5783a0e26cb0,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_bfa2d29eeffff131e358843933be2df0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bfa2d29eeffff131e358843933be2df0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e29b201b982f26680ca8dc9f69d01800,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e29b201b982f26680ca8dc9f69d01800,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e29b201b982f26680ca8dc9f69d01800,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf009f044b17f638f72a743d48bb1b90,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bf009f044b17f638f72a743d48bb1b90,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_bf009f044b17f638f72a743d48bb1b90,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Washington,VirusShare_e3e51ed058ac3686daf07c38bf639bf0,scar,United States,2016,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e3e51ed058ac3686daf07c38bf639bf0,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e3e51ed058ac3686daf07c38bf639bf0,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_72fae01555f681f6a9c1df50e6f4e330,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_72fae01555f681f6a9c1df50e6f4e330,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_72fae01555f681f6a9c1df50e6f4e330,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_72fae01555f681f6a9c1df50e6f4e330,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ceb0aebb6ed5ca8c188af68a58b62250,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ceb0aebb6ed5ca8c188af68a58b62250,scar,United States,2017,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_ceb0aebb6ed5ca8c188af68a58b62250,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b1ac582c34ad2c81ea521b76bb08be00,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b1ac582c34ad2c81ea521b76bb08be00,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1ac582c34ad2c81ea521b76bb08be00,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_74c03f3b4f8edf163db89e100851256f,scar,United States,2014,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_74c03f3b4f8edf163db89e100851256f,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_74c03f3b4f8edf163db89e100851256f,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_74c03f3b4f8edf163db89e100851256f,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_f11e52533333e4a147192e2548e31827,scar,United States,2013,-96.797,US,USA,23.67.253.171,32.7767,0
+Newark,VirusShare_f11e52533333e4a147192e2548e31827,scar,United States,2013,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f11e52533333e4a147192e2548e31827,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f11e52533333e4a147192e2548e31827,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Washington,VirusShare_e2d7ac9c7e98703233cb9b1dc39716ca,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e2d7ac9c7e98703233cb9b1dc39716ca,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e2d7ac9c7e98703233cb9b1dc39716ca,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b40079cc3b4d151b46e67c114b006b90,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b40079cc3b4d151b46e67c114b006b90,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b40079cc3b4d151b46e67c114b006b90,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b40079cc3b4d151b46e67c114b006b90,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_3a939db0598b59215a35082150663590,scar,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_3a939db0598b59215a35082150663590,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3a939db0598b59215a35082150663590,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_e39afd5fb0d11a844af5f5edc6924cb0,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_e39afd5fb0d11a844af5f5edc6924cb0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e39afd5fb0d11a844af5f5edc6924cb0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc7e45a8ec649aede814b2b924ae6350,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc7e45a8ec649aede814b2b924ae6350,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_dc7e45a8ec649aede814b2b924ae6350,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_71282bc6e1dee48a5f2bd74110c4f9f0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_71282bc6e1dee48a5f2bd74110c4f9f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_71282bc6e1dee48a5f2bd74110c4f9f0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_71282bc6e1dee48a5f2bd74110c4f9f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2d58e606869bfb30f0420898c61d938,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e2d58e606869bfb30f0420898c61d938,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e2d58e606869bfb30f0420898c61d938,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Washington,VirusShare_b4e9b88c143159457de241e81ff4d250,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_b4e9b88c143159457de241e81ff4d250,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e3ac7a2866b573d70af59171cbfff870,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e3ac7a2866b573d70af59171cbfff870,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e3ac7a2866b573d70af59171cbfff870,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e407d68fe54c13a709adf5ad0b4af7c0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e407d68fe54c13a709adf5ad0b4af7c0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e407d68fe54c13a709adf5ad0b4af7c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6be98e13be49af4e772cae26494b02b,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b6be98e13be49af4e772cae26494b02b,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b6be98e13be49af4e772cae26494b02b,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b6be98e13be49af4e772cae26494b02b,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e218f544bfb896709e0e88f71e946080,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e218f544bfb896709e0e88f71e946080,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e218f544bfb896709e0e88f71e946080,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e34b58a99bde96cd71c827897b617f97,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e34b58a99bde96cd71c827897b617f97,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e34b58a99bde96cd71c827897b617f97,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8022af42585759dbf1bd2499864de4d,scar,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8022af42585759dbf1bd2499864de4d,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8022af42585759dbf1bd2499864de4d,scar,United States,2013,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b8022af42585759dbf1bd2499864de4d,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf3db13fe2429fdd0fcebc647aaa6890,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bf3db13fe2429fdd0fcebc647aaa6890,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_bf3db13fe2429fdd0fcebc647aaa6890,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b83fed01e49300d45afadc61a5e5cf50,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_b83fed01e49300d45afadc61a5e5cf50,scar,United States,2017,-84.388,US,USA,23.73.181.64,33.749,0
+Mountain View,VirusShare_b83fed01e49300d45afadc61a5e5cf50,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b601a7b6091d449233f11faaebf02060,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b601a7b6091d449233f11faaebf02060,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b601a7b6091d449233f11faaebf02060,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b601a7b6091d449233f11faaebf02060,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2644b017bc43b591effac682593ab8b,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e2644b017bc43b591effac682593ab8b,scar,United States,2013,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_e2644b017bc43b591effac682593ab8b,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3cfaa2e2f48a9f0a77c3b42b512a6c0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3cfaa2e2f48a9f0a77c3b42b512a6c0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b3cfaa2e2f48a9f0a77c3b42b512a6c0,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b3cfaa2e2f48a9f0a77c3b42b512a6c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e38e235fc8a26f1db226294ba7ba6401,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e38e235fc8a26f1db226294ba7ba6401,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e38e235fc8a26f1db226294ba7ba6401,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e20453dc4318c5d120fd17e9cd3c2920,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e20453dc4318c5d120fd17e9cd3c2920,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e20453dc4318c5d120fd17e9cd3c2920,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b62e6bd8388b3fe0deb457a61bda1ef4,scar,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b62e6bd8388b3fe0deb457a61bda1ef4,scar,United States,2013,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b62e6bd8388b3fe0deb457a61bda1ef4,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b62e6bd8388b3fe0deb457a61bda1ef4,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f13ef3a3383a12f23e8468c2d3a17520,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f13ef3a3383a12f23e8468c2d3a17520,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f13ef3a3383a12f23e8468c2d3a17520,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_f13ef3a3383a12f23e8468c2d3a17520,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dbd9206bb1ce24cef33e77402ffc3a07,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dbd9206bb1ce24cef33e77402ffc3a07,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e28aaa65138d324ecf947d078663c8f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e28aaa65138d324ecf947d078663c8f0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e28aaa65138d324ecf947d078663c8f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be0e77e6a6e13d9d64fca7928ddd0c47,scar,United States,2013,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_be0e77e6a6e13d9d64fca7928ddd0c47,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_be0e77e6a6e13d9d64fca7928ddd0c47,scar,United States,2013,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_be0e77e6a6e13d9d64fca7928ddd0c47,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdc516ec4b04ac9b984d1d82757ed630,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bdc516ec4b04ac9b984d1d82757ed630,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bdc516ec4b04ac9b984d1d82757ed630,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bdc516ec4b04ac9b984d1d82757ed630,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e14108a3ac542fac0be2b214f83bf940,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e14108a3ac542fac0be2b214f83bf940,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e14108a3ac542fac0be2b214f83bf940,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e14108a3ac542fac0be2b214f83bf940,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2991d8fbc8326df98446d955ed6b450,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e2991d8fbc8326df98446d955ed6b450,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e2991d8fbc8326df98446d955ed6b450,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e16486e2ff92af61a160aec52d6ba2a0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e16486e2ff92af61a160aec52d6ba2a0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e16486e2ff92af61a160aec52d6ba2a0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e16486e2ff92af61a160aec52d6ba2a0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_33fda51788a2afa5602436ce58131110,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_33fda51788a2afa5602436ce58131110,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_33fda51788a2afa5602436ce58131110,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_33fda51788a2afa5602436ce58131110,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba6c32eba7d3aa97742ab92395c47330,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba6c32eba7d3aa97742ab92395c47330,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba6c32eba7d3aa97742ab92395c47330,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_ba6c32eba7d3aa97742ab92395c47330,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bebd5a68b747881ed9ad308f729c1500,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_bebd5a68b747881ed9ad308f729c1500,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_bebd5a68b747881ed9ad308f729c1500,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b24e1d46950548d1f636272d0b6df4a0,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b24e1d46950548d1f636272d0b6df4a0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b24e1d46950548d1f636272d0b6df4a0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba0b298fd4ac86fec90722812b7b2681,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba0b298fd4ac86fec90722812b7b2681,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_ba0b298fd4ac86fec90722812b7b2681,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_ba0b298fd4ac86fec90722812b7b2681,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b36e6a9feb26751824698602ad104510,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b36e6a9feb26751824698602ad104510,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b36e6a9feb26751824698602ad104510,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b36e6a9feb26751824698602ad104510,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7a6b0779f6a71cfd0220a4d3baf67a10,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7a6b0779f6a71cfd0220a4d3baf67a10,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_7a6b0779f6a71cfd0220a4d3baf67a10,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_e240dfed26661455f8c1d5bd66eea370,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e240dfed26661455f8c1d5bd66eea370,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e240dfed26661455f8c1d5bd66eea370,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_70f443d75f5edae9adc42ad56d772974,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_70f443d75f5edae9adc42ad56d772974,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_70f443d75f5edae9adc42ad56d772974,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_70f443d75f5edae9adc42ad56d772974,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bfeb00bf5f6cc2cec8ed9b07f34b7c10,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bfeb00bf5f6cc2cec8ed9b07f34b7c10,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_bfeb00bf5f6cc2cec8ed9b07f34b7c10,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_cba762de09dcfdfc817946cbaa012590,scar,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_cba762de09dcfdfc817946cbaa012590,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cba762de09dcfdfc817946cbaa012590,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bec4e62d5a877126a845f499a475669c,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_bec4e62d5a877126a845f499a475669c,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_bec4e62d5a877126a845f499a475669c,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f16889936ef3e663d0d5deb14b038a30,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f16889936ef3e663d0d5deb14b038a30,scar,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_f16889936ef3e663d0d5deb14b038a30,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f16889936ef3e663d0d5deb14b038a30,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4bbff18b40a8b87ba4432f50ce718f0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4bbff18b40a8b87ba4432f50ce718f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4bbff18b40a8b87ba4432f50ce718f0,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b4bbff18b40a8b87ba4432f50ce718f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_30ba9fa47254ad9749ba23cb682db740,scar,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_30ba9fa47254ad9749ba23cb682db740,scar,United States,2015,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_30ba9fa47254ad9749ba23cb682db740,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba2a01a30cab51580eda37f22734bcec,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba2a01a30cab51580eda37f22734bcec,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_ba2a01a30cab51580eda37f22734bcec,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_ba2a01a30cab51580eda37f22734bcec,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b40d9bb96d43faeaa9e6def60b25de50,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b40d9bb96d43faeaa9e6def60b25de50,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b40d9bb96d43faeaa9e6def60b25de50,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b40d9bb96d43faeaa9e6def60b25de50,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e3de22d101c9102b556889dd72b4fa74,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e3de22d101c9102b556889dd72b4fa74,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e3de22d101c9102b556889dd72b4fa74,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b418e8458ffce2e63dbe769d630948d0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b418e8458ffce2e63dbe769d630948d0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b418e8458ffce2e63dbe769d630948d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b418e8458ffce2e63dbe769d630948d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e35b61374ba5fb6841a911edb41dd772,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e35b61374ba5fb6841a911edb41dd772,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e35b61374ba5fb6841a911edb41dd772,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e109c5a41809cb116398966f1216e760,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_e109c5a41809cb116398966f1216e760,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_e109c5a41809cb116398966f1216e760,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e109c5a41809cb116398966f1216e760,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdab81757d65f7a85ed08ac5f41e2d60,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bdab81757d65f7a85ed08ac5f41e2d60,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bdab81757d65f7a85ed08ac5f41e2d60,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bdab81757d65f7a85ed08ac5f41e2d60,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba6a7218689bd87dec6e5d5fbb6ca500,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_ba6a7218689bd87dec6e5d5fbb6ca500,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_ba6a7218689bd87dec6e5d5fbb6ca500,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba6a7218689bd87dec6e5d5fbb6ca500,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Paris,VirusShare_e4004b52ad46c0748ce6377fbf8d1ba0,scar,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_e4004b52ad46c0748ce6377fbf8d1ba0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0d9db6bb416dcfb19518c6c72424970,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e0d9db6bb416dcfb19518c6c72424970,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e0d9db6bb416dcfb19518c6c72424970,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0d9db6bb416dcfb19518c6c72424970,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6588f2438a0b14cbbdb2037c4a1850f,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b6588f2438a0b14cbbdb2037c4a1850f,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b6588f2438a0b14cbbdb2037c4a1850f,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6588f2438a0b14cbbdb2037c4a1850f,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba0a5e088954cf4f2d1e63e559b8cde0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Los Angeles,VirusShare_ba0a5e088954cf4f2d1e63e559b8cde0,scar,United States,2014,-118.257,US,USA,69.172.201.153,34.0473,0
+Redmond,VirusShare_ba0a5e088954cf4f2d1e63e559b8cde0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_ba0a5e088954cf4f2d1e63e559b8cde0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_ba0a5e088954cf4f2d1e63e559b8cde0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e09b877d1df0e173ed9aa04b90a471b0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e09b877d1df0e173ed9aa04b90a471b0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e09b877d1df0e173ed9aa04b90a471b0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e09b877d1df0e173ed9aa04b90a471b0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7506866bcf020bc285725ddde9cb6b30,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7506866bcf020bc285725ddde9cb6b30,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7506866bcf020bc285725ddde9cb6b30,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_7506866bcf020bc285725ddde9cb6b30,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baba19ff13e189f540eb146a0cf53820,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_baba19ff13e189f540eb146a0cf53820,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_baba19ff13e189f540eb146a0cf53820,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_baba19ff13e189f540eb146a0cf53820,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bebe3a1b529d8929e6720f1ac8f86b20,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bebe3a1b529d8929e6720f1ac8f86b20,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bebe3a1b529d8929e6720f1ac8f86b20,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e30e3f5f9b5308d6feceac34a249e8ca,scar,United States,2016,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e30e3f5f9b5308d6feceac34a249e8ca,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb2e749ba0458bc89381b31bdad4d300,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_bb2e749ba0458bc89381b31bdad4d300,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bb2e749ba0458bc89381b31bdad4d300,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb2e749ba0458bc89381b31bdad4d300,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b0fb3cd848b4f514f5e28373cdc3d350,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b0fb3cd848b4f514f5e28373cdc3d350,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b0fb3cd848b4f514f5e28373cdc3d350,scar,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_b0fb3cd848b4f514f5e28373cdc3d350,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_70a062c75afcefe9db10b414bf6ad137,scar,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_70a062c75afcefe9db10b414bf6ad137,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_70a062c75afcefe9db10b414bf6ad137,scar,United States,2013,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_70a062c75afcefe9db10b414bf6ad137,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e234e6f2c1c9bcd9cb8f09d66dbc20a0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e234e6f2c1c9bcd9cb8f09d66dbc20a0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e234e6f2c1c9bcd9cb8f09d66dbc20a0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3c07dbc6bd8f903a30126e001b831dc0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3c07dbc6bd8f903a30126e001b831dc0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_3c07dbc6bd8f903a30126e001b831dc0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb53ac589ac3e0716e122ffab6e70390,scar,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb53ac589ac3e0716e122ffab6e70390,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8b38c1272503c4f7b426210ccca0750,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b8b38c1272503c4f7b426210ccca0750,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b8b38c1272503c4f7b426210ccca0750,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b8b38c1272503c4f7b426210ccca0750,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba5763999afa057fa9c4e2d2652b8e00,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba5763999afa057fa9c4e2d2652b8e00,scar,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_ba5763999afa057fa9c4e2d2652b8e00,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba5763999afa057fa9c4e2d2652b8e00,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b137473cb752bef767594b5b69179400,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b137473cb752bef767594b5b69179400,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b137473cb752bef767594b5b69179400,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b44e97370ed0f5353ff481ded9a0f718,scar,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b44e97370ed0f5353ff481ded9a0f718,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b44e97370ed0f5353ff481ded9a0f718,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_b44e97370ed0f5353ff481ded9a0f718,scar,United States,2013,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b1b8d7715bea48ec07c37e3381750b36,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b1b8d7715bea48ec07c37e3381750b36,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b1b8d7715bea48ec07c37e3381750b36,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1b8d7715bea48ec07c37e3381750b36,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f026d2cb93c299802ad507351901a6e0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f026d2cb93c299802ad507351901a6e0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f026d2cb93c299802ad507351901a6e0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f026d2cb93c299802ad507351901a6e0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_cbda0c5f7de9dc06e15cfb861a893586,scar,United States,2013,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_cbda0c5f7de9dc06e15cfb861a893586,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cbda0c5f7de9dc06e15cfb861a893586,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f03b9d2ba545cb1c00010adf227e39a0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f03b9d2ba545cb1c00010adf227e39a0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f03b9d2ba545cb1c00010adf227e39a0,scar,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_f03b9d2ba545cb1c00010adf227e39a0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd9c1eb1aedb0620a24c42a670262f10,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd9c1eb1aedb0620a24c42a670262f10,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bd9c1eb1aedb0620a24c42a670262f10,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd9c1eb1aedb0620a24c42a670262f10,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdf7a5cc87e99ba5649a225716de1570,scar,United States,2015,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_bdf7a5cc87e99ba5649a225716de1570,scar,United States,2015,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_bdf7a5cc87e99ba5649a225716de1570,scar,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bdf7a5cc87e99ba5649a225716de1570,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbe7640827622123db49bb43ccde8cb6,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cbe7640827622123db49bb43ccde8cb6,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be5dd0451630120a865496ba2d2e60ba,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be5dd0451630120a865496ba2d2e60ba,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_be5dd0451630120a865496ba2d2e60ba,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be5dd0451630120a865496ba2d2e60ba,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3bb58a4346e4dba0dab11d548f3c8d10,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_3bb58a4346e4dba0dab11d548f3c8d10,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3bb58a4346e4dba0dab11d548f3c8d10,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_3bb58a4346e4dba0dab11d548f3c8d10,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cb33f689c2f34dd30aca070966825562,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_7c7a795165bb93afa9d02579b0f553f0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_7c7a795165bb93afa9d02579b0f553f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7c7a795165bb93afa9d02579b0f553f0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_7c7a795165bb93afa9d02579b0f553f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3cea11d24bb4d79ac893f5d7e0d31e30,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_3cea11d24bb4d79ac893f5d7e0d31e30,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_3cea11d24bb4d79ac893f5d7e0d31e30,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3cea11d24bb4d79ac893f5d7e0d31e30,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cac6a92c3f6099ccdbe56d1faf5c2410,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_cac6a92c3f6099ccdbe56d1faf5c2410,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cac6a92c3f6099ccdbe56d1faf5c2410,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bac1a3e61889d4939e7d896bb4b31200,scar,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bac1a3e61889d4939e7d896bb4b31200,scar,United States,2015,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_bac1a3e61889d4939e7d896bb4b31200,scar,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bac1a3e61889d4939e7d896bb4b31200,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3f40550384a2c2aad08987541b52a909,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_3f40550384a2c2aad08987541b52a909,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_3f40550384a2c2aad08987541b52a909,scar,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_3f40550384a2c2aad08987541b52a909,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1ecb51d83c791b84e4e2e61d3ca1fc0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b1ecb51d83c791b84e4e2e61d3ca1fc0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b1ecb51d83c791b84e4e2e61d3ca1fc0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b1ecb51d83c791b84e4e2e61d3ca1fc0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b16182022d2da1bcfcb2ab86363be0c0,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b16182022d2da1bcfcb2ab86363be0c0,scar,United States,2016,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b16182022d2da1bcfcb2ab86363be0c0,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e33718755a3b79c6d878359260276740,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e33718755a3b79c6d878359260276740,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e33718755a3b79c6d878359260276740,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0ec300ce39a2ef403f866e07d06fe00,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f0ec300ce39a2ef403f866e07d06fe00,scar,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_f0ec300ce39a2ef403f866e07d06fe00,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0ec300ce39a2ef403f866e07d06fe00,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_71b28ffc0cca0d81aed56c810c940b20,scar,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_71b28ffc0cca0d81aed56c810c940b20,scar,United States,2015,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_71b28ffc0cca0d81aed56c810c940b20,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_33d19e889f22cf8c8e2b9d35dcf1d560,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_33d19e889f22cf8c8e2b9d35dcf1d560,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_33d19e889f22cf8c8e2b9d35dcf1d560,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb10d74a23b406161f8d012e207d57e0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb10d74a23b406161f8d012e207d57e0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_cb10d74a23b406161f8d012e207d57e0,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Atlanta,VirusShare_be7f02af4d7b171dad70e5aa4b19b01a,scar,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_be7f02af4d7b171dad70e5aa4b19b01a,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be7f02af4d7b171dad70e5aa4b19b01a,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db6b05a61261c75e8ea1e30f41ba0700,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_db6b05a61261c75e8ea1e30f41ba0700,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_db6b05a61261c75e8ea1e30f41ba0700,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2f3bc28f22e60a226a79bb52960fe50,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e2f3bc28f22e60a226a79bb52960fe50,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e2f3bc28f22e60a226a79bb52960fe50,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f140c667036a23ceb2aa3800edcb73f0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f140c667036a23ceb2aa3800edcb73f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f140c667036a23ceb2aa3800edcb73f0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_f140c667036a23ceb2aa3800edcb73f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1b4e73c7286c1dda02a676cd07f2ea0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b1b4e73c7286c1dda02a676cd07f2ea0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_b1b4e73c7286c1dda02a676cd07f2ea0,scar,United States,2014,-77.4874,US,USA,184.26.93.48,39.0438,0
+Mountain View,VirusShare_b1b4e73c7286c1dda02a676cd07f2ea0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db1b547af18871e75b1d7bd34e6af610,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_db1b547af18871e75b1d7bd34e6af610,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_db1b547af18871e75b1d7bd34e6af610,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e157f016a1658b7b17f4bcbc0ffbb047,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e157f016a1658b7b17f4bcbc0ffbb047,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e157f016a1658b7b17f4bcbc0ffbb047,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e157f016a1658b7b17f4bcbc0ffbb047,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3ebb5729492faed616c5c9fa4af9450,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3ebb5729492faed616c5c9fa4af9450,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b3ebb5729492faed616c5c9fa4af9450,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3ebb5729492faed616c5c9fa4af9450,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e3af1168ba1843033f7a8d8574fd32b0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e3af1168ba1843033f7a8d8574fd32b0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e3af1168ba1843033f7a8d8574fd32b0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1cd894a859fb48c5be730890ea292f8,scar,United States,2013,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1cd894a859fb48c5be730890ea292f8,scar,United States,2013,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e1cd894a859fb48c5be730890ea292f8,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1cd894a859fb48c5be730890ea292f8,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_e2817dbf5529f4d08be9816d0b109f80,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e2817dbf5529f4d08be9816d0b109f80,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_a74ba9b899b96b5c8ff9ce43c89e2ec7,scar,United States,2016,-96.797,US,USA,23.67.253.171,32.7767,0
+Redmond,VirusShare_a74ba9b899b96b5c8ff9ce43c89e2ec7,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_a74ba9b899b96b5c8ff9ce43c89e2ec7,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb199aaba93e232c4075ce55e75119c0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_bb199aaba93e232c4075ce55e75119c0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bb199aaba93e232c4075ce55e75119c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b11a1dacc256bab8a4b4cb0063b67060,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b11a1dacc256bab8a4b4cb0063b67060,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b11a1dacc256bab8a4b4cb0063b67060,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4c0081b01100ff97010bf1274ab4530,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4c0081b01100ff97010bf1274ab4530,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4c0081b01100ff97010bf1274ab4530,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b4c0081b01100ff97010bf1274ab4530,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_713b0843ff10def05018964445868fa0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_713b0843ff10def05018964445868fa0,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_713b0843ff10def05018964445868fa0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e344366cfa15aa01c48e740b38c5da60,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e344366cfa15aa01c48e740b38c5da60,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e344366cfa15aa01c48e740b38c5da60,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_f0416a6f7e07a5eb23fa4e3e39fc8690,scar,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f0416a6f7e07a5eb23fa4e3e39fc8690,scar,United States,2016,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f0416a6f7e07a5eb23fa4e3e39fc8690,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0416a6f7e07a5eb23fa4e3e39fc8690,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e007f4aa9e8659d09be3f5a9a56f2a50,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_e007f4aa9e8659d09be3f5a9a56f2a50,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e007f4aa9e8659d09be3f5a9a56f2a50,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e007f4aa9e8659d09be3f5a9a56f2a50,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd7fb28a8d0157525489467d42ef5480,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bd7fb28a8d0157525489467d42ef5480,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bd7fb28a8d0157525489467d42ef5480,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bd7fb28a8d0157525489467d42ef5480,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cc26bcf76c7b7aecdbbb0aa947d63b70,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_cc26bcf76c7b7aecdbbb0aa947d63b70,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cc26bcf76c7b7aecdbbb0aa947d63b70,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_71e63d96602b685bc78c0eb97e8716d0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_71e63d96602b685bc78c0eb97e8716d0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_71e63d96602b685bc78c0eb97e8716d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_71e63d96602b685bc78c0eb97e8716d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b25ebca783b8e0d120ffe8c64250c797,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc6b50108a878f85d93900dcc2411d00,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_dc6b50108a878f85d93900dcc2411d00,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_dc6b50108a878f85d93900dcc2411d00,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_78f998c339f78f1cf3bc14eee0bb6590,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_78f998c339f78f1cf3bc14eee0bb6590,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_78f998c339f78f1cf3bc14eee0bb6590,scar,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_78f998c339f78f1cf3bc14eee0bb6590,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db37660712bf541ae0213b173b245394,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_f1f2001a2b79e44371e2e0454520a8d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f1f2001a2b79e44371e2e0454520a8d0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_f1f2001a2b79e44371e2e0454520a8d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_f1e83ebcd516fceae7506dc408655790,scar,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_f1e83ebcd516fceae7506dc408655790,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f1e83ebcd516fceae7506dc408655790,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba01f770f07952ba7f941165d59d0940,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba01f770f07952ba7f941165d59d0940,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_ba01f770f07952ba7f941165d59d0940,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba01f770f07952ba7f941165d59d0940,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0cffdd4771045bafcedf915ff2e4660,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0cffdd4771045bafcedf915ff2e4660,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f0cffdd4771045bafcedf915ff2e4660,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f0cffdd4771045bafcedf915ff2e4660,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cc1aa5299a07237b65664e4c3b8c00b6,scar,United States,2012,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cc1aa5299a07237b65664e4c3b8c00b6,scar,United States,2012,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cc1aa5299a07237b65664e4c3b8c00b6,scar,United States,2012,-96.797,US,USA,23.67.253.162,32.7767,0
+Redmond,VirusShare_7af4a47375242f75dbfe7f7a1210c4bd,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7af4a47375242f75dbfe7f7a1210c4bd,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7af4a47375242f75dbfe7f7a1210c4bd,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_7af4a47375242f75dbfe7f7a1210c4bd,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_79afb275156f6ad72bbf02649dbc0d5d,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_79afb275156f6ad72bbf02649dbc0d5d,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_79afb275156f6ad72bbf02649dbc0d5d,scar,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_79afb275156f6ad72bbf02649dbc0d5d,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_7763b1e1fc18bd3acc23e1cb4523248d,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1ae14dedf29757a097eaddc4777b930,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1ae14dedf29757a097eaddc4777b930,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e1ae14dedf29757a097eaddc4777b930,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1ae14dedf29757a097eaddc4777b930,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b407e4507261969a3db5c6ebe9b393c0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b407e4507261969a3db5c6ebe9b393c0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b407e4507261969a3db5c6ebe9b393c0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b407e4507261969a3db5c6ebe9b393c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc35517c134486ca06a60818d264c340,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_dc35517c134486ca06a60818d264c340,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_dc35517c134486ca06a60818d264c340,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cc12c3a0f85a5e4f8c0025261cdd98f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cc12c3a0f85a5e4f8c0025261cdd98f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e3adc417baaafc23aec2e0bae5745400,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e3adc417baaafc23aec2e0bae5745400,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e3adc417baaafc23aec2e0bae5745400,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7b604fd12a96dbed08b4c3379b4bd240,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7b604fd12a96dbed08b4c3379b4bd240,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_7b604fd12a96dbed08b4c3379b4bd240,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Dallas,VirusShare_e43cbf7dfcf00e1dd58314de1f6e5510,scar,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_e43cbf7dfcf00e1dd58314de1f6e5510,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e43cbf7dfcf00e1dd58314de1f6e5510,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf6dce99184813aa3eb012e950d4bc30,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bf6dce99184813aa3eb012e950d4bc30,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Los Angeles,VirusShare_dbae9143e2bd93fbfb8bae980901dcf0,scar,United States,2014,-118.257,US,USA,69.172.201.153,34.0473,0
+Redmond,VirusShare_dbae9143e2bd93fbfb8bae980901dcf0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dbae9143e2bd93fbfb8bae980901dcf0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_dbae9143e2bd93fbfb8bae980901dcf0,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_e08d0dd38360e1a14c0b084a239a4670,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e08d0dd38360e1a14c0b084a239a4670,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e08d0dd38360e1a14c0b084a239a4670,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e08d0dd38360e1a14c0b084a239a4670,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc90b102e42cdf70898a10642f9f9340,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_dc90b102e42cdf70898a10642f9f9340,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_dc90b102e42cdf70898a10642f9f9340,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e3242e461d574aea6744747018707720,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e3242e461d574aea6744747018707720,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e3242e461d574aea6744747018707720,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_7327e9f12a155bdbc968a20d9385bac0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_7327e9f12a155bdbc968a20d9385bac0,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_7327e9f12a155bdbc968a20d9385bac0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_caab6ff9c92aab35ab3f573e9ff56140,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_caab6ff9c92aab35ab3f573e9ff56140,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_caab6ff9c92aab35ab3f573e9ff56140,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_cb6a18febd7bb7a09fd081ff2b180950,scar,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_cb6a18febd7bb7a09fd081ff2b180950,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb6a18febd7bb7a09fd081ff2b180950,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b683ae04d4b96d39d52c879645d9d2e0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b683ae04d4b96d39d52c879645d9d2e0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b683ae04d4b96d39d52c879645d9d2e0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b683ae04d4b96d39d52c879645d9d2e0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cad095a34e446b32400c9dfbf503ec50,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cad095a34e446b32400c9dfbf503ec50,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f13435b7c1f05e52366158d695b05de2,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f13435b7c1f05e52366158d695b05de2,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f13435b7c1f05e52366158d695b05de2,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f13435b7c1f05e52366158d695b05de2,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b80ce8af039c5c3aaefb44661b7f4f82,scar,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b80ce8af039c5c3aaefb44661b7f4f82,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b80ce8af039c5c3aaefb44661b7f4f82,scar,United States,2013,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b80ce8af039c5c3aaefb44661b7f4f82,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3c261bf38ac813600c40d9c54ee42bf0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3c261bf38ac813600c40d9c54ee42bf0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_3c261bf38ac813600c40d9c54ee42bf0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dc5989e7fbb05c2d21d407ecbf673a30,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_71d6bb97546da9614b4d5f17fcb8a5d0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_71d6bb97546da9614b4d5f17fcb8a5d0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_71d6bb97546da9614b4d5f17fcb8a5d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_71d6bb97546da9614b4d5f17fcb8a5d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b34a25828c02bdad994f27c62d9e2f5e,scar,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b34a25828c02bdad994f27c62d9e2f5e,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b34a25828c02bdad994f27c62d9e2f5e,scar,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b34a25828c02bdad994f27c62d9e2f5e,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be458b4795237336d9ef5c8d17db5fe0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_be458b4795237336d9ef5c8d17db5fe0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_be458b4795237336d9ef5c8d17db5fe0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_be458b4795237336d9ef5c8d17db5fe0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd9daaa4f93bed02d64465fd4931a810,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd9daaa4f93bed02d64465fd4931a810,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bd9daaa4f93bed02d64465fd4931a810,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd9daaa4f93bed02d64465fd4931a810,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2e03d5fa3c99c64d75a436efdbbfe20,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e2e03d5fa3c99c64d75a436efdbbfe20,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e2e03d5fa3c99c64d75a436efdbbfe20,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b1d082fc6bf8fe0fdc8fcbada19fad10,scar,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b1d082fc6bf8fe0fdc8fcbada19fad10,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1d082fc6bf8fe0fdc8fcbada19fad10,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cb8ede53adf60015cf3800f6004562d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_712d71151772dd72e813b1c2835ae9f0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_712d71151772dd72e813b1c2835ae9f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_712d71151772dd72e813b1c2835ae9f0,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_712d71151772dd72e813b1c2835ae9f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dacf9d56bdb58b9a08db2b3f0284f6d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dacf9d56bdb58b9a08db2b3f0284f6d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_dacf9d56bdb58b9a08db2b3f0284f6d0,scar,United States,2014,-96.797,US,USA,23.67.253.162,32.7767,0
+Newark,VirusShare_74c3b0ac572a42e2c56f355b3c0d27f0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_74c3b0ac572a42e2c56f355b3c0d27f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_74c3b0ac572a42e2c56f355b3c0d27f0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_74c3b0ac572a42e2c56f355b3c0d27f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b33880a94d390402d18510aaea65c2c0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b33880a94d390402d18510aaea65c2c0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b33880a94d390402d18510aaea65c2c0,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b33880a94d390402d18510aaea65c2c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_611c98ca8a0aff5cee0cb1ca51742363,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_611c98ca8a0aff5cee0cb1ca51742363,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_611c98ca8a0aff5cee0cb1ca51742363,scar,United States,2017,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_611c98ca8a0aff5cee0cb1ca51742363,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0fcb74a086fdb35a5fdc63ed371fc50,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f0fcb74a086fdb35a5fdc63ed371fc50,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_f0fcb74a086fdb35a5fdc63ed371fc50,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0fcb74a086fdb35a5fdc63ed371fc50,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_73ccd9e6c3f72722f301cf7a398c4cf0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_73ccd9e6c3f72722f301cf7a398c4cf0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_73ccd9e6c3f72722f301cf7a398c4cf0,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b3be923db63443c63250293302df5f80,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3be923db63443c63250293302df5f80,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b3be923db63443c63250293302df5f80,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b3be923db63443c63250293302df5f80,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7ca7e40efd887bd5f7b47821b7c6cb7f,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7ca7e40efd887bd5f7b47821b7c6cb7f,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_7ca7e40efd887bd5f7b47821b7c6cb7f,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_e0d9e9ec8b29cf9941a1ba0e3165bcd4,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e0d9e9ec8b29cf9941a1ba0e3165bcd4,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e0d9e9ec8b29cf9941a1ba0e3165bcd4,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0d9e9ec8b29cf9941a1ba0e3165bcd4,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb96ceb1188b98f00c50e34bd2003d4d,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb96ceb1188b98f00c50e34bd2003d4d,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f022f8ad1c765df131d3ee5c14dc9cb0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f022f8ad1c765df131d3ee5c14dc9cb0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_f022f8ad1c765df131d3ee5c14dc9cb0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f022f8ad1c765df131d3ee5c14dc9cb0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0216501c7245de7032c8d000cec800a,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Atlanta,VirusShare_f0216501c7245de7032c8d000cec800a,scar,United States,2014,-84.388,US,USA,184.51.150.8,33.749,0
+Redmond,VirusShare_f0216501c7245de7032c8d000cec800a,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0216501c7245de7032c8d000cec800a,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b082ac692c4b8e17ce61985ca5c42872,scar,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b082ac692c4b8e17ce61985ca5c42872,scar,United States,2016,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b082ac692c4b8e17ce61985ca5c42872,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b082ac692c4b8e17ce61985ca5c42872,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b87b082cf8ca9f94d84aa6b068229050,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b87b082cf8ca9f94d84aa6b068229050,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b87b082cf8ca9f94d84aa6b068229050,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_b87b082cf8ca9f94d84aa6b068229050,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdea5d93c8be1e175556273ee407b440,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bdea5d93c8be1e175556273ee407b440,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bdea5d93c8be1e175556273ee407b440,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bdea5d93c8be1e175556273ee407b440,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_35fdc73469565a48e00b110d62d806d2,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_35fdc73469565a48e00b110d62d806d2,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_35fdc73469565a48e00b110d62d806d2,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_35fdc73469565a48e00b110d62d806d2,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3668c7186afa89877e4efa857b754500,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_3668c7186afa89877e4efa857b754500,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_3668c7186afa89877e4efa857b754500,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_3668c7186afa89877e4efa857b754500,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be35d3365a45362eff89461be7c219e0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_be35d3365a45362eff89461be7c219e0,scar,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_be35d3365a45362eff89461be7c219e0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be35d3365a45362eff89461be7c219e0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_33ea28539f3224cae8a578f802c223f0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_33ea28539f3224cae8a578f802c223f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_33ea28539f3224cae8a578f802c223f0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_33ea28539f3224cae8a578f802c223f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0c0ad0604683fe931d2d9519fae6cb0,scar,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0c0ad0604683fe931d2d9519fae6cb0,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f0c0ad0604683fe931d2d9519fae6cb0,scar,United States,2016,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_f0c0ad0604683fe931d2d9519fae6cb0,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0c299566225ca7ce935fa7e4ba5acf0,scar,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e0c299566225ca7ce935fa7e4ba5acf0,scar,United States,2016,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e0c299566225ca7ce935fa7e4ba5acf0,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0c299566225ca7ce935fa7e4ba5acf0,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4cd6739c58d937687ae1550eb8e1610,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4cd6739c58d937687ae1550eb8e1610,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4cd6739c58d937687ae1550eb8e1610,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b4cd6739c58d937687ae1550eb8e1610,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_79817a782a58b7a024b4c17b366e4b50,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_79817a782a58b7a024b4c17b366e4b50,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_79817a782a58b7a024b4c17b366e4b50,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_79817a782a58b7a024b4c17b366e4b50,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1127498551fc839f0ff0d25594bb1d0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e1127498551fc839f0ff0d25594bb1d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e1127498551fc839f0ff0d25594bb1d0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e1127498551fc839f0ff0d25594bb1d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0a76563f61c3b8377d70c923e469b20,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e0a76563f61c3b8377d70c923e469b20,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e0a76563f61c3b8377d70c923e469b20,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e0a76563f61c3b8377d70c923e469b20,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_769ad1e4eecc5acad205719d137487a0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Mountain View,VirusShare_769ad1e4eecc5acad205719d137487a0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_769ad1e4eecc5acad205719d137487a0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_769ad1e4eecc5acad205719d137487a0,scar,United States,2014,-96.797,US,USA,23.72.136.130,32.7767,0
+Newark,VirusShare_f17f40adf68b64cd94abc3922adcefbe,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Atlanta,VirusShare_f17f40adf68b64cd94abc3922adcefbe,scar,United States,2014,-84.388,US,USA,184.51.150.8,33.749,0
+Redmond,VirusShare_f17f40adf68b64cd94abc3922adcefbe,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f17f40adf68b64cd94abc3922adcefbe,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bde6bd156e054d4edf4c8e98e4c276e0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bde6bd156e054d4edf4c8e98e4c276e0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bde6bd156e054d4edf4c8e98e4c276e0,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_bde6bd156e054d4edf4c8e98e4c276e0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3512e277a8635eb73bab7738c2316368,scar,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_3512e277a8635eb73bab7738c2316368,scar,United States,2013,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_3512e277a8635eb73bab7738c2316368,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3512e277a8635eb73bab7738c2316368,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8a4bed09534392d6948fb5d08aeba30,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8a4bed09534392d6948fb5d08aeba30,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8a4bed09534392d6948fb5d08aeba30,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b8a4bed09534392d6948fb5d08aeba30,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdb5c135c5be04db54b3c0ab8e06f317,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bdb5c135c5be04db54b3c0ab8e06f317,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bdb5c135c5be04db54b3c0ab8e06f317,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bdb5c135c5be04db54b3c0ab8e06f317,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1676522702be382cdae2ee3108480c0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e1676522702be382cdae2ee3108480c0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e1676522702be382cdae2ee3108480c0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e1676522702be382cdae2ee3108480c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e01a749787deb24f886aec9eb0ff12e0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_e01a749787deb24f886aec9eb0ff12e0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e01a749787deb24f886aec9eb0ff12e0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e01a749787deb24f886aec9eb0ff12e0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd3a9aad82113e4ed70e3b1de2444784,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd3a9aad82113e4ed70e3b1de2444784,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_bd3a9aad82113e4ed70e3b1de2444784,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd3a9aad82113e4ed70e3b1de2444784,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e17caeb8da1bd882c467f3a71cdde700,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e17caeb8da1bd882c467f3a71cdde700,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_e17caeb8da1bd882c467f3a71cdde700,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e17caeb8da1bd882c467f3a71cdde700,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e16dcadebcc4fcd76ef8d6f910f5fb90,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e16dcadebcc4fcd76ef8d6f910f5fb90,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e16dcadebcc4fcd76ef8d6f910f5fb90,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e16dcadebcc4fcd76ef8d6f910f5fb90,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e079c74adcecf34e6aeddd572d3b1380,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e079c74adcecf34e6aeddd572d3b1380,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e079c74adcecf34e6aeddd572d3b1380,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e079c74adcecf34e6aeddd572d3b1380,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f124549d7968a276750b2730a6ba9cf0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f124549d7968a276750b2730a6ba9cf0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f124549d7968a276750b2730a6ba9cf0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f124549d7968a276750b2730a6ba9cf0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1ca68882d2172c80406889a72f04fa0,scar,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1ca68882d2172c80406889a72f04fa0,scar,United States,2016,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e1ca68882d2172c80406889a72f04fa0,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1ca68882d2172c80406889a72f04fa0,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e18450aed94a78402a326bc5f615d429,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e18450aed94a78402a326bc5f615d429,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e18450aed94a78402a326bc5f615d429,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e18450aed94a78402a326bc5f615d429,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd75d00f2edcbbd3aae546755972b420,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bd75d00f2edcbbd3aae546755972b420,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bd75d00f2edcbbd3aae546755972b420,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bd75d00f2edcbbd3aae546755972b420,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdc4fd3a2227bc941a1f22efc39e0a10,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bdc4fd3a2227bc941a1f22efc39e0a10,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bdc4fd3a2227bc941a1f22efc39e0a10,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bdc4fd3a2227bc941a1f22efc39e0a10,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_b20d5d9a43c3a3abaa90b6978d39a620,scar,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_b20d5d9a43c3a3abaa90b6978d39a620,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b20d5d9a43c3a3abaa90b6978d39a620,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f044ec72b696dd10c59f9d4ea5bf19b0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f044ec72b696dd10c59f9d4ea5bf19b0,scar,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_f044ec72b696dd10c59f9d4ea5bf19b0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f044ec72b696dd10c59f9d4ea5bf19b0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_38b87636cdeaf35564fe194fdb6b8340,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_38b87636cdeaf35564fe194fdb6b8340,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_38b87636cdeaf35564fe194fdb6b8340,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_38b87636cdeaf35564fe194fdb6b8340,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb524da39d93994dba65507714ce45c0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb524da39d93994dba65507714ce45c0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb524da39d93994dba65507714ce45c0,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_bb524da39d93994dba65507714ce45c0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f13065a6deb855385eddde553c26fc90,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f13065a6deb855385eddde553c26fc90,scar,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_f13065a6deb855385eddde553c26fc90,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f13065a6deb855385eddde553c26fc90,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be3474afc699cdd22fc254f56d746810,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be3474afc699cdd22fc254f56d746810,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_be3474afc699cdd22fc254f56d746810,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be3474afc699cdd22fc254f56d746810,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0a6bc2379a53f0994f014752d586900,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_f0a6bc2379a53f0994f014752d586900,scar,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_f0a6bc2379a53f0994f014752d586900,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0a6bc2379a53f0994f014752d586900,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_7bfef354eccc1c7b413345c0df02b450,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_7bfef354eccc1c7b413345c0df02b450,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7bfef354eccc1c7b413345c0df02b450,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_f16b6d0fade13275ae02d46879b0ff97,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Chicago,VirusShare_f16b6d0fade13275ae02d46879b0ff97,scar,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_f16b6d0fade13275ae02d46879b0ff97,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f16b6d0fade13275ae02d46879b0ff97,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3b2627193939e7b2d11b513c9980480,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3b2627193939e7b2d11b513c9980480,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b3b2627193939e7b2d11b513c9980480,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdc38c71ab735a1924375e245f0f2320,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bdc38c71ab735a1924375e245f0f2320,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bdc38c71ab735a1924375e245f0f2320,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bdc38c71ab735a1924375e245f0f2320,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_79aaa14fe02e51a375f2f7a226c56fe7,scar,United States,2013,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_79aaa14fe02e51a375f2f7a226c56fe7,scar,United States,2013,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_79aaa14fe02e51a375f2f7a226c56fe7,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_79aaa14fe02e51a375f2f7a226c56fe7,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_34857058fda450db5ed1726d9e375c20,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_34857058fda450db5ed1726d9e375c20,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_34857058fda450db5ed1726d9e375c20,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_34857058fda450db5ed1726d9e375c20,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0d97a03350746a639b1159aadaca32f,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0d97a03350746a639b1159aadaca32f,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f0d97a03350746a639b1159aadaca32f,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_f0d97a03350746a639b1159aadaca32f,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf54c7ea97281eb97165f0f8b4d63430,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_bf54c7ea97281eb97165f0f8b4d63430,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_bf54c7ea97281eb97165f0f8b4d63430,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_7c604bf56a0dc8d8dd524a65ff6ed970,scar,United States,2015,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_7c604bf56a0dc8d8dd524a65ff6ed970,scar,United States,2015,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_7c604bf56a0dc8d8dd524a65ff6ed970,scar,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7c604bf56a0dc8d8dd524a65ff6ed970,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b36499f5729fc9e3c48ce726ad379bc0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b36499f5729fc9e3c48ce726ad379bc0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b36499f5729fc9e3c48ce726ad379bc0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b36499f5729fc9e3c48ce726ad379bc0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e06f6fa0a40a3e9c682ffe9d1f718980,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e06f6fa0a40a3e9c682ffe9d1f718980,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e06f6fa0a40a3e9c682ffe9d1f718980,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e06f6fa0a40a3e9c682ffe9d1f718980,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0658a803bacb62db7cac6b9ff967840,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f0658a803bacb62db7cac6b9ff967840,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f0658a803bacb62db7cac6b9ff967840,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0658a803bacb62db7cac6b9ff967840,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e35ae9a3462fdce104de21d8fc288450,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e35ae9a3462fdce104de21d8fc288450,scar,United States,2016,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e35ae9a3462fdce104de21d8fc288450,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e4054a3826881d614050c47363f2b140,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e4054a3826881d614050c47363f2b140,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_e4054a3826881d614050c47363f2b140,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8cf34afddc42d7b35c59ab646113d80,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b8cf34afddc42d7b35c59ab646113d80,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b8cf34afddc42d7b35c59ab646113d80,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b8cf34afddc42d7b35c59ab646113d80,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1a053f98610d11032489be4bd4ae78b,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1a053f98610d11032489be4bd4ae78b,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e1a053f98610d11032489be4bd4ae78b,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1a053f98610d11032489be4bd4ae78b,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0d3cbcfc3bb9ec4268bf0ba64948b60,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0d3cbcfc3bb9ec4268bf0ba64948b60,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f0d3cbcfc3bb9ec4268bf0ba64948b60,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_f0d3cbcfc3bb9ec4268bf0ba64948b60,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b18167e9d8f2c0ee351ed39b04d369e0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b18167e9d8f2c0ee351ed39b04d369e0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b18167e9d8f2c0ee351ed39b04d369e0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b18167e9d8f2c0ee351ed39b04d369e0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc3258806829ded5f33840d8dd2c0b20,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc3258806829ded5f33840d8dd2c0b20,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_dc3258806829ded5f33840d8dd2c0b20,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_f0e06c1a87fd462ad38997c3047cb011,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f0e06c1a87fd462ad38997c3047cb011,scar,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_f0e06c1a87fd462ad38997c3047cb011,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0e06c1a87fd462ad38997c3047cb011,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e120bec11524ed1445f4d17b567b82b0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e120bec11524ed1445f4d17b567b82b0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e120bec11524ed1445f4d17b567b82b0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e120bec11524ed1445f4d17b567b82b0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba052280408456d8e2dd375a023ef4d0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba052280408456d8e2dd375a023ef4d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba052280408456d8e2dd375a023ef4d0,scar,United States,2014,-96.797,US,USA,184.24.98.184,32.7767,0
+Mountain View,VirusShare_ba052280408456d8e2dd375a023ef4d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd15d7f2984e8ca998f9302d54ec3bb0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bd15d7f2984e8ca998f9302d54ec3bb0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bd15d7f2984e8ca998f9302d54ec3bb0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bd15d7f2984e8ca998f9302d54ec3bb0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7666abc981c63b9c2c9b801a62b5d480,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7666abc981c63b9c2c9b801a62b5d480,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_7666abc981c63b9c2c9b801a62b5d480,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7666abc981c63b9c2c9b801a62b5d480,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba0c5042e38cad57943e5c8f255bff70,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_ba0c5042e38cad57943e5c8f255bff70,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_ba0c5042e38cad57943e5c8f255bff70,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba0c5042e38cad57943e5c8f255bff70,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6a6ddbcc6172ba92f24208a0632a1e5,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b6a6ddbcc6172ba92f24208a0632a1e5,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b6a6ddbcc6172ba92f24208a0632a1e5,scar,United States,2017,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_b6a6ddbcc6172ba92f24208a0632a1e5,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f04eed016c907e8ad6e889119d3adca0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f04eed016c907e8ad6e889119d3adca0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f04eed016c907e8ad6e889119d3adca0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f04eed016c907e8ad6e889119d3adca0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f19a794fce8e0b788f941a5f2f6e6550,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f19a794fce8e0b788f941a5f2f6e6550,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f19a794fce8e0b788f941a5f2f6e6550,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f19a794fce8e0b788f941a5f2f6e6550,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f06b0ee07daa7f914dec27f98a6d8850,scar,United States,2017,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f06b0ee07daa7f914dec27f98a6d8850,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f06b0ee07daa7f914dec27f98a6d8850,scar,United States,2017,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_f06b0ee07daa7f914dec27f98a6d8850,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_696a01ad2683d0af0ae336cc2e4ce3aa,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_696a01ad2683d0af0ae336cc2e4ce3aa,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_696a01ad2683d0af0ae336cc2e4ce3aa,scar,United States,2017,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_696a01ad2683d0af0ae336cc2e4ce3aa,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3d24ef231b3c42448446e2b84513a4a,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3d24ef231b3c42448446e2b84513a4a,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b3d24ef231b3c42448446e2b84513a4a,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3d24ef231b3c42448446e2b84513a4a,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb6fce6acc527d4fd567a56521ce07ac,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb6fce6acc527d4fd567a56521ce07ac,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb6fce6acc527d4fd567a56521ce07ac,scar,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_bb6fce6acc527d4fd567a56521ce07ac,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_761fa544cb08012d4924e7ec573de6a0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_761fa544cb08012d4924e7ec573de6a0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_761fa544cb08012d4924e7ec573de6a0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_761fa544cb08012d4924e7ec573de6a0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_8122eadb3739a3167d9077c1b1ca8751,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_8122eadb3739a3167d9077c1b1ca8751,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_8122eadb3739a3167d9077c1b1ca8751,scar,United States,2017,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_8122eadb3739a3167d9077c1b1ca8751,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0c10eb469e58497a154de78d10a4680,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e0c10eb469e58497a154de78d10a4680,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e0c10eb469e58497a154de78d10a4680,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e0c10eb469e58497a154de78d10a4680,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6044ac60dd8bc1a52c193bce793eafd,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b6044ac60dd8bc1a52c193bce793eafd,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b6044ac60dd8bc1a52c193bce793eafd,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6044ac60dd8bc1a52c193bce793eafd,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8aef99360f0ee584853a1dfafa2cff0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8aef99360f0ee584853a1dfafa2cff0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8aef99360f0ee584853a1dfafa2cff0,scar,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b8aef99360f0ee584853a1dfafa2cff0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be677aa9de5a24e8adec84df97b2a0d1,scar,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be677aa9de5a24e8adec84df97b2a0d1,scar,United States,2016,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_be677aa9de5a24e8adec84df97b2a0d1,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be677aa9de5a24e8adec84df97b2a0d1,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd6d3ee2992f7cd75fe29e8ddcb43c90,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bd6d3ee2992f7cd75fe29e8ddcb43c90,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bd6d3ee2992f7cd75fe29e8ddcb43c90,scar,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_bd6d3ee2992f7cd75fe29e8ddcb43c90,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e09c0dd8a0912b482412e5c1ff2d21f0,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e09c0dd8a0912b482412e5c1ff2d21f0,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e09c0dd8a0912b482412e5c1ff2d21f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e09c0dd8a0912b482412e5c1ff2d21f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_0dcce4b026c4855f46a8aabb482fa1d0,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_0dcce4b026c4855f46a8aabb482fa1d0,scar,United States,2017,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_0dcce4b026c4855f46a8aabb482fa1d0,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_0dcce4b026c4855f46a8aabb482fa1d0,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_79ee22681a526d1d7407923a01691d6f,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_79ee22681a526d1d7407923a01691d6f,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_71a0be4e2ad273d85f610ac0832ac318,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_71a0be4e2ad273d85f610ac0832ac318,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_71a0be4e2ad273d85f610ac0832ac318,scar,United States,2017,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_71a0be4e2ad273d85f610ac0832ac318,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_7b878637f7109ecc804f2c69d472cd00,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_7b878637f7109ecc804f2c69d472cd00,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_7b878637f7109ecc804f2c69d472cd00,scar,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_7b878637f7109ecc804f2c69d472cd00,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8bc1bc6bea6e0093ea02f1a40afe07c,scar,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b8bc1bc6bea6e0093ea02f1a40afe07c,scar,United States,2016,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b8bc1bc6bea6e0093ea02f1a40afe07c,scar,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b8bc1bc6bea6e0093ea02f1a40afe07c,scar,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e162bba6f33a0850115b5e90d0932620,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_e162bba6f33a0850115b5e90d0932620,scar,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_e162bba6f33a0850115b5e90d0932620,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e162bba6f33a0850115b5e90d0932620,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4c8c333f84bbc9f5de55e9fcdcc9e70,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4c8c333f84bbc9f5de55e9fcdcc9e70,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4c8c333f84bbc9f5de55e9fcdcc9e70,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b4c8c333f84bbc9f5de55e9fcdcc9e70,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc1414a47515f00cbba1612525420c30,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc1414a47515f00cbba1612525420c30,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_dc1414a47515f00cbba1612525420c30,scar,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_db74a246204b88a5bbc65433a7d305a0,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db74a246204b88a5bbc65433a7d305a0,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_db74a246204b88a5bbc65433a7d305a0,scar,United States,2017,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_be86a1b164616ac48fbc1ff4d30dd220,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_be86a1b164616ac48fbc1ff4d30dd220,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_be86a1b164616ac48fbc1ff4d30dd220,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_6075f468a205a165c88d52b6b7342e0d,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_6075f468a205a165c88d52b6b7342e0d,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_6075f468a205a165c88d52b6b7342e0d,scar,United States,2017,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_6075f468a205a165c88d52b6b7342e0d,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be434e40f72bbdda4d3fa48b9cdcbdd4,scar,United States,2013,-74.1724,US,USA,157.56.144.215,40.7357,0
+San Francisco,VirusShare_be434e40f72bbdda4d3fa48b9cdcbdd4,scar,United States,2013,-122.393,US,USA,162.125.48.131,37.7808,0
+Redmond,VirusShare_be434e40f72bbdda4d3fa48b9cdcbdd4,scar,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_be434e40f72bbdda4d3fa48b9cdcbdd4,scar,United States,2013,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_be434e40f72bbdda4d3fa48b9cdcbdd4,scar,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_b1d5540259c54473556419ca3ab3c360,scar,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_b1d5540259c54473556419ca3ab3c360,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1d5540259c54473556419ca3ab3c360,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_dae52ff30e8b5abd77eadc3306712b10,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_dae52ff30e8b5abd77eadc3306712b10,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dae52ff30e8b5abd77eadc3306712b10,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3c0db6fc5725292c973c3afd3c454ba0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3c0db6fc5725292c973c3afd3c454ba0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3c0db6fc5725292c973c3afd3c454ba0,scar,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_3c0db6fc5725292c973c3afd3c454ba0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7961d8b978afb6f3e3acca7498878f70,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_7961d8b978afb6f3e3acca7498878f70,scar,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_7961d8b978afb6f3e3acca7498878f70,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7961d8b978afb6f3e3acca7498878f70,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb2730fee17b645988283bbc8127d880,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_cb2730fee17b645988283bbc8127d880,scar,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_cb2730fee17b645988283bbc8127d880,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e021ff4a99075c98bd3d74e664bbd172,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_e021ff4a99075c98bd3d74e664bbd172,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e021ff4a99075c98bd3d74e664bbd172,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e021ff4a99075c98bd3d74e664bbd172,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6b7ae915e35a9a6da7139756ec44ab0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b6b7ae915e35a9a6da7139756ec44ab0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b6b7ae915e35a9a6da7139756ec44ab0,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b6b7ae915e35a9a6da7139756ec44ab0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f15617962020a2baa14db9d91487bb22,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f15617962020a2baa14db9d91487bb22,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f15617962020a2baa14db9d91487bb22,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_f15617962020a2baa14db9d91487bb22,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_ba887361a9c5dec0073f0538a6fe20f0,scar,United States,2014,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_ba887361a9c5dec0073f0538a6fe20f0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba887361a9c5dec0073f0538a6fe20f0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba887361a9c5dec0073f0538a6fe20f0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3b42fead1ddb44c6c137550dc4cb0d7e,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3b42fead1ddb44c6c137550dc4cb0d7e,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_3b42fead1ddb44c6c137550dc4cb0d7e,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ad57dbea28aded901251a40f812f9c76,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ad57dbea28aded901251a40f812f9c76,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_ad57dbea28aded901251a40f812f9c76,scar,United States,2017,-77.4874,US,USA,184.26.93.48,39.0438,0
+Mountain View,VirusShare_ad57dbea28aded901251a40f812f9c76,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3c3780b35049769abc8a26cb86ddb30,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3c3780b35049769abc8a26cb86ddb30,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b3c3780b35049769abc8a26cb86ddb30,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3c3780b35049769abc8a26cb86ddb30,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba93f6b2925787a063bc0df92c674980,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba93f6b2925787a063bc0df92c674980,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_ba93f6b2925787a063bc0df92c674980,scar,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_ba93f6b2925787a063bc0df92c674980,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_e22dcf0987e6fde1e208778e6d907bf0,scar,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e22dcf0987e6fde1e208778e6d907bf0,scar,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e22dcf0987e6fde1e208778e6d907bf0,scar,United States,2015,-77.4874,US,USA,184.26.93.81,39.0438,0
+Newark,VirusShare_f129c0844ca5e7a533322e72def60b00,scar,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f129c0844ca5e7a533322e72def60b00,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f129c0844ca5e7a533322e72def60b00,scar,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_f129c0844ca5e7a533322e72def60b00,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7200b8705f7b9b56564461be4d60c23f,scar,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7200b8705f7b9b56564461be4d60c23f,scar,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7200b8705f7b9b56564461be4d60c23f,scar,United States,2017,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_7200b8705f7b9b56564461be4d60c23f,scar,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b22d77d6fc2869f7eafab567ad32d730,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b22d77d6fc2869f7eafab567ad32d730,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_b22d77d6fc2869f7eafab567ad32d730,scar,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Redmond,VirusShare_b65d89ffaf1afc689286bc36a0fc9900,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b65d89ffaf1afc689286bc36a0fc9900,scar,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b65d89ffaf1afc689286bc36a0fc9900,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b65d89ffaf1afc689286bc36a0fc9900,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b681fbe24a5d539de455e3f885e9498f,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b681fbe24a5d539de455e3f885e9498f,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b681fbe24a5d539de455e3f885e9498f,scar,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b681fbe24a5d539de455e3f885e9498f,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba8a32ed997edc084a7f897a4a5df458,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba8a32ed997edc084a7f897a4a5df458,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba8a32ed997edc084a7f897a4a5df458,scar,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_ba8a32ed997edc084a7f897a4a5df458,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3b43b22b93dfd2a84668369904d55220,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_3b43b22b93dfd2a84668369904d55220,scar,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_3b43b22b93dfd2a84668369904d55220,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3b43b22b93dfd2a84668369904d55220,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b605b3666d4a86ce0199d291af0003d0,scar,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b605b3666d4a86ce0199d291af0003d0,scar,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b605b3666d4a86ce0199d291af0003d0,scar,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b605b3666d4a86ce0199d291af0003d0,scar,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0

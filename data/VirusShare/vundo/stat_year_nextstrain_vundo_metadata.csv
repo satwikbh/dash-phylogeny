@@ -1,0 +1,1556 @@
+city,name,family_name,country,year,longitude,iso-2,iso-3,ip,latitude,value
+Redmond,VirusShare_cab8902ac552bfa282bfa574c9eab340,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cab8902ac552bfa282bfa574c9eab340,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cab8902ac552bfa282bfa574c9eab340,vundo,United States,2014,-96.797,US,USA,23.67.253.162,32.7767,0
+Mountain View,VirusShare_cae9fac315351955f30626a00471eb40,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b31ad0f5bc15daff26e64fe7a4e77ad0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b31ad0f5bc15daff26e64fe7a4e77ad0,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b31ad0f5bc15daff26e64fe7a4e77ad0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b31ad0f5bc15daff26e64fe7a4e77ad0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc8a8f69d69970988d0ad64ca9423500,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc8a8f69d69970988d0ad64ca9423500,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3f6299875caad282ad685507298555a,vundo,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3f6299875caad282ad685507298555a,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b3f6299875caad282ad685507298555a,vundo,United States,2013,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b3f6299875caad282ad685507298555a,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f016ee85ea97f699eeb5d516f8fc0d06,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f016ee85ea97f699eeb5d516f8fc0d06,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_f016ee85ea97f699eeb5d516f8fc0d06,vundo,United States,2014,-77.4874,US,USA,184.26.93.48,39.0438,0
+Mountain View,VirusShare_f016ee85ea97f699eeb5d516f8fc0d06,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_be7c0cd3beb34830ba20d59f2d2f44a2,vundo,United States,2012,-84.388,US,USA,23.72.137.81,33.749,0
+Mountain View,VirusShare_be7c0cd3beb34830ba20d59f2d2f44a2,vundo,United States,2012,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8bfbd325b293c2382d8656a64db7110,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_b8bfbd325b293c2382d8656a64db7110,vundo,United States,2014,-84.388,US,USA,23.73.181.64,33.749,0
+Redmond,VirusShare_b8bfbd325b293c2382d8656a64db7110,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b8bfbd325b293c2382d8656a64db7110,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6d2cf8667147d00091967b751795c50,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b6d2cf8667147d00091967b751795c50,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b6d2cf8667147d00091967b751795c50,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6d2cf8667147d00091967b751795c50,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_38144b8a68b18769044c844300c243a3,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_38144b8a68b18769044c844300c243a3,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_38144b8a68b18769044c844300c243a3,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_38144b8a68b18769044c844300c243a3,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6a43c268ca1ee1dc3498fdfaf711d27,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b6a43c268ca1ee1dc3498fdfaf711d27,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Mountain View,VirusShare_b6a43c268ca1ee1dc3498fdfaf711d27,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb77357c2fca12b78660dec65cd58371,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb77357c2fca12b78660dec65cd58371,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb77357c2fca12b78660dec65cd58371,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_bb77357c2fca12b78660dec65cd58371,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3429fce1d664e6f162f14326d6b10635,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3429fce1d664e6f162f14326d6b10635,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_3429fce1d664e6f162f14326d6b10635,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3429fce1d664e6f162f14326d6b10635,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b32b8cd567d6bbcfb4c098ab7ab3db3c,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b32b8cd567d6bbcfb4c098ab7ab3db3c,vundo,United States,2016,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b32b8cd567d6bbcfb4c098ab7ab3db3c,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b697d2ae9a9a4af57ac66f1391d57bc0,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b697d2ae9a9a4af57ac66f1391d57bc0,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b697d2ae9a9a4af57ac66f1391d57bc0,vundo,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b697d2ae9a9a4af57ac66f1391d57bc0,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b84ab56d0ec2237aeb2405f318ed3510,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b84ab56d0ec2237aeb2405f318ed3510,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b84ab56d0ec2237aeb2405f318ed3510,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7c6f2312278df4311489c7fcd69329c5,vundo,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7c6f2312278df4311489c7fcd69329c5,vundo,United States,2013,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_7c6f2312278df4311489c7fcd69329c5,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bfcd239db60c623864c2d593f959862c,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bfcd239db60c623864c2d593f959862c,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bae2c778c916f12f17039c349f0da3d0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bae2c778c916f12f17039c349f0da3d0,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_bae2c778c916f12f17039c349f0da3d0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bae2c778c916f12f17039c349f0da3d0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb03bec9d0f0c3c365a3774c515d2400,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb03bec9d0f0c3c365a3774c515d2400,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb03bec9d0f0c3c365a3774c515d2400,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bb03bec9d0f0c3c365a3774c515d2400,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7ad067d8ed3790c52ccb11a559d275f8,vundo,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_7ad067d8ed3790c52ccb11a559d275f8,vundo,United States,2013,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_7ad067d8ed3790c52ccb11a559d275f8,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7ad067d8ed3790c52ccb11a559d275f8,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baa25b69a12f820cd330d9216aad893a,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_baa25b69a12f820cd330d9216aad893a,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_baa25b69a12f820cd330d9216aad893a,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_baa25b69a12f820cd330d9216aad893a,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb4a3ba384c8e1a3e67098f3d9e91cf0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb4a3ba384c8e1a3e67098f3d9e91cf0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb4a3ba384c8e1a3e67098f3d9e91cf0,vundo,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_bb4a3ba384c8e1a3e67098f3d9e91cf0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e03f2c46c89e5e63b651bde4f2c45b02,vundo,United States,2012,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_e03f2c46c89e5e63b651bde4f2c45b02,vundo,United States,2012,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_e03f2c46c89e5e63b651bde4f2c45b02,vundo,United States,2012,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e03f2c46c89e5e63b651bde4f2c45b02,vundo,United States,2012,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_32417174b5dc3de6760747bd8af7e530,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_32417174b5dc3de6760747bd8af7e530,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_32417174b5dc3de6760747bd8af7e530,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_32417174b5dc3de6760747bd8af7e530,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_32037d11813beb22da61c826cf9434ae,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_32037d11813beb22da61c826cf9434ae,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_32037d11813beb22da61c826cf9434ae,vundo,United States,2014,-77.4874,US,USA,184.26.93.48,39.0438,0
+Mountain View,VirusShare_32037d11813beb22da61c826cf9434ae,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e02847298d0cada5d45e0029da40cde0,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_e02847298d0cada5d45e0029da40cde0,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e02847298d0cada5d45e0029da40cde0,vundo,United States,2016,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_e02847298d0cada5d45e0029da40cde0,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba54d7a85a9d746443980800db013603,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba54d7a85a9d746443980800db013603,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_ba54d7a85a9d746443980800db013603,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba54d7a85a9d746443980800db013603,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_30e1fc0534641832c5d8da20d2cee650,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_30e1fc0534641832c5d8da20d2cee650,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_30e1fc0534641832c5d8da20d2cee650,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_30e1fc0534641832c5d8da20d2cee650,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baac985223d25523cef8f0011a4b09f3,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_baac985223d25523cef8f0011a4b09f3,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_baac985223d25523cef8f0011a4b09f3,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_baac985223d25523cef8f0011a4b09f3,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e16ab4fc6ab009d0fc784662612f0a00,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e16ab4fc6ab009d0fc784662612f0a00,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e16ab4fc6ab009d0fc784662612f0a00,vundo,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_e16ab4fc6ab009d0fc784662612f0a00,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bafb7452c968e5b47c20fe6637a3c136,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bafb7452c968e5b47c20fe6637a3c136,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bafb7452c968e5b47c20fe6637a3c136,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_bafb7452c968e5b47c20fe6637a3c136,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e019cb63266ca46843468915faed7309,vundo,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_e019cb63266ca46843468915faed7309,vundo,United States,2013,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_e019cb63266ca46843468915faed7309,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e019cb63266ca46843468915faed7309,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bac910e4970140ea7e3c6138e8d4a56f,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bac910e4970140ea7e3c6138e8d4a56f,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bac910e4970140ea7e3c6138e8d4a56f,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bac910e4970140ea7e3c6138e8d4a56f,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_babc0a171d81a65f9be2edacf494b650,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_babc0a171d81a65f9be2edacf494b650,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_babc0a171d81a65f9be2edacf494b650,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_babc0a171d81a65f9be2edacf494b650,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_71f3fce9261834b3ab0930eeee0d6109,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_71f3fce9261834b3ab0930eeee0d6109,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b82a9c9df1193bf02c3a215fca68fab0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b82a9c9df1193bf02c3a215fca68fab0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b82a9c9df1193bf02c3a215fca68fab0,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b82a9c9df1193bf02c3a215fca68fab0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba7b5e6867d7eed926202c31b46bfe8f,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba7b5e6867d7eed926202c31b46bfe8f,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_ba7b5e6867d7eed926202c31b46bfe8f,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7c29899b51a531433f097c217671977f,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7c29899b51a531433f097c217671977f,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b835d485fa24c11c2acccca69a14a9b1,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b835d485fa24c11c2acccca69a14a9b1,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b835d485fa24c11c2acccca69a14a9b1,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b835d485fa24c11c2acccca69a14a9b1,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bac5e629ad92f5605f57c1525e3b0ab0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bac5e629ad92f5605f57c1525e3b0ab0,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_bac5e629ad92f5605f57c1525e3b0ab0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bac5e629ad92f5605f57c1525e3b0ab0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3ea471b9fabfed6e3bab951ab197361b,vundo,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_3ea471b9fabfed6e3bab951ab197361b,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3ea471b9fabfed6e3bab951ab197361b,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e00e01b6fceda73563898359bbcf210f,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_e00e01b6fceda73563898359bbcf210f,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e00e01b6fceda73563898359bbcf210f,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e00e01b6fceda73563898359bbcf210f,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_777de8f73a10bb2c61c3bfd9d54a6728,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_777de8f73a10bb2c61c3bfd9d54a6728,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba8ab3bcd56022b52a42705a731db4f0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba8ab3bcd56022b52a42705a731db4f0,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_ba8ab3bcd56022b52a42705a731db4f0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b45469e2fa542a7eefc000cbd3848a5d,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b45469e2fa542a7eefc000cbd3848a5d,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_b45469e2fa542a7eefc000cbd3848a5d,vundo,United States,2014,-77.4874,US,USA,184.26.93.48,39.0438,0
+Mountain View,VirusShare_b45469e2fa542a7eefc000cbd3848a5d,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7168d1f617310cd3ce17b5106cf00520,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7168d1f617310cd3ce17b5106cf00520,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7168d1f617310cd3ce17b5106cf00520,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Road Town,VirusShare_7168d1f617310cd3ce17b5106cf00520,vundo,British Virgin Islands,2014,-64.6131,VG,VGB,204.11.56.48,18.4285,0
+Mountain View,VirusShare_7168d1f617310cd3ce17b5106cf00520,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8cb97166dc019c40bbed747caa59b80,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b8cb97166dc019c40bbed747caa59b80,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b8cb97166dc019c40bbed747caa59b80,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b8cb97166dc019c40bbed747caa59b80,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7563209f5080393aeb8d99b6867baf04,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7563209f5080393aeb8d99b6867baf04,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7563209f5080393aeb8d99b6867baf04,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_7563209f5080393aeb8d99b6867baf04,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bba8272a77ba6466d1bb0c8ca4a6be09,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bba8272a77ba6466d1bb0c8ca4a6be09,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bba8272a77ba6466d1bb0c8ca4a6be09,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bba8272a77ba6466d1bb0c8ca4a6be09,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba2769c11227348872176be20a24616d,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba2769c11227348872176be20a24616d,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_ba2769c11227348872176be20a24616d,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e00dd09593cf3f74c1352000648d6954,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_e00dd09593cf3f74c1352000648d6954,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e00dd09593cf3f74c1352000648d6954,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_e00dd09593cf3f74c1352000648d6954,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b40471539dce7ac57616457a2f5fa530,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b40471539dce7ac57616457a2f5fa530,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b40471539dce7ac57616457a2f5fa530,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b40471539dce7ac57616457a2f5fa530,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6d7779ee4bd7817cd4603fe9c3ba1da,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b6d7779ee4bd7817cd4603fe9c3ba1da,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b6d7779ee4bd7817cd4603fe9c3ba1da,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b6d7779ee4bd7817cd4603fe9c3ba1da,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba4424d2de2bff19759a3dc1837c7b80,vundo,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba4424d2de2bff19759a3dc1837c7b80,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba4424d2de2bff19759a3dc1837c7b80,vundo,United States,2013,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_ba4424d2de2bff19759a3dc1837c7b80,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8f53efa4ea5fb7d2ebf873219481a75,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8f53efa4ea5fb7d2ebf873219481a75,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Atlanta,VirusShare_b8f53efa4ea5fb7d2ebf873219481a75,vundo,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Mountain View,VirusShare_b8f53efa4ea5fb7d2ebf873219481a75,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb672ff649a388c2cb6e6efd07228a30,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_bb672ff649a388c2cb6e6efd07228a30,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bb672ff649a388c2cb6e6efd07228a30,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Road Town,VirusShare_bb672ff649a388c2cb6e6efd07228a30,vundo,British Virgin Islands,2014,-64.6131,VG,VGB,204.11.56.48,18.4285,0
+Mountain View,VirusShare_bb672ff649a388c2cb6e6efd07228a30,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb4c7ecaee6ce629c9d242f9d603e03b,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb4c7ecaee6ce629c9d242f9d603e03b,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_bb4c7ecaee6ce629c9d242f9d603e03b,vundo,United States,2014,-77.4874,US,USA,184.26.93.48,39.0438,0
+Mountain View,VirusShare_bb4c7ecaee6ce629c9d242f9d603e03b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7509a0c0b5f15832dee6c597dd73bd01,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7509a0c0b5f15832dee6c597dd73bd01,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7509a0c0b5f15832dee6c597dd73bd01,vundo,United States,2016,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_7509a0c0b5f15832dee6c597dd73bd01,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3403aebe023dee8df7ecbbaac2f59156,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3403aebe023dee8df7ecbbaac2f59156,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3403aebe023dee8df7ecbbaac2f59156,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_3403aebe023dee8df7ecbbaac2f59156,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3edc1070b7c979a3cad0c6ca95cd019,vundo,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3edc1070b7c979a3cad0c6ca95cd019,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b3edc1070b7c979a3cad0c6ca95cd019,vundo,United States,2013,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b3edc1070b7c979a3cad0c6ca95cd019,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e0268de4acfb3133faf2d8d6be9a2530,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_e0268de4acfb3133faf2d8d6be9a2530,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_e0268de4acfb3133faf2d8d6be9a2530,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0268de4acfb3133faf2d8d6be9a2530,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b626cb472316f558a48af948a3da4111,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b626cb472316f558a48af948a3da4111,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_b626cb472316f558a48af948a3da4111,vundo,United States,2014,-77.4874,US,USA,184.26.93.48,39.0438,0
+Mountain View,VirusShare_b626cb472316f558a48af948a3da4111,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_37bb2a21eefa28f664be66941c51fdfd,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_37bb2a21eefa28f664be66941c51fdfd,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_37bb2a21eefa28f664be66941c51fdfd,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_37bb2a21eefa28f664be66941c51fdfd,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_3688e81e7ab8f4fde2462c455d24ca40,vundo,United States,2014,-96.797,US,USA,23.67.253.171,32.7767,0
+Mountain View,VirusShare_3688e81e7ab8f4fde2462c455d24ca40,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b123be77e75b90a52d45e6c84b8f558c,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b123be77e75b90a52d45e6c84b8f558c,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b123be77e75b90a52d45e6c84b8f558c,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b123be77e75b90a52d45e6c84b8f558c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3d8646eb8c1f145abfe615b8c63691de,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3d8646eb8c1f145abfe615b8c63691de,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_3d8646eb8c1f145abfe615b8c63691de,vundo,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_3d8646eb8c1f145abfe615b8c63691de,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b48a794859cf07464b06ca02f2d6dd9a,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b48a794859cf07464b06ca02f2d6dd9a,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b48a794859cf07464b06ca02f2d6dd9a,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b48a794859cf07464b06ca02f2d6dd9a,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba939e71a7fd29b47cf321514527c155,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba939e71a7fd29b47cf321514527c155,vundo,United States,2014,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_ba939e71a7fd29b47cf321514527c155,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba939e71a7fd29b47cf321514527c155,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4379c7a915bf7460c340568a07ecb44,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4379c7a915bf7460c340568a07ecb44,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b4379c7a915bf7460c340568a07ecb44,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cba813a24940866b9e8f6ca9024d3b78,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_cba813a24940866b9e8f6ca9024d3b78,vundo,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_cba813a24940866b9e8f6ca9024d3b78,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_330568beb5b53749c27ab343c70ae374,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_330568beb5b53749c27ab343c70ae374,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_330568beb5b53749c27ab343c70ae374,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_330568beb5b53749c27ab343c70ae374,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b416fb16eb582701f722e5a0f5aeb210,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b416fb16eb582701f722e5a0f5aeb210,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b416fb16eb582701f722e5a0f5aeb210,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b416fb16eb582701f722e5a0f5aeb210,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b64f1ad78ece934e13b10a5d9b8a0e4a,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b64f1ad78ece934e13b10a5d9b8a0e4a,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b64f1ad78ece934e13b10a5d9b8a0e4a,vundo,United States,2016,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b64f1ad78ece934e13b10a5d9b8a0e4a,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be4c1d91652f99f43e1c8c2156be3cc4,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_be4c1d91652f99f43e1c8c2156be3cc4,vundo,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Mountain View,VirusShare_be4c1d91652f99f43e1c8c2156be3cc4,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bbbb49c890c88a6227b5e13e352b8852,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bbbb49c890c88a6227b5e13e352b8852,vundo,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_bbbb49c890c88a6227b5e13e352b8852,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0e8dde755e5a1e2275df7a3c53be1b0,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0e8dde755e5a1e2275df7a3c53be1b0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_f0e8dde755e5a1e2275df7a3c53be1b0,vundo,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_f0e8dde755e5a1e2275df7a3c53be1b0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bda4ba67b0978525b20dbaace0ca9730,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bda4ba67b0978525b20dbaace0ca9730,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_bda4ba67b0978525b20dbaace0ca9730,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b469bafeb6c8ed6650466e2ef26fcabc,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Mountain View,VirusShare_b469bafeb6c8ed6650466e2ef26fcabc,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_b469bafeb6c8ed6650466e2ef26fcabc,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_78e5e74e42e01546907c9660d642a9a7,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_78e5e74e42e01546907c9660d642a9a7,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_78e5e74e42e01546907c9660d642a9a7,vundo,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_78e5e74e42e01546907c9660d642a9a7,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3a68994f74b35547ed069d357a5747c0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_3a68994f74b35547ed069d357a5747c0,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Mountain View,VirusShare_3a68994f74b35547ed069d357a5747c0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6f17a674b1b9fb6ee7e7dfac7b8e150,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b6f17a674b1b9fb6ee7e7dfac7b8e150,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b6f17a674b1b9fb6ee7e7dfac7b8e150,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6f17a674b1b9fb6ee7e7dfac7b8e150,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3597585dc55b0b7ec99c42acb43a2486,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3597585dc55b0b7ec99c42acb43a2486,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_3597585dc55b0b7ec99c42acb43a2486,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_3597585dc55b0b7ec99c42acb43a2486,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd5bec91b9a1fb993abd333069b3a152,vundo,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bd5bec91b9a1fb993abd333069b3a152,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bd5bec91b9a1fb993abd333069b3a152,vundo,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bd5bec91b9a1fb993abd333069b3a152,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1010a730356b4e029a6e1c341326d40,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_e1010a730356b4e029a6e1c341326d40,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Mountain View,VirusShare_e1010a730356b4e029a6e1c341326d40,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b30d8d571d4f37317b0065599cfb7e3e,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b30d8d571d4f37317b0065599cfb7e3e,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b30d8d571d4f37317b0065599cfb7e3e,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b30d8d571d4f37317b0065599cfb7e3e,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4c1c074b3ec9c63eeb852aae91cc4f2,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4c1c074b3ec9c63eeb852aae91cc4f2,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4c1c074b3ec9c63eeb852aae91cc4f2,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b4c1c074b3ec9c63eeb852aae91cc4f2,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b33bed4049a99698fd51c16fdb7f9650,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b33bed4049a99698fd51c16fdb7f9650,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b33bed4049a99698fd51c16fdb7f9650,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b33bed4049a99698fd51c16fdb7f9650,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_767aecad96a704e4b0267a6c7fc5ac80,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_767aecad96a704e4b0267a6c7fc5ac80,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_767aecad96a704e4b0267a6c7fc5ac80,vundo,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_767aecad96a704e4b0267a6c7fc5ac80,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b45370160ee9a1015ce1f3f1b2c30e31,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b45370160ee9a1015ce1f3f1b2c30e31,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b45370160ee9a1015ce1f3f1b2c30e31,vundo,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b45370160ee9a1015ce1f3f1b2c30e31,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba8f8624f428565f8570b52da96a4dc0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba8f8624f428565f8570b52da96a4dc0,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_ba8f8624f428565f8570b52da96a4dc0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba8f8624f428565f8570b52da96a4dc0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6b4b193445f072d0fd35bfd1e360930,vundo,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b6b4b193445f072d0fd35bfd1e360930,vundo,United States,2015,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b6b4b193445f072d0fd35bfd1e360930,vundo,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6b4b193445f072d0fd35bfd1e360930,vundo,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7a16f6eb8ee423714e0a7853a4c3de53,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7a16f6eb8ee423714e0a7853a4c3de53,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7a16f6eb8ee423714e0a7853a4c3de53,vundo,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_7a16f6eb8ee423714e0a7853a4c3de53,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cc250421bf72b986af2242d73c6bb4ab,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba109cb1d2acd66676abacccca6e44a5,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_ba109cb1d2acd66676abacccca6e44a5,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_ba109cb1d2acd66676abacccca6e44a5,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba109cb1d2acd66676abacccca6e44a5,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_381a4facd2b904387dced1fb997c8647,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_381a4facd2b904387dced1fb997c8647,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_381a4facd2b904387dced1fb997c8647,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3747695d7a13c5197c2b250f30011c4f,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_3747695d7a13c5197c2b250f30011c4f,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_3747695d7a13c5197c2b250f30011c4f,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3747695d7a13c5197c2b250f30011c4f,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baffdb2e87963a9b85d9db0c3c00018c,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_baffdb2e87963a9b85d9db0c3c00018c,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_baffdb2e87963a9b85d9db0c3c00018c,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_baffdb2e87963a9b85d9db0c3c00018c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1e6ea2c6323a6c2311bcc71ccb6a16d,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b1e6ea2c6323a6c2311bcc71ccb6a16d,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b1e6ea2c6323a6c2311bcc71ccb6a16d,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1e6ea2c6323a6c2311bcc71ccb6a16d,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7bbca468fe8e8bff54f8a90d4a0c393d,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7bbca468fe8e8bff54f8a90d4a0c393d,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_7bbca468fe8e8bff54f8a90d4a0c393d,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7bbca468fe8e8bff54f8a90d4a0c393d,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be33035ff9b81b47acc880465ca49990,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_be33035ff9b81b47acc880465ca49990,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_be33035ff9b81b47acc880465ca49990,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_be33035ff9b81b47acc880465ca49990,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4320d069e0a0bdb1ab7991a6de1df48,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4320d069e0a0bdb1ab7991a6de1df48,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4320d069e0a0bdb1ab7991a6de1df48,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_b4320d069e0a0bdb1ab7991a6de1df48,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b0d7cb38d295c116d7dbbdb5559d68c5,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b0d7cb38d295c116d7dbbdb5559d68c5,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b0d7cb38d295c116d7dbbdb5559d68c5,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b0d7cb38d295c116d7dbbdb5559d68c5,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b12323598b0388cc24c0f844d5789298,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b12323598b0388cc24c0f844d5789298,vundo,United States,2014,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_b12323598b0388cc24c0f844d5789298,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b12323598b0388cc24c0f844d5789298,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7cdbb01817a87422011afd041f34c9b5,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7cdbb01817a87422011afd041f34c9b5,vundo,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_7cdbb01817a87422011afd041f34c9b5,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_756d47a56cce75c67250619cdbe04ea0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_756d47a56cce75c67250619cdbe04ea0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_756d47a56cce75c67250619cdbe04ea0,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Road Town,VirusShare_756d47a56cce75c67250619cdbe04ea0,vundo,British Virgin Islands,2014,-64.6131,VG,VGB,204.11.56.48,18.4285,0
+Mountain View,VirusShare_756d47a56cce75c67250619cdbe04ea0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_30e50f19c2f12e73f71fe9d8eb732290,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_30e50f19c2f12e73f71fe9d8eb732290,vundo,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_30e50f19c2f12e73f71fe9d8eb732290,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_31ee163daa40db588f34710bbe5dc660,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_31ee163daa40db588f34710bbe5dc660,vundo,United States,2014,-84.388,US,USA,23.73.181.59,33.749,0
+Mountain View,VirusShare_31ee163daa40db588f34710bbe5dc660,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7bbeb3a3b850ce689e47ce8364081122,vundo,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7bbeb3a3b850ce689e47ce8364081122,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7bbeb3a3b850ce689e47ce8364081122,vundo,United States,2013,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_7bbeb3a3b850ce689e47ce8364081122,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3ac87751410c917fd8940542125cea3,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b3ac87751410c917fd8940542125cea3,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Mountain View,VirusShare_b3ac87751410c917fd8940542125cea3,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cbd9e70481b182456f8063951b1f858b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4e7d1ca596f7b743183a74823b49a9c,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4e7d1ca596f7b743183a74823b49a9c,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b4e7d1ca596f7b743183a74823b49a9c,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4e7d1ca596f7b743183a74823b49a9c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3133c6ed2773280fc08a5941ba49beb0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_3133c6ed2773280fc08a5941ba49beb0,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_3133c6ed2773280fc08a5941ba49beb0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3b323efb8bfac4f1920313e3a95a522,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3b323efb8bfac4f1920313e3a95a522,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b3b323efb8bfac4f1920313e3a95a522,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b3b323efb8bfac4f1920313e3a95a522,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Washington,VirusShare_bfe3fd005b3826e3fde1c67289019fce,vundo,United States,2013,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bfe3fd005b3826e3fde1c67289019fce,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bfe3fd005b3826e3fde1c67289019fce,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bbae9fcde23e71884e7415028261b09e,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bbae9fcde23e71884e7415028261b09e,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bbae9fcde23e71884e7415028261b09e,vundo,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_bbae9fcde23e71884e7415028261b09e,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b21c1a3b829957cf33db290a995fb3d8,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4a8c62140bf5710d9ad19a5f7b6b75f,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4a8c62140bf5710d9ad19a5f7b6b75f,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b4a8c62140bf5710d9ad19a5f7b6b75f,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4a8c62140bf5710d9ad19a5f7b6b75f,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_758b2a09d50dd5f8f5045fb7ec983653,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_758b2a09d50dd5f8f5045fb7ec983653,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_34e789c8537610d8d39545b2cb1c8b30,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_34e789c8537610d8d39545b2cb1c8b30,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_34e789c8537610d8d39545b2cb1c8b30,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_34e789c8537610d8d39545b2cb1c8b30,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1ce40167550c6b28308a3a2a11cf08d,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b1ce40167550c6b28308a3a2a11cf08d,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b1ce40167550c6b28308a3a2a11cf08d,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1ce40167550c6b28308a3a2a11cf08d,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_74173c431252bdc7f7f5f820c2ded463,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_74173c431252bdc7f7f5f820c2ded463,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_74173c431252bdc7f7f5f820c2ded463,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0f4f298c6a64821c41b184ecfeac986,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e0f4f298c6a64821c41b184ecfeac986,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e0f4f298c6a64821c41b184ecfeac986,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e0f4f298c6a64821c41b184ecfeac986,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7161f6b02c9ea3b2f5116150aaf7fd10,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7161f6b02c9ea3b2f5116150aaf7fd10,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_7161f6b02c9ea3b2f5116150aaf7fd10,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7161f6b02c9ea3b2f5116150aaf7fd10,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8acd302f8b2a9b542f4cc294f5d7970,vundo,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8acd302f8b2a9b542f4cc294f5d7970,vundo,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8acd302f8b2a9b542f4cc294f5d7970,vundo,United States,2015,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b8acd302f8b2a9b542f4cc294f5d7970,vundo,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6605c89def308bcc1dc4b5e483879a6,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b6605c89def308bcc1dc4b5e483879a6,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b6605c89def308bcc1dc4b5e483879a6,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b6605c89def308bcc1dc4b5e483879a6,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3daef67dfe38a227392ef9668d78ec8b,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3daef67dfe38a227392ef9668d78ec8b,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_3daef67dfe38a227392ef9668d78ec8b,vundo,United States,2014,-77.4874,US,USA,184.26.93.48,39.0438,0
+Mountain View,VirusShare_3daef67dfe38a227392ef9668d78ec8b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b0e8cb1c645f735585e570d0d22a6dfa,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b0e8cb1c645f735585e570d0d22a6dfa,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b0e8cb1c645f735585e570d0d22a6dfa,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b0e8cb1c645f735585e570d0d22a6dfa,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b362a8a31d847ae2c655b50168b6411c,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b362a8a31d847ae2c655b50168b6411c,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b362a8a31d847ae2c655b50168b6411c,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b362a8a31d847ae2c655b50168b6411c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bda1ce4b1ce3629917f25af1a3eca001,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bda1ce4b1ce3629917f25af1a3eca001,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bda1ce4b1ce3629917f25af1a3eca001,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_bda1ce4b1ce3629917f25af1a3eca001,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b375ff15bf8cc3c90677e8f9d2a99a9c,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b375ff15bf8cc3c90677e8f9d2a99a9c,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b375ff15bf8cc3c90677e8f9d2a99a9c,vundo,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b375ff15bf8cc3c90677e8f9d2a99a9c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7170e7c0fa4674a65c861c774ea8c566,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7170e7c0fa4674a65c861c774ea8c566,vundo,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_7170e7c0fa4674a65c861c774ea8c566,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b30a0fe7cff24b097e6982ee747362a7,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b30a0fe7cff24b097e6982ee747362a7,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b30a0fe7cff24b097e6982ee747362a7,vundo,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b30a0fe7cff24b097e6982ee747362a7,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_791c0366622dc30382698247e9dcf293,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_791c0366622dc30382698247e9dcf293,vundo,United States,2016,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_791c0366622dc30382698247e9dcf293,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_791c0366622dc30382698247e9dcf293,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd65619cb0e48f0b5f313e6871dd78bd,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bd65619cb0e48f0b5f313e6871dd78bd,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bd65619cb0e48f0b5f313e6871dd78bd,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bd65619cb0e48f0b5f313e6871dd78bd,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0e5afc2f06bd53f6ee438ba5752af36,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f0e5afc2f06bd53f6ee438ba5752af36,vundo,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_f0e5afc2f06bd53f6ee438ba5752af36,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0e5afc2f06bd53f6ee438ba5752af36,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cc00323fb0bd56d8bb532d2c4ac2de19,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_74640675d6108d891bef83d4b28a1f39,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_74640675d6108d891bef83d4b28a1f39,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_74640675d6108d891bef83d4b28a1f39,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_74640675d6108d891bef83d4b28a1f39,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb104535643f06de57aeccd207aff140,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb104535643f06de57aeccd207aff140,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb104535643f06de57aeccd207aff140,vundo,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_bb104535643f06de57aeccd207aff140,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f084b707e69016e547efede89a433a5c,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f084b707e69016e547efede89a433a5c,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f084b707e69016e547efede89a433a5c,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f084b707e69016e547efede89a433a5c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3270272df288680c3fb2658b54b26c0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3270272df288680c3fb2658b54b26c0,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b3270272df288680c3fb2658b54b26c0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3270272df288680c3fb2658b54b26c0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db26a26d1bfb455b03c3188269ea7a70,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_7377230dc2f5bf9c8358df45781316c0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b11e306a92463cf945744ab8826654ad,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b11e306a92463cf945744ab8826654ad,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Washington,VirusShare_e37bc99adaae4d45910b6a3c84120e4a,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_e37bc99adaae4d45910b6a3c84120e4a,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b68fbd3a512bd24ac70eefd1e9abc680,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b68fbd3a512bd24ac70eefd1e9abc680,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b68fbd3a512bd24ac70eefd1e9abc680,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b68fbd3a512bd24ac70eefd1e9abc680,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_daea7b554e180d080b9bcd86dfb817db,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_daea7b554e180d080b9bcd86dfb817db,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_daea7b554e180d080b9bcd86dfb817db,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Mountain View,VirusShare_cab293de7130e33e4449d115261ab059,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1c984adada29ca266f5b4b85d276e96,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b1c984adada29ca266f5b4b85d276e96,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b1c984adada29ca266f5b4b85d276e96,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b1c984adada29ca266f5b4b85d276e96,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cbaa93949fd447280937d43a5637e1e0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba6c608fca064cb0ac3864d0a5a75960,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_ba6c608fca064cb0ac3864d0a5a75960,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_ba6c608fca064cb0ac3864d0a5a75960,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba6c608fca064cb0ac3864d0a5a75960,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b17e7438b5b3bc176d79558a9b179330,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b17e7438b5b3bc176d79558a9b179330,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4b8e22c1593acf415e2ebd037f6b73f,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4b8e22c1593acf415e2ebd037f6b73f,vundo,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b4b8e22c1593acf415e2ebd037f6b73f,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_79ed5faa7b5c3ed0c7d4256c461d9479,vundo,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_79ed5faa7b5c3ed0c7d4256c461d9479,vundo,United States,2013,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_79ed5faa7b5c3ed0c7d4256c461d9479,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f17eef71a13c71ec3919ec2974ee1078,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_f17eef71a13c71ec3919ec2974ee1078,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_f17eef71a13c71ec3919ec2974ee1078,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f17eef71a13c71ec3919ec2974ee1078,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3614928a6ee0c87c30b0a1f60dadd3c3,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3614928a6ee0c87c30b0a1f60dadd3c3,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_3614928a6ee0c87c30b0a1f60dadd3c3,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_72493d509a77196c6df0c328936a0100,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Atlanta,VirusShare_72493d509a77196c6df0c328936a0100,vundo,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Mountain View,VirusShare_72493d509a77196c6df0c328936a0100,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_75cd0d44d3bca5f3a3df89bd42de5a70,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_75cd0d44d3bca5f3a3df89bd42de5a70,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_75cd0d44d3bca5f3a3df89bd42de5a70,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_75cd0d44d3bca5f3a3df89bd42de5a70,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_e39263cf5cac1baed48a9cfcb8e00c4d,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e39263cf5cac1baed48a9cfcb8e00c4d,vundo,United States,2013,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b6035039bf8dae4aef24ff2c7f8b1cf0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b6035039bf8dae4aef24ff2c7f8b1cf0,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b6035039bf8dae4aef24ff2c7f8b1cf0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b6035039bf8dae4aef24ff2c7f8b1cf0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be06a28c51f950032153cef8b747d596,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_be06a28c51f950032153cef8b747d596,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_be06a28c51f950032153cef8b747d596,vundo,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_be06a28c51f950032153cef8b747d596,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cc1bd1ce3339f119eb7d4b27b2529979,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1241a01f761d651bcc1bc971554fa33,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b1241a01f761d651bcc1bc971554fa33,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b1241a01f761d651bcc1bc971554fa33,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b1241a01f761d651bcc1bc971554fa33,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_db2ace73a8a32cec1f33cb02ce517c5c,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_db2ace73a8a32cec1f33cb02ce517c5c,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db2ace73a8a32cec1f33cb02ce517c5c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3c6e665633c28c0423584bef15a4a714,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3c6e665633c28c0423584bef15a4a714,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_3c6e665633c28c0423584bef15a4a714,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3c6e665633c28c0423584bef15a4a714,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb907001100cbeda3b77c718d5cb4ea0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb907001100cbeda3b77c718d5cb4ea0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4868adb2818dd9d6320588f4e85ffe1,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b4868adb2818dd9d6320588f4e85ffe1,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Mountain View,VirusShare_b4868adb2818dd9d6320588f4e85ffe1,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb5b0c486b461943262ee272b6c5bd1a,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_cb5b0c486b461943262ee272b6c5bd1a,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_cb5b0c486b461943262ee272b6c5bd1a,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3c989ddd057a0920e40905e19de4ea22,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_3c989ddd057a0920e40905e19de4ea22,vundo,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_3c989ddd057a0920e40905e19de4ea22,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3c989ddd057a0920e40905e19de4ea22,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e140115b32a3d709caa2c06c6ce14b09,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e140115b32a3d709caa2c06c6ce14b09,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_e140115b32a3d709caa2c06c6ce14b09,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e140115b32a3d709caa2c06c6ce14b09,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b452e30c71677960d2b49f2f8f165803,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b452e30c71677960d2b49f2f8f165803,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b452e30c71677960d2b49f2f8f165803,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b452e30c71677960d2b49f2f8f165803,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b241360888b6bfbd7a62775fc3eb3610,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b241360888b6bfbd7a62775fc3eb3610,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b241360888b6bfbd7a62775fc3eb3610,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_bead4db654cb42caccb6ed03a7b07efc,vundo,United States,2016,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_bead4db654cb42caccb6ed03a7b07efc,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0d3dcaa691fed2781a638450150807b,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f0d3dcaa691fed2781a638450150807b,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f0d3dcaa691fed2781a638450150807b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdab9d07425cc3e6af27e5ee3aaa35cd,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_bdab9d07425cc3e6af27e5ee3aaa35cd,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_bdab9d07425cc3e6af27e5ee3aaa35cd,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db9c4854ac878899a0ea864624653cb0,vundo,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db9c4854ac878899a0ea864624653cb0,vundo,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_7082d00ab25efad22fc4b4a82874a15a,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_7082d00ab25efad22fc4b4a82874a15a,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_7082d00ab25efad22fc4b4a82874a15a,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7a3a993e6357a463d733d85e587f0730,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7a3a993e6357a463d733d85e587f0730,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Road Town,VirusShare_7a3a993e6357a463d733d85e587f0730,vundo,British Virgin Islands,2014,-64.6131,VG,VGB,204.11.56.48,18.4285,0
+Mountain View,VirusShare_7a3a993e6357a463d733d85e587f0730,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Paris,VirusShare_bf460a56cb7ca9b519c791eb671f377d,vundo,France,2014,2.35222,FR,FRA,23.219.160.65,48.8566,0
+Mountain View,VirusShare_bf460a56cb7ca9b519c791eb671f377d,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba961a3b0da314a1cb3d46540c7d2140,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba961a3b0da314a1cb3d46540c7d2140,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba961a3b0da314a1cb3d46540c7d2140,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Road Town,VirusShare_ba961a3b0da314a1cb3d46540c7d2140,vundo,British Virgin Islands,2014,-64.6131,VG,VGB,204.11.56.48,18.4285,0
+Mountain View,VirusShare_ba961a3b0da314a1cb3d46540c7d2140,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Washington,VirusShare_e41380f2c917d7f1f4533591e3b12bc1,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e41380f2c917d7f1f4533591e3b12bc1,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e41380f2c917d7f1f4533591e3b12bc1,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cb685fa2c39f5c9e18e9022b9d9becb5,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_cb685fa2c39f5c9e18e9022b9d9becb5,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb685fa2c39f5c9e18e9022b9d9becb5,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_bf33e3b8f2ae4cc14f4e8e86e4fe9761,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_bf33e3b8f2ae4cc14f4e8e86e4fe9761,vundo,United States,2016,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_bdf4fff527bfb21f42fc770b1aa104f9,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bdf4fff527bfb21f42fc770b1aa104f9,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bdf4fff527bfb21f42fc770b1aa104f9,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb53b0c75ab53799437108feda6535db,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bb53b0c75ab53799437108feda6535db,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_bb53b0c75ab53799437108feda6535db,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb53b0c75ab53799437108feda6535db,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bddcc3c071bf29af261a4d0b155c1ddd,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bddcc3c071bf29af261a4d0b155c1ddd,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_bddcc3c071bf29af261a4d0b155c1ddd,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bddcc3c071bf29af261a4d0b155c1ddd,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7d44505424cfc3e7873d122b6aafa7a0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7d44505424cfc3e7873d122b6aafa7a0,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_7d44505424cfc3e7873d122b6aafa7a0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_e43c75e97d1fa2102c18931367eca0bf,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e43c75e97d1fa2102c18931367eca0bf,vundo,United States,2013,-77.4874,US,USA,184.26.93.58,39.0438,0
+Mountain View,VirusShare_be6cde4eaa1036b517dd121c4fb9a871,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_be6cde4eaa1036b517dd121c4fb9a871,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_747c305be428747b0d7e90460deda260,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_747c305be428747b0d7e90460deda260,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_747c305be428747b0d7e90460deda260,vundo,United States,2014,-96.797,US,USA,23.67.253.162,32.7767,0
+Redmond,VirusShare_b8d395308d60ce48f25e677e0849cf20,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b8d395308d60ce48f25e677e0849cf20,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b8d395308d60ce48f25e677e0849cf20,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b8d395308d60ce48f25e677e0849cf20,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3ace1613acfa00198e3ddd7c20e82758,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_3ace1613acfa00198e3ddd7c20e82758,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_3ace1613acfa00198e3ddd7c20e82758,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba58c17e038c18f0460277b83d1e4ab0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba58c17e038c18f0460277b83d1e4ab0,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Mountain View,VirusShare_ba58c17e038c18f0460277b83d1e4ab0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_34dc0b955aa0c1698edf9fe7b7d3c22d,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_34dc0b955aa0c1698edf9fe7b7d3c22d,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3fd4eac99c0d3988b901aa51954e32b8,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3fd4eac99c0d3988b901aa51954e32b8,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_3fd4eac99c0d3988b901aa51954e32b8,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e392d92d18c3c5942abb452394739875,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e392d92d18c3c5942abb452394739875,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e392d92d18c3c5942abb452394739875,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_72f2d9ea43c4f991399aba883f176cd6,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_72f2d9ea43c4f991399aba883f176cd6,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_72f2d9ea43c4f991399aba883f176cd6,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e41c3bca2b4316bc84734f87abc36870,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e41c3bca2b4316bc84734f87abc36870,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_e41c3bca2b4316bc84734f87abc36870,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b650c3f9c161366efe35e96faba714c0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b650c3f9c161366efe35e96faba714c0,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b650c3f9c161366efe35e96faba714c0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b650c3f9c161366efe35e96faba714c0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_361f345cfeaab26a94594788910cb416,vundo,United States,2014,-96.797,US,USA,23.67.253.171,32.7767,0
+Mountain View,VirusShare_361f345cfeaab26a94594788910cb416,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bad523cd6f3ac1fc0b4e4b22b17876bf,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bad523cd6f3ac1fc0b4e4b22b17876bf,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_bad523cd6f3ac1fc0b4e4b22b17876bf,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bad523cd6f3ac1fc0b4e4b22b17876bf,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dc47208697ecffce3f38a225e8e351e5,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e35cbdc0dfa393ae9762558089d7ef27,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e35cbdc0dfa393ae9762558089d7ef27,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e35cbdc0dfa393ae9762558089d7ef27,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_f0606c156cf6c6a95bc9c2d4cf6dca00,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_f0606c156cf6c6a95bc9c2d4cf6dca00,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_f0606c156cf6c6a95bc9c2d4cf6dca00,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Road Town,VirusShare_f0606c156cf6c6a95bc9c2d4cf6dca00,vundo,British Virgin Islands,2014,-64.6131,VG,VGB,204.11.56.48,18.4285,0
+Mountain View,VirusShare_f0606c156cf6c6a95bc9c2d4cf6dca00,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc8a992d75e3699e09a6f94ee8445400,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Atlanta,VirusShare_dc8a992d75e3699e09a6f94ee8445400,vundo,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Road Town,VirusShare_dc8a992d75e3699e09a6f94ee8445400,vundo,British Virgin Islands,2014,-64.6131,VG,VGB,204.11.56.48,18.4285,0
+Mountain View,VirusShare_dc8a992d75e3699e09a6f94ee8445400,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0c501e73b6aadee6fef6d5dc79aa980,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e0c501e73b6aadee6fef6d5dc79aa980,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e0c501e73b6aadee6fef6d5dc79aa980,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0c501e73b6aadee6fef6d5dc79aa980,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cb18ce7171c10ad4cb1f03c50e2c35f0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Road Town,VirusShare_cb18ce7171c10ad4cb1f03c50e2c35f0,vundo,British Virgin Islands,2014,-64.6131,VG,VGB,204.11.56.48,18.4285,0
+Mountain View,VirusShare_cb18ce7171c10ad4cb1f03c50e2c35f0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f04af7f0543af926e36cd2a65783d25c,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f04af7f0543af926e36cd2a65783d25c,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f04af7f0543af926e36cd2a65783d25c,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_f04af7f0543af926e36cd2a65783d25c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7c4b10699f58c70314064d4280c6abe0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7c4b10699f58c70314064d4280c6abe0,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_7c4b10699f58c70314064d4280c6abe0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3b103847ca61f7ef8ea85b975d99320,vundo,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b3b103847ca61f7ef8ea85b975d99320,vundo,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b3b103847ca61f7ef8ea85b975d99320,vundo,United States,2015,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b3b103847ca61f7ef8ea85b975d99320,vundo,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dc279da490aa8ba410cb02053bd4e45c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f1855f91571b096e83634a89a3c83b60,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f1855f91571b096e83634a89a3c83b60,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f1855f91571b096e83634a89a3c83b60,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f1855f91571b096e83634a89a3c83b60,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be3696f10bd94d11af5e3b09275f9f60,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be3696f10bd94d11af5e3b09275f9f60,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_be3696f10bd94d11af5e3b09275f9f60,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be3696f10bd94d11af5e3b09275f9f60,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf75840042d7862a27b6916faafcf3e4,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bf75840042d7862a27b6916faafcf3e4,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_bf75840042d7862a27b6916faafcf3e4,vundo,United States,2016,-77.4874,US,USA,184.26.93.58,39.0438,0
+Mountain View,VirusShare_beeaa87820359c4341d0fb91cf38a6e0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_beeaa87820359c4341d0fb91cf38a6e0,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_e37755bf0051e2ff6a93b77f3eb86844,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e37755bf0051e2ff6a93b77f3eb86844,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e37755bf0051e2ff6a93b77f3eb86844,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b81c1a01ed9e57f5f4cb0366426f54de,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b81c1a01ed9e57f5f4cb0366426f54de,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_b81c1a01ed9e57f5f4cb0366426f54de,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b81c1a01ed9e57f5f4cb0366426f54de,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_77051bb286fe9f9eda7ff5984fcd0eb3,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_77051bb286fe9f9eda7ff5984fcd0eb3,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_77051bb286fe9f9eda7ff5984fcd0eb3,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_77051bb286fe9f9eda7ff5984fcd0eb3,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8d96428559d49d5f8de2a945caaa797,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8d96428559d49d5f8de2a945caaa797,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8d96428559d49d5f8de2a945caaa797,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b8d96428559d49d5f8de2a945caaa797,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_72b33d3a4b8e06af36e1241d87a60192,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_72b33d3a4b8e06af36e1241d87a60192,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_72b33d3a4b8e06af36e1241d87a60192,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_e346aa4048cbc7b94418af84c0b7e240,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e346aa4048cbc7b94418af84c0b7e240,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e346aa4048cbc7b94418af84c0b7e240,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_e2233bf1986de6668557af4e9721a6f4,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_e2233bf1986de6668557af4e9721a6f4,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e2233bf1986de6668557af4e9721a6f4,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Washington,VirusShare_e33bd26bd38521d308648bebab1a4030,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e33bd26bd38521d308648bebab1a4030,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e04b34ed69340366f1794c07ed404af6,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e04b34ed69340366f1794c07ed404af6,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_e04b34ed69340366f1794c07ed404af6,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf61d758773fb3b4d03fcb128b75a1f5,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bf61d758773fb3b4d03fcb128b75a1f5,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_bf61d758773fb3b4d03fcb128b75a1f5,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Mountain View,VirusShare_7ae4f7ef4fe53a3b5cefdead6687cd3b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_35753dd70c5fcc4e8952acc7ae8c287e,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_35753dd70c5fcc4e8952acc7ae8c287e,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_35753dd70c5fcc4e8952acc7ae8c287e,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_35753dd70c5fcc4e8952acc7ae8c287e,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e25388d19e62c6d43ad5e68234cf4ecb,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e25388d19e62c6d43ad5e68234cf4ecb,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e25388d19e62c6d43ad5e68234cf4ecb,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_e08cd6899f3e7542ce00330c59652fd9,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e08cd6899f3e7542ce00330c59652fd9,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e08cd6899f3e7542ce00330c59652fd9,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dc91d0bfc2a66f6278bc5b0f6f9a98fa,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd757e2858306076d6ee2ce08718f29f,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bd757e2858306076d6ee2ce08718f29f,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bd757e2858306076d6ee2ce08718f29f,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bd757e2858306076d6ee2ce08718f29f,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b63f4cca7ef3da8a69418b0f931eb672,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b63f4cca7ef3da8a69418b0f931eb672,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b63f4cca7ef3da8a69418b0f931eb672,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be1245df9283e7eef2c82c83cc5dcce4,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_be1245df9283e7eef2c82c83cc5dcce4,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_be1245df9283e7eef2c82c83cc5dcce4,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_be1245df9283e7eef2c82c83cc5dcce4,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e38545b499ef7bd4636cbddb202acddc,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e38545b499ef7bd4636cbddb202acddc,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be3600590d85ef0c627f88c18ad5ef40,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be3600590d85ef0c627f88c18ad5ef40,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_be3600590d85ef0c627f88c18ad5ef40,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be3600590d85ef0c627f88c18ad5ef40,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3e4aed6a51f0d0d9b0eb1d1baf747be6,vundo,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_3e4aed6a51f0d0d9b0eb1d1baf747be6,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_3e4aed6a51f0d0d9b0eb1d1baf747be6,vundo,United States,2013,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_3e4aed6a51f0d0d9b0eb1d1baf747be6,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be60319f6770f94bae0229309036a149,vundo,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be60319f6770f94bae0229309036a149,vundo,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_be60319f6770f94bae0229309036a149,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be60319f6770f94bae0229309036a149,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_39cf8fe9444f643db1ba3fcb279589b0,vundo,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_39cf8fe9444f643db1ba3fcb279589b0,vundo,United States,2015,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_39cf8fe9444f643db1ba3fcb279589b0,vundo,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e14464b7b37738a53e39321d9ae2e581,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e14464b7b37738a53e39321d9ae2e581,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e14464b7b37738a53e39321d9ae2e581,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e14464b7b37738a53e39321d9ae2e581,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cc297ed45d1bb44948c41df4d69305fa,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_cc297ed45d1bb44948c41df4d69305fa,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cc297ed45d1bb44948c41df4d69305fa,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be14e09dd622df9b5da1ffd1d0f3f8b5,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be14e09dd622df9b5da1ffd1d0f3f8b5,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_be14e09dd622df9b5da1ffd1d0f3f8b5,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7b5fb965b7242a563fee6d9bf4f9869e,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_7b5fb965b7242a563fee6d9bf4f9869e,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_7b5fb965b7242a563fee6d9bf4f9869e,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7b5fb965b7242a563fee6d9bf4f9869e,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0cc523bfda5f5f6f530814125118733,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f0cc523bfda5f5f6f530814125118733,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f0cc523bfda5f5f6f530814125118733,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f0cc523bfda5f5f6f530814125118733,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e1e9dc9869fc8a61302f5a2e1ad0d65a,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1e9dc9869fc8a61302f5a2e1ad0d65a,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e1e9dc9869fc8a61302f5a2e1ad0d65a,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b1191a6307054a34635fc00a74ee9e68,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b1191a6307054a34635fc00a74ee9e68,vundo,United States,2016,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b1191a6307054a34635fc00a74ee9e68,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b1a7db609c8b93a06efb8a678b1f0217,vundo,United States,2016,-96.797,US,USA,23.67.253.171,32.7767,0
+Redmond,VirusShare_b1a7db609c8b93a06efb8a678b1f0217,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1a7db609c8b93a06efb8a678b1f0217,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cb39de03ee8d4bda79e00e9460516f59,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_732a50a315305f463269e17ba8b3277c,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_732a50a315305f463269e17ba8b3277c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_317c97b294db6cd259cb6a2eb3e4c830,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_317c97b294db6cd259cb6a2eb3e4c830,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_317c97b294db6cd259cb6a2eb3e4c830,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd307a8078015b51d821290c98bbdb8c,vundo,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_bd307a8078015b51d821290c98bbdb8c,vundo,United States,2016,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_bd307a8078015b51d821290c98bbdb8c,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd307a8078015b51d821290c98bbdb8c,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_778a65df3c894b234949bce23b363fc0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_778a65df3c894b234949bce23b363fc0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_778a65df3c894b234949bce23b363fc0,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_778a65df3c894b234949bce23b363fc0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_71420f86c0db95bdfbfc904871b8f252,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_71420f86c0db95bdfbfc904871b8f252,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_71420f86c0db95bdfbfc904871b8f252,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_71420f86c0db95bdfbfc904871b8f252,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_3b6de0fea824dbde46af3f30753a44f9,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_3b6de0fea824dbde46af3f30753a44f9,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3b6de0fea824dbde46af3f30753a44f9,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6ed3779029fde6581a0e2f31848ee4d,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b6ed3779029fde6581a0e2f31848ee4d,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b6ed3779029fde6581a0e2f31848ee4d,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b6ed3779029fde6581a0e2f31848ee4d,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bf38a4e84c9b42234b7464702a86ac73,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bf38a4e84c9b42234b7464702a86ac73,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_bf38a4e84c9b42234b7464702a86ac73,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_e27322daae868fec046b9ac5eb18a71a,vundo,United States,2012,-96.797,US,USA,23.218.156.11,32.7767,0
+Mountain View,VirusShare_e27322daae868fec046b9ac5eb18a71a,vundo,United States,2012,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_71336bca76e4ed1bcc66587f945de034,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_71336bca76e4ed1bcc66587f945de034,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e2caae35c31b6da6525dc3d6d6086ba9,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e2caae35c31b6da6525dc3d6d6086ba9,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b1a2146902cbf1fc2cbbd6b3fd51b961,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_e225dfaa3fad621f49557fbf6faf8ace,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_e225dfaa3fad621f49557fbf6faf8ace,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e225dfaa3fad621f49557fbf6faf8ace,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_e350530ea7c1050c2ebe8cc2f72c0045,vundo,United States,2016,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e350530ea7c1050c2ebe8cc2f72c0045,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cad431d7fc0fb455ce250f4862a3e041,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_bf20a60b122803d9071fca479d540f80,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bf20a60b122803d9071fca479d540f80,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4853b67bfa02bc388b981f79384eb31,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b4853b67bfa02bc388b981f79384eb31,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b4853b67bfa02bc388b981f79384eb31,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4853b67bfa02bc388b981f79384eb31,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_e24a30329d9e8c0a236f9f45bf090524,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e24a30329d9e8c0a236f9f45bf090524,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_b13b99c9f8ed2d309d39cf5628b6a343,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b13b99c9f8ed2d309d39cf5628b6a343,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b424581ac641790e18d687db33d53a10,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b424581ac641790e18d687db33d53a10,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b424581ac641790e18d687db33d53a10,vundo,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_b424581ac641790e18d687db33d53a10,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e04af995b9f2afcdfd8e10df89217465,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e04af995b9f2afcdfd8e10df89217465,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_e04af995b9f2afcdfd8e10df89217465,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_bfd1b098d4e1831dbab022fcf860395e,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Mountain View,VirusShare_bfd1b098d4e1831dbab022fcf860395e,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3c61f03b70bdfffa4e75f533d80edcea,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3c61f03b70bdfffa4e75f533d80edcea,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_3c61f03b70bdfffa4e75f533d80edcea,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_e3f758b185e1e8a267bc7bafa4fc4c3b,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e3f758b185e1e8a267bc7bafa4fc4c3b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b397f108a6b2e904f5f3f459d037ea30,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b397f108a6b2e904f5f3f459d037ea30,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b397f108a6b2e904f5f3f459d037ea30,vundo,United States,2016,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b397f108a6b2e904f5f3f459d037ea30,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b65f8aae61c38bf3be3e1432687f74ea,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_b65f8aae61c38bf3be3e1432687f74ea,vundo,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Redmond,VirusShare_b65f8aae61c38bf3be3e1432687f74ea,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b65f8aae61c38bf3be3e1432687f74ea,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cb5cc80954237a9d1a278afab899d9c0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bddc8cacb59fa8ac7acd07877b5c382b,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bddc8cacb59fa8ac7acd07877b5c382b,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_bddc8cacb59fa8ac7acd07877b5c382b,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bddc8cacb59fa8ac7acd07877b5c382b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_7c083079ae4bf1b2415e49f6001d83ba,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_7c083079ae4bf1b2415e49f6001d83ba,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f070c539579c548f09fa04f6366612d7,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f070c539579c548f09fa04f6366612d7,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f070c539579c548f09fa04f6366612d7,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b876a31d786aa0a744e6bc3ff2a8e6bd,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b876a31d786aa0a744e6bc3ff2a8e6bd,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_b876a31d786aa0a744e6bc3ff2a8e6bd,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b876a31d786aa0a744e6bc3ff2a8e6bd,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db777bacbfbc9985a49827cb8a79875c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_457f3394304a99118eb28e5c6c5013bb,vundo,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_457f3394304a99118eb28e5c6c5013bb,vundo,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_457f3394304a99118eb28e5c6c5013bb,vundo,United States,2017,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_457f3394304a99118eb28e5c6c5013bb,vundo,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_35788f06ec5da3eeec988c8f74d565f9,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_35788f06ec5da3eeec988c8f74d565f9,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_35788f06ec5da3eeec988c8f74d565f9,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_35788f06ec5da3eeec988c8f74d565f9,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_caf655527914b8441ed836f1efd2a09d,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_caf655527914b8441ed836f1efd2a09d,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3fdb2df24ac190dd8075d64c2d547a2,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3fdb2df24ac190dd8075d64c2d547a2,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b3fdb2df24ac190dd8075d64c2d547a2,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3fdb2df24ac190dd8075d64c2d547a2,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_cb4c8b0c0a91d4e349567a511410ace6,vundo,United States,2014,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_cb4c8b0c0a91d4e349567a511410ace6,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb4c8b0c0a91d4e349567a511410ace6,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bff593b198e969bbece28eaa7ffb12cf,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bff593b198e969bbece28eaa7ffb12cf,vundo,United States,2016,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_bff593b198e969bbece28eaa7ffb12cf,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e2bd923bbac02ae26b5b4663488a1c6d,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e2bd923bbac02ae26b5b4663488a1c6d,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db61800cbc6e291870b089f92293fd36,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_db61800cbc6e291870b089f92293fd36,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_db61800cbc6e291870b089f92293fd36,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b67b154cef17d54ecaeef9430c7a57a0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b67b154cef17d54ecaeef9430c7a57a0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b67b154cef17d54ecaeef9430c7a57a0,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b67b154cef17d54ecaeef9430c7a57a0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_bfd49d41113872555747429a06be9b35,vundo,United States,2016,-96.797,US,USA,96.16.7.83,32.7767,0
+Mountain View,VirusShare_bfd49d41113872555747429a06be9b35,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_e336c15f34903dca509197c3c11a35a3,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e336c15f34903dca509197c3c11a35a3,vundo,United States,2013,-77.4874,US,USA,184.26.93.58,39.0438,0
+Newark,VirusShare_f0c6273c087a1310652a5dd677960d80,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f0c6273c087a1310652a5dd677960d80,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f0c6273c087a1310652a5dd677960d80,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0c6273c087a1310652a5dd677960d80,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f04a0c13435f468404e66444c30e436e,vundo,United States,2013,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f04a0c13435f468404e66444c30e436e,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_f04a0c13435f468404e66444c30e436e,vundo,United States,2013,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_f04a0c13435f468404e66444c30e436e,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dc127270c8386d5f0c03a4ea4b1a6ebd,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1ceb98bdf8b5eb9ae1883c4855d62a4,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_e1ceb98bdf8b5eb9ae1883c4855d62a4,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_e1ceb98bdf8b5eb9ae1883c4855d62a4,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1ceb98bdf8b5eb9ae1883c4855d62a4,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7abf2d128e9e2dca708269f970b848b0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7abf2d128e9e2dca708269f970b848b0,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_7abf2d128e9e2dca708269f970b848b0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4b730923dc5b502bfb80e1be61afd70,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4b730923dc5b502bfb80e1be61afd70,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4b730923dc5b502bfb80e1be61afd70,vundo,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Road Town,VirusShare_b4b730923dc5b502bfb80e1be61afd70,vundo,British Virgin Islands,2014,-64.6131,VG,VGB,204.11.56.48,18.4285,0
+Mountain View,VirusShare_b4b730923dc5b502bfb80e1be61afd70,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_70db2812e58aa895f904009759559050,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_70db2812e58aa895f904009759559050,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_70db2812e58aa895f904009759559050,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_70db2812e58aa895f904009759559050,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db0e33d9bac397876326631d1f3d2ad8,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db0e33d9bac397876326631d1f3d2ad8,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_db94c155ac2baae59c7ce694c2bc6dc0,vundo,United States,2014,-96.797,US,USA,23.67.253.171,32.7767,0
+Redmond,VirusShare_db94c155ac2baae59c7ce694c2bc6dc0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db94c155ac2baae59c7ce694c2bc6dc0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cb59bb6c57fe25c744483bf7e2e05c20,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_37413b036168e5f9f9d5ed125f6817a0,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_37413b036168e5f9f9d5ed125f6817a0,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_37413b036168e5f9f9d5ed125f6817a0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_37413b036168e5f9f9d5ed125f6817a0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0825e072d1b580ec6cbd0a553715509,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e0825e072d1b580ec6cbd0a553715509,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e0825e072d1b580ec6cbd0a553715509,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0825e072d1b580ec6cbd0a553715509,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc2041fcad244194d0d5cf3e7fc366a6,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc2041fcad244194d0d5cf3e7fc366a6,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_f1c44883e9b30be65776835168e61e12,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_f1c44883e9b30be65776835168e61e12,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f1c44883e9b30be65776835168e61e12,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b24981a7a05a69faa691e3bf553fce73,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bba336e2570ecac76d7283da49be50a3,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bba336e2570ecac76d7283da49be50a3,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bba336e2570ecac76d7283da49be50a3,vundo,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_bba336e2570ecac76d7283da49be50a3,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_76dbc89a7d6d08caef37d8e19a73e530,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_76dbc89a7d6d08caef37d8e19a73e530,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc8dbaae8f1470a06520d575e06460d6,vundo,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc8dbaae8f1470a06520d575e06460d6,vundo,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_bf43f87c0b426d14313c16ce1de9e3a3,vundo,United States,2016,-87.6298,US,USA,23.212.53.221,41.8781,0
+Mountain View,VirusShare_bf43f87c0b426d14313c16ce1de9e3a3,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cae50257b26dbf5754070107a359dbf5,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cc1dfb47a0fac8883b7c80d8ebc43eb1,vundo,United States,2013,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_cc1dfb47a0fac8883b7c80d8ebc43eb1,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cc1dfb47a0fac8883b7c80d8ebc43eb1,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_79306a4be93f3e5b7b8877ee6b694790,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Paris,VirusShare_79306a4be93f3e5b7b8877ee6b694790,vundo,France,2014,2.35222,FR,FRA,23.219.160.91,48.8566,0
+Mountain View,VirusShare_79306a4be93f3e5b7b8877ee6b694790,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e23f79d42d9ef8a9ff3ac4d201a2a504,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_e23f79d42d9ef8a9ff3ac4d201a2a504,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e00f5110ec7b0dbcd4065db9d3043c20,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_e00f5110ec7b0dbcd4065db9d3043c20,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e00f5110ec7b0dbcd4065db9d3043c20,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_e00f5110ec7b0dbcd4065db9d3043c20,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b38e1c239885c87617e970e89e4e6980,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b38e1c239885c87617e970e89e4e6980,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b38e1c239885c87617e970e89e4e6980,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b38e1c239885c87617e970e89e4e6980,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3f37be2762355b5f834fe10a512e40ae,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_3f37be2762355b5f834fe10a512e40ae,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Mountain View,VirusShare_3f37be2762355b5f834fe10a512e40ae,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_be95bfb93cfcf968b3dd7ec6b3bdf480,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_be95bfb93cfcf968b3dd7ec6b3bdf480,vundo,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_be95bfb93cfcf968b3dd7ec6b3bdf480,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7a407ab1c6c604ed624c28640f85d331,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_7a407ab1c6c604ed624c28640f85d331,vundo,United States,2013,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_7a407ab1c6c604ed624c28640f85d331,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cb2265c2f9e3fd9f72ffff7683640e9c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b25771158cf0542e273f686356a56ac0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b25771158cf0542e273f686356a56ac0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_baaa3a56f1a429ae589a91394bba65f0,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_baaa3a56f1a429ae589a91394bba65f0,vundo,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_baaa3a56f1a429ae589a91394bba65f0,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0afe733182a7dc3738013a22ec8cd1b,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f0afe733182a7dc3738013a22ec8cd1b,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f0afe733182a7dc3738013a22ec8cd1b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cc1b0256949f5e8d3cbf79977ea59180,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e171557e1547f4b884f098a30f37ce56,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e171557e1547f4b884f098a30f37ce56,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e171557e1547f4b884f098a30f37ce56,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e171557e1547f4b884f098a30f37ce56,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_77abd320adfabc213e65fd6c344f5692,vundo,United States,2016,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_77abd320adfabc213e65fd6c344f5692,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_77abd320adfabc213e65fd6c344f5692,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba296d30fc6c7ace2bf3ac56f55a07da,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_ba296d30fc6c7ace2bf3ac56f55a07da,vundo,United States,2016,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_ba296d30fc6c7ace2bf3ac56f55a07da,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba296d30fc6c7ace2bf3ac56f55a07da,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_b1d1497f64e69e9740118acce4660670,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0895d5fa5dbb0d3e10a648eb9653e4e,vundo,United States,2013,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e0895d5fa5dbb0d3e10a648eb9653e4e,vundo,United States,2013,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e0895d5fa5dbb0d3e10a648eb9653e4e,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0895d5fa5dbb0d3e10a648eb9653e4e,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_75b149b48af150609ba8a0c34791b89c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cc082c7a48fe0ee9744384f8d7dae620,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_31e0d6a4db2076be397a1ba127ef22c0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_31e0d6a4db2076be397a1ba127ef22c0,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_31e0d6a4db2076be397a1ba127ef22c0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_cb8cde8f3f7fd6bf29f8b09d2fd4bff9,vundo,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Mountain View,VirusShare_cb8cde8f3f7fd6bf29f8b09d2fd4bff9,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b24827962e56323291f6db00c49b9d90,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b24827962e56323291f6db00c49b9d90,vundo,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b24827962e56323291f6db00c49b9d90,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_35f2d1a577e0efb975ef0830db83a4b0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_35f2d1a577e0efb975ef0830db83a4b0,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_35f2d1a577e0efb975ef0830db83a4b0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_35f2d1a577e0efb975ef0830db83a4b0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b69f2aedde4c9b6620d8e3647d92fa8c,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b69f2aedde4c9b6620d8e3647d92fa8c,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b69f2aedde4c9b6620d8e3647d92fa8c,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b69f2aedde4c9b6620d8e3647d92fa8c,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_beea5ebd4c3b65fbc4ac291b2ec0e910,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_beea5ebd4c3b65fbc4ac291b2ec0e910,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_dc06cadd823604df228ae61c7e3d8997,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc06cadd823604df228ae61c7e3d8997,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b81c1b44793be90cd7e5a0973eaa37ce,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b81c1b44793be90cd7e5a0973eaa37ce,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b81c1b44793be90cd7e5a0973eaa37ce,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b81c1b44793be90cd7e5a0973eaa37ce,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3776bf96f9a26a47cf7503f84028fce9,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3776bf96f9a26a47cf7503f84028fce9,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_3776bf96f9a26a47cf7503f84028fce9,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f01c8961d8b3707050750a0356f5bd1a,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f01c8961d8b3707050750a0356f5bd1a,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f01c8961d8b3707050750a0356f5bd1a,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f01c8961d8b3707050750a0356f5bd1a,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0ef6551c6f049d3dd3e418c34ab9d9b,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f0ef6551c6f049d3dd3e418c34ab9d9b,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_f0ef6551c6f049d3dd3e418c34ab9d9b,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0ef6551c6f049d3dd3e418c34ab9d9b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1f457c57786bbf19e12417ac75c1de1,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1f457c57786bbf19e12417ac75c1de1,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db8ea1838de065d867dc541f2cbc65ea,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db8ea1838de065d867dc541f2cbc65ea,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b137b6a1752c09eb68a2147d465ffa14,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_b137b6a1752c09eb68a2147d465ffa14,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_b137b6a1752c09eb68a2147d465ffa14,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_315385c78f2059e72390e893c7846790,vundo,United States,2011,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_315385c78f2059e72390e893c7846790,vundo,United States,2011,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_315385c78f2059e72390e893c7846790,vundo,United States,2011,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_315385c78f2059e72390e893c7846790,vundo,United States,2011,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba127d0472322272d8359f29e96f0381,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_ba127d0472322272d8359f29e96f0381,vundo,United States,2014,-84.388,US,USA,184.51.150.8,33.749,0
+Redmond,VirusShare_ba127d0472322272d8359f29e96f0381,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_ba127d0472322272d8359f29e96f0381,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b31c31f31b761ccc681a82e62fcc2c1b,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b31c31f31b761ccc681a82e62fcc2c1b,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b31c31f31b761ccc681a82e62fcc2c1b,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b31c31f31b761ccc681a82e62fcc2c1b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cbee0fe372ce7db1af51c2d553f5749b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b203cf74370e7dcbbd58bf6edd0d4225,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b203cf74370e7dcbbd58bf6edd0d4225,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_b203cf74370e7dcbbd58bf6edd0d4225,vundo,United States,2014,-96.797,US,USA,23.67.253.162,32.7767,0
+Redmond,VirusShare_3e6b5267ebc4cad00140ca5f3e836de0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3e6b5267ebc4cad00140ca5f3e836de0,vundo,United States,2014,-77.0369,US,USA,184.25.63.41,38.9072,0
+Mountain View,VirusShare_3e6b5267ebc4cad00140ca5f3e836de0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db46c644061b7a3cd2e31992798d1b16,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_db46c644061b7a3cd2e31992798d1b16,vundo,United States,2013,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_db46c644061b7a3cd2e31992798d1b16,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b32cd935c6d69085eb07e60af1e77142,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b32cd935c6d69085eb07e60af1e77142,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b32cd935c6d69085eb07e60af1e77142,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b32cd935c6d69085eb07e60af1e77142,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0e730d5ece7a59283263d60141a1ab7,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_f0e730d5ece7a59283263d60141a1ab7,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_f0e730d5ece7a59283263d60141a1ab7,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f0e730d5ece7a59283263d60141a1ab7,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e16be2e78afcf0ce68271417f4f33277,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e16be2e78afcf0ce68271417f4f33277,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_e16be2e78afcf0ce68271417f4f33277,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e16be2e78afcf0ce68271417f4f33277,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f1745a33806be3f26c0471413955292e,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_f1745a33806be3f26c0471413955292e,vundo,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_f1745a33806be3f26c0471413955292e,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f1745a33806be3f26c0471413955292e,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dbe3e0355275ab812f3dcab642ef9c13,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dbe3e0355275ab812f3dcab642ef9c13,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_dbe3e0355275ab812f3dcab642ef9c13,vundo,United States,2014,-96.797,US,USA,23.67.253.162,32.7767,0
+Dallas,VirusShare_b1371843d58c81191e5ca3758aed8d95,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b1371843d58c81191e5ca3758aed8d95,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1371843d58c81191e5ca3758aed8d95,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b13b9b79ef9ada0aa5f88c7004f61ec0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b13b9b79ef9ada0aa5f88c7004f61ec0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ca88bb05c7664ba0eb254e038106300e,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ca88bb05c7664ba0eb254e038106300e,vundo,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_ca88bb05c7664ba0eb254e038106300e,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_db2f9ec51eea72e126c45e0dd2958f3f,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_db2f9ec51eea72e126c45e0dd2958f3f,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db2f9ec51eea72e126c45e0dd2958f3f,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ca74b7d74fe7c05ed9257e2e9f6054b4,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ca74b7d74fe7c05ed9257e2e9f6054b4,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_ca74b7d74fe7c05ed9257e2e9f6054b4,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_b1db1a20e3a43716d5d69f4f4376c945,vundo,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_b1db1a20e3a43716d5d69f4f4376c945,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1db1a20e3a43716d5d69f4f4376c945,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_dbb572a882c4267336dde07772c216f5,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_dbb572a882c4267336dde07772c216f5,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dbb572a882c4267336dde07772c216f5,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_349d78ee0d9df4f0a2b8a969c6a131a0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_349d78ee0d9df4f0a2b8a969c6a131a0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_349d78ee0d9df4f0a2b8a969c6a131a0,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_349d78ee0d9df4f0a2b8a969c6a131a0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_dc69fbb53ad910549310134ef7b13527,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cae407ff92a050a19703235ec2009117,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_cae407ff92a050a19703235ec2009117,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cae407ff92a050a19703235ec2009117,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4a261719f6a6a74d5474e6341b91e44,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b4a261719f6a6a74d5474e6341b91e44,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b4a261719f6a6a74d5474e6341b91e44,vundo,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_b4a261719f6a6a74d5474e6341b91e44,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_729e826fe690689438bc47f057f004fe,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_729e826fe690689438bc47f057f004fe,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b40f9d3d57de655a7ce1869a2f62f8f2,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b40f9d3d57de655a7ce1869a2f62f8f2,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b40f9d3d57de655a7ce1869a2f62f8f2,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b40f9d3d57de655a7ce1869a2f62f8f2,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b39c8b2946934c2cb47efbf0c3817990,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b39c8b2946934c2cb47efbf0c3817990,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b39c8b2946934c2cb47efbf0c3817990,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_b39c8b2946934c2cb47efbf0c3817990,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7354b58eca4fb8dcd20268c17a58e61b,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_7354b58eca4fb8dcd20268c17a58e61b,vundo,United States,2014,-96.797,US,USA,23.72.136.171,32.7767,0
+Redmond,VirusShare_7354b58eca4fb8dcd20268c17a58e61b,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7354b58eca4fb8dcd20268c17a58e61b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e14d65b59f1ec566ea80cd4da94c4b50,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_e14d65b59f1ec566ea80cd4da94c4b50,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_e14d65b59f1ec566ea80cd4da94c4b50,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e14d65b59f1ec566ea80cd4da94c4b50,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b611fb963f83275221b2bd2b07e5f920,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_b611fb963f83275221b2bd2b07e5f920,vundo,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Mountain View,VirusShare_b611fb963f83275221b2bd2b07e5f920,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_daf5fe98e66d31d524c06309e8a7d9b6,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_daf5fe98e66d31d524c06309e8a7d9b6,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Paris,VirusShare_792c19f2ccc29022749f12d6d04aa5d6,vundo,France,2014,2.35222,FR,FRA,23.219.160.65,48.8566,0
+Mountain View,VirusShare_792c19f2ccc29022749f12d6d04aa5d6,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e08de0729dca26fb3b8d0e6cabca4f37,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e08de0729dca26fb3b8d0e6cabca4f37,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e08de0729dca26fb3b8d0e6cabca4f37,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e08de0729dca26fb3b8d0e6cabca4f37,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb6c575172b55f6d51f36613da045cda,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb6c575172b55f6d51f36613da045cda,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bb6c575172b55f6d51f36613da045cda,vundo,United States,2014,-77.0369,US,USA,184.25.63.56,38.9072,0
+Mountain View,VirusShare_bb6c575172b55f6d51f36613da045cda,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_cb79702b7785f4ebd2a4b4b1f4b87751,vundo,United States,2016,-84.388,US,USA,23.72.137.59,33.749,0
+Redmond,VirusShare_cb79702b7785f4ebd2a4b4b1f4b87751,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cb79702b7785f4ebd2a4b4b1f4b87751,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbd000f591f83bd401a952f227204e30,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cbd000f591f83bd401a952f227204e30,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e368f16c4910b8e7c5606d3e590d1670,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e368f16c4910b8e7c5606d3e590d1670,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e368f16c4910b8e7c5606d3e590d1670,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_bb133b016d4cef97edaba7f49224eb3b,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb133b016d4cef97edaba7f49224eb3b,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb133b016d4cef97edaba7f49224eb3b,vundo,United States,2016,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_bb133b016d4cef97edaba7f49224eb3b,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ca8942689ebd966dd3c53a989f4884a2,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_ca8942689ebd966dd3c53a989f4884a2,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_ca8942689ebd966dd3c53a989f4884a2,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dc05d5ee9e4dd125f2a7a147a93002f3,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc05d5ee9e4dd125f2a7a147a93002f3,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cbdefff2e99f6b9f05b85bb8dced910e,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b20ffb2f9615b82360700873f9520b17,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b20ffb2f9615b82360700873f9520b17,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbe8deeed30af088b59360ac4bd2ca44,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_cbe8deeed30af088b59360ac4bd2ca44,vundo,United States,2013,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_cbe8deeed30af088b59360ac4bd2ca44,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd98fd11a455b9ce155b24c1b1a18a51,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd98fd11a455b9ce155b24c1b1a18a51,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bd98fd11a455b9ce155b24c1b1a18a51,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd98fd11a455b9ce155b24c1b1a18a51,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dba65f5e6b6c2aaf39d890abad0dc83b,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dba65f5e6b6c2aaf39d890abad0dc83b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e10492be72beaf0777a7182554a72a74,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_e10492be72beaf0777a7182554a72a74,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_e10492be72beaf0777a7182554a72a74,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e10492be72beaf0777a7182554a72a74,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_dafc0225087133c611235db129483740,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_dafc0225087133c611235db129483740,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dafc0225087133c611235db129483740,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b30b9f9d137f3d195e1e44d372c4fd05,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b30b9f9d137f3d195e1e44d372c4fd05,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b30b9f9d137f3d195e1e44d372c4fd05,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f03d35e02cd0f61d7ec6cbb3f3099c90,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f03d35e02cd0f61d7ec6cbb3f3099c90,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f03d35e02cd0f61d7ec6cbb3f3099c90,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b18532ce23c86a894edfa978dcedc206,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b18532ce23c86a894edfa978dcedc206,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b18532ce23c86a894edfa978dcedc206,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e04ab861d48fa8801ce6f13120561e86,vundo,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e04ab861d48fa8801ce6f13120561e86,vundo,United States,2016,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e04ab861d48fa8801ce6f13120561e86,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e04ab861d48fa8801ce6f13120561e86,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_77a584172a6f5a6a95c300f521c38b1a,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_77a584172a6f5a6a95c300f521c38b1a,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_77a584172a6f5a6a95c300f521c38b1a,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_77a584172a6f5a6a95c300f521c38b1a,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_7587be96e5a05802c3932858ac692358,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_7587be96e5a05802c3932858ac692358,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_7587be96e5a05802c3932858ac692358,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7587be96e5a05802c3932858ac692358,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_77755b196a2ca0cc8ab2d42e3c1e9c10,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_77755b196a2ca0cc8ab2d42e3c1e9c10,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_77755b196a2ca0cc8ab2d42e3c1e9c10,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_77755b196a2ca0cc8ab2d42e3c1e9c10,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e040b6b56fa403ffed91cf644fd2bb68,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e040b6b56fa403ffed91cf644fd2bb68,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_e040b6b56fa403ffed91cf644fd2bb68,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e040b6b56fa403ffed91cf644fd2bb68,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db73048b329603638a245797dfa8e926,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f06c9941b51e06af39b02db2ee76eae0,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_f06c9941b51e06af39b02db2ee76eae0,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_f06c9941b51e06af39b02db2ee76eae0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_709f9087258df84fc22e598c4c75878f,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Atlanta,VirusShare_709f9087258df84fc22e598c4c75878f,vundo,United States,2014,-84.388,US,USA,23.73.181.64,33.749,0
+Redmond,VirusShare_709f9087258df84fc22e598c4c75878f,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_709f9087258df84fc22e598c4c75878f,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_3afa319d673e9aa57ff374426792a0d3,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_3afa319d673e9aa57ff374426792a0d3,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3afa319d673e9aa57ff374426792a0d3,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8cfd32705444b264169eae9c3b43b60,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8cfd32705444b264169eae9c3b43b60,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8cfd32705444b264169eae9c3b43b60,vundo,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_b8cfd32705444b264169eae9c3b43b60,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd8df92ffe000348bd46bb3ca3b2e4ab,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd8df92ffe000348bd46bb3ca3b2e4ab,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bd8df92ffe000348bd46bb3ca3b2e4ab,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd8df92ffe000348bd46bb3ca3b2e4ab,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f0e991499c703e37e5287b1e6ec23abb,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_f0e991499c703e37e5287b1e6ec23abb,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_f0e991499c703e37e5287b1e6ec23abb,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd6999d616406035df769abecbb63fcb,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bd6999d616406035df769abecbb63fcb,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bd6999d616406035df769abecbb63fcb,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bd6999d616406035df769abecbb63fcb,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e11c14df12cf095c7ebd95c3dbc33c1f,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e11c14df12cf095c7ebd95c3dbc33c1f,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e11c14df12cf095c7ebd95c3dbc33c1f,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e11c14df12cf095c7ebd95c3dbc33c1f,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbfadcf0e575dc4b7adbacd660d82ba1,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cbfadcf0e575dc4b7adbacd660d82ba1,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e0f7a57844fecccabcdf114e6f4b2b26,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_e0f7a57844fecccabcdf114e6f4b2b26,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_e0f7a57844fecccabcdf114e6f4b2b26,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0f7a57844fecccabcdf114e6f4b2b26,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_dc1ba7bb8cdfdd053bb4a820531adc70,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_dc1ba7bb8cdfdd053bb4a820531adc70,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_dc1ba7bb8cdfdd053bb4a820531adc70,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6aa31c2f2d6c7a538bc540fa5665767,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b6aa31c2f2d6c7a538bc540fa5665767,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b6aa31c2f2d6c7a538bc540fa5665767,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_b6aa31c2f2d6c7a538bc540fa5665767,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be528fb471e204899b4869686a0fcfa3,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be528fb471e204899b4869686a0fcfa3,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_be528fb471e204899b4869686a0fcfa3,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be528fb471e204899b4869686a0fcfa3,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_380e0db41372692c4fe5b7b75a910934,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_380e0db41372692c4fe5b7b75a910934,vundo,United States,2014,-96.797,US,USA,23.218.156.40,32.7767,0
+Redmond,VirusShare_380e0db41372692c4fe5b7b75a910934,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_380e0db41372692c4fe5b7b75a910934,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e18bb4fccf55c72d5c052060928a62ea,vundo,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_e18bb4fccf55c72d5c052060928a62ea,vundo,United States,2016,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_e18bb4fccf55c72d5c052060928a62ea,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3dd05d557f78c1377ac8e0f1142f5d20,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_3dd05d557f78c1377ac8e0f1142f5d20,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Mountain View,VirusShare_3dd05d557f78c1377ac8e0f1142f5d20,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be1f256ba8b5cb292e5f96d39369002b,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_be1f256ba8b5cb292e5f96d39369002b,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_be1f256ba8b5cb292e5f96d39369002b,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be1f256ba8b5cb292e5f96d39369002b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cbc6662af497c680347166d0288250bc,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_cbc6662af497c680347166d0288250bc,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_cbc6662af497c680347166d0288250bc,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdec03bd40722cb952468238bb6d646a,vundo,United States,2016,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bdec03bd40722cb952468238bb6d646a,vundo,United States,2016,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bdec03bd40722cb952468238bb6d646a,vundo,United States,2016,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bdec03bd40722cb952468238bb6d646a,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1a913957c1d2b72a15bf7f21a3b980a,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e1a913957c1d2b72a15bf7f21a3b980a,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_e1a913957c1d2b72a15bf7f21a3b980a,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e1a913957c1d2b72a15bf7f21a3b980a,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb27a362cb97c83f3715e1084df913b0,vundo,United States,2015,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb27a362cb97c83f3715e1084df913b0,vundo,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bb27a362cb97c83f3715e1084df913b0,vundo,United States,2015,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bb27a362cb97c83f3715e1084df913b0,vundo,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bdf3c3da407e1ac6325bbc61d619f8f9,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bdf3c3da407e1ac6325bbc61d619f8f9,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bdf3c3da407e1ac6325bbc61d619f8f9,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bdf3c3da407e1ac6325bbc61d619f8f9,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd6d7a5c3f8b024d1313e208fb1fc1c0,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bd6d7a5c3f8b024d1313e208fb1fc1c0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bd6d7a5c3f8b024d1313e208fb1fc1c0,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bd6d7a5c3f8b024d1313e208fb1fc1c0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_3120a8374d08fe011a62829a40276987,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_3120a8374d08fe011a62829a40276987,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_3120a8374d08fe011a62829a40276987,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_3120a8374d08fe011a62829a40276987,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_cc11d6a1c0735cec25d46bcf9e4ae28a,vundo,United States,2015,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_cc11d6a1c0735cec25d46bcf9e4ae28a,vundo,United States,2015,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_cc11d6a1c0735cec25d46bcf9e4ae28a,vundo,United States,2015,-96.797,US,USA,23.67.253.162,32.7767,0
+Mountain View,VirusShare_db2fa96760a3ec476edb455fb2598250,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b219df9c682106e33f7852ad6fa93df4,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b219df9c682106e33f7852ad6fa93df4,vundo,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_b219df9c682106e33f7852ad6fa93df4,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_beaad49ad815da9da226c4ed1301b5a6,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_beaad49ad815da9da226c4ed1301b5a6,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_db1528d3800e3ff3eef44dec4ff54739,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bbc90be31fa613e2dcbe24704627391a,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Atlanta,VirusShare_bbc90be31fa613e2dcbe24704627391a,vundo,United States,2014,-84.388,US,USA,184.51.150.57,33.749,0
+Mountain View,VirusShare_bbc90be31fa613e2dcbe24704627391a,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_db8d0392062a62fead854e9dca4ee7e2,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_db8d0392062a62fead854e9dca4ee7e2,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f1986587377b4a763dae7c6005d9af12,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_f1986587377b4a763dae7c6005d9af12,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_f1986587377b4a763dae7c6005d9af12,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_f1986587377b4a763dae7c6005d9af12,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_ba5dd190c21bf892903c5190519e5470,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_ba5dd190c21bf892903c5190519e5470,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_ba5dd190c21bf892903c5190519e5470,vundo,United States,2014,-96.797,US,USA,23.218.156.26,32.7767,0
+Mountain View,VirusShare_ba5dd190c21bf892903c5190519e5470,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7a74bc4b2020529f0b2fcb54f8fd94c4,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7a74bc4b2020529f0b2fcb54f8fd94c4,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b4c61b6e9fe1239811bf9fff7061652a,vundo,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b4c61b6e9fe1239811bf9fff7061652a,vundo,United States,2013,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_b4c61b6e9fe1239811bf9fff7061652a,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b4c61b6e9fe1239811bf9fff7061652a,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b35251520d62a6f1fe1e99c1f62b8b89,vundo,United States,2017,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b35251520d62a6f1fe1e99c1f62b8b89,vundo,United States,2017,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_b35251520d62a6f1fe1e99c1f62b8b89,vundo,United States,2017,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b35251520d62a6f1fe1e99c1f62b8b89,vundo,United States,2017,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_dbd8fd7b11c8da5eefa58110116a0590,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Road Town,VirusShare_dbd8fd7b11c8da5eefa58110116a0590,vundo,British Virgin Islands,2014,-64.6131,VG,VGB,204.11.56.48,18.4285,0
+Mountain View,VirusShare_dbd8fd7b11c8da5eefa58110116a0590,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_7a7e80451aaa3b3f625b2fd79fd72b59,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_7a7e80451aaa3b3f625b2fd79fd72b59,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7a7e80451aaa3b3f625b2fd79fd72b59,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b85efe44ed02b822f0edbe5b2d5aad60,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b85efe44ed02b822f0edbe5b2d5aad60,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_b85efe44ed02b822f0edbe5b2d5aad60,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b85efe44ed02b822f0edbe5b2d5aad60,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be5b6c1a21fc3e84a690fbf9065138af,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_be5b6c1a21fc3e84a690fbf9065138af,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_be5b6c1a21fc3e84a690fbf9065138af,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be5b6c1a21fc3e84a690fbf9065138af,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_be4e242833c37019efb1f99814f2d66b,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Chicago,VirusShare_be4e242833c37019efb1f99814f2d66b,vundo,United States,2014,-87.6298,US,USA,23.212.53.214,41.8781,0
+Redmond,VirusShare_be4e242833c37019efb1f99814f2d66b,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_be4e242833c37019efb1f99814f2d66b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb8861fc4db335e22b33531879be04c6,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_bb8861fc4db335e22b33531879be04c6,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_bb8861fc4db335e22b33531879be04c6,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2dd274ad72bac200f4de3b2f3e14080,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e2dd274ad72bac200f4de3b2f3e14080,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e2dd274ad72bac200f4de3b2f3e14080,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
+Redmond,VirusShare_34382fa182a8835a80d3a49d365a2411,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_34382fa182a8835a80d3a49d365a2411,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_34382fa182a8835a80d3a49d365a2411,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_34382fa182a8835a80d3a49d365a2411,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb2967d1627b39b65be2b1f493d00df0,vundo,United States,2012,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_bb2967d1627b39b65be2b1f493d00df0,vundo,United States,2012,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_bb2967d1627b39b65be2b1f493d00df0,vundo,United States,2012,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bb2967d1627b39b65be2b1f493d00df0,vundo,United States,2012,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7ce62567378aa5c57fa96a1a4f4b4480,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_7ce62567378aa5c57fa96a1a4f4b4480,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_7ce62567378aa5c57fa96a1a4f4b4480,vundo,United States,2014,-96.797,US,USA,96.17.177.18,32.7767,0
+Mountain View,VirusShare_7ce62567378aa5c57fa96a1a4f4b4480,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_70de449dd84a44f7f624d34935ef78a7,vundo,United States,2013,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_70de449dd84a44f7f624d34935ef78a7,vundo,United States,2013,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_70de449dd84a44f7f624d34935ef78a7,vundo,United States,2013,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_70de449dd84a44f7f624d34935ef78a7,vundo,United States,2013,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b0fc667b3b46752a7e823fd79d9844f9,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b0fc667b3b46752a7e823fd79d9844f9,vundo,United States,2014,-96.797,US,USA,23.218.156.11,32.7767,0
+Redmond,VirusShare_b0fc667b3b46752a7e823fd79d9844f9,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b0fc667b3b46752a7e823fd79d9844f9,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bd2dd61e393c4ee064b0ca29408f8c20,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_bd2dd61e393c4ee064b0ca29408f8c20,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Redmond,VirusShare_bd2dd61e393c4ee064b0ca29408f8c20,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_bd2dd61e393c4ee064b0ca29408f8c20,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1300c9ea4b1a57a9da115f5e5278cd0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1300c9ea4b1a57a9da115f5e5278cd0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b8884fa80fb0371f8eb3d19aa52d78b5,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b8884fa80fb0371f8eb3d19aa52d78b5,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_b8884fa80fb0371f8eb3d19aa52d78b5,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_b8884fa80fb0371f8eb3d19aa52d78b5,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_7140135921ea2ff60ebfc3f099f138ef,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7140135921ea2ff60ebfc3f099f138ef,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b3621b262734b8c7703ffcb15c5ef6a0,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b3621b262734b8c7703ffcb15c5ef6a0,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b3621b262734b8c7703ffcb15c5ef6a0,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b3621b262734b8c7703ffcb15c5ef6a0,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e00ed069fe9ded0894283a295d5a72d7,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_e00ed069fe9ded0894283a295d5a72d7,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Atlanta,VirusShare_e00ed069fe9ded0894283a295d5a72d7,vundo,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Mountain View,VirusShare_e00ed069fe9ded0894283a295d5a72d7,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_34746446a71acb96eef61cd0aac0b032,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_34746446a71acb96eef61cd0aac0b032,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_34746446a71acb96eef61cd0aac0b032,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_3b6786c21640aaafc881cb2ef0f3730f,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_3b6786c21640aaafc881cb2ef0f3730f,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_3b6786c21640aaafc881cb2ef0f3730f,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_3b6786c21640aaafc881cb2ef0f3730f,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Washington,VirusShare_e3bb00213dc266f1025c6ae1d19cfe9e,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e3bb00213dc266f1025c6ae1d19cfe9e,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb32fba003d022495470be52a563e3d2,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_bb32fba003d022495470be52a563e3d2,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_bb32fba003d022495470be52a563e3d2,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e0059db944de60fc470b3ec5fc267270,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_e0059db944de60fc470b3ec5fc267270,vundo,United States,2014,-96.797,US,USA,96.16.7.80,32.7767,0
+Redmond,VirusShare_e0059db944de60fc470b3ec5fc267270,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e0059db944de60fc470b3ec5fc267270,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Dallas,VirusShare_e41c96aafa1387625766cee0f3e7cfc9,vundo,United States,2014,-96.797,US,USA,23.67.252.19,32.7767,0
+Mountain View,VirusShare_e41c96aafa1387625766cee0f3e7cfc9,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f019f8d06abba130d7331ae3dbc9457d,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Atlanta,VirusShare_f019f8d06abba130d7331ae3dbc9457d,vundo,United States,2014,-84.388,US,USA,23.73.181.64,33.749,0
+Redmond,VirusShare_f019f8d06abba130d7331ae3dbc9457d,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_f019f8d06abba130d7331ae3dbc9457d,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_31b52be696261deef552e14220c5228b,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_31b52be696261deef552e14220c5228b,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_31b52be696261deef552e14220c5228b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_dba948f11a79da2f7ad9abbde8554220,vundo,United States,2014,-84.388,US,USA,23.72.137.81,33.749,0
+Mountain View,VirusShare_dba948f11a79da2f7ad9abbde8554220,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b84a0ff585d1031e7b520966f591c4f1,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b84a0ff585d1031e7b520966f591c4f1,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_b84a0ff585d1031e7b520966f591c4f1,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b84a0ff585d1031e7b520966f591c4f1,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bbcb9760c06aed374304074c11b413e1,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bbcb9760c06aed374304074c11b413e1,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_bbcb9760c06aed374304074c11b413e1,vundo,United States,2014,-96.797,US,USA,23.67.252.11,32.7767,0
+Mountain View,VirusShare_bbcb9760c06aed374304074c11b413e1,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e3d1d88bc2674ec9420f8c547b7086fd,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_e3d1d88bc2674ec9420f8c547b7086fd,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e3d1d88bc2674ec9420f8c547b7086fd,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_bb642a817c1b9f70ee07759c3a507726,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_bb642a817c1b9f70ee07759c3a507726,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bb642a817c1b9f70ee07759c3a507726,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bb642a817c1b9f70ee07759c3a507726,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Atlanta,VirusShare_f009e6ef3666260290b1f254db182861,vundo,United States,2014,-84.388,US,USA,23.73.181.59,33.749,0
+Redmond,VirusShare_f009e6ef3666260290b1f254db182861,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Newark,VirusShare_f009e6ef3666260290b1f254db182861,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Mountain View,VirusShare_f009e6ef3666260290b1f254db182861,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e18926cb83060fb258c58ab5d4dfae00,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Washington,VirusShare_e18926cb83060fb258c58ab5d4dfae00,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_e18926cb83060fb258c58ab5d4dfae00,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b6f077874e8682257d93770e03e22e60,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b6f077874e8682257d93770e03e22e60,vundo,United States,2014,-77.0369,US,USA,23.2.17.246,38.9072,0
+Mountain View,VirusShare_b6f077874e8682257d93770e03e22e60,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Chicago,VirusShare_7551bca5d27676039de9684984544aea,vundo,United States,2014,-87.6298,US,USA,23.212.53.221,41.8781,0
+Redmond,VirusShare_7551bca5d27676039de9684984544aea,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_7551bca5d27676039de9684984544aea,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b825c673a6ccbf6bfdbf79f539855d02,vundo,United States,2009,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b825c673a6ccbf6bfdbf79f539855d02,vundo,United States,2009,-96.797,US,USA,96.17.177.24,32.7767,0
+Redmond,VirusShare_b825c673a6ccbf6bfdbf79f539855d02,vundo,United States,2009,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b825c673a6ccbf6bfdbf79f539855d02,vundo,United States,2009,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_f01050cf004d80d5c65b017b10dca114,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Dallas,VirusShare_f01050cf004d80d5c65b017b10dca114,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_f01050cf004d80d5c65b017b10dca114,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b46c5865127a8e8b05ba69dad331238b,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Redmond,VirusShare_b46c5865127a8e8b05ba69dad331238b,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_b46c5865127a8e8b05ba69dad331238b,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b46c5865127a8e8b05ba69dad331238b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b60574ac117c3fda0c4520abb953ede4,vundo,United States,2016,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b60574ac117c3fda0c4520abb953ede4,vundo,United States,2016,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_b60574ac117c3fda0c4520abb953ede4,vundo,United States,2016,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b86c68081fbc50136710903999dfac18,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Dallas,VirusShare_b86c68081fbc50136710903999dfac18,vundo,United States,2014,-96.797,US,USA,96.16.7.83,32.7767,0
+Redmond,VirusShare_b86c68081fbc50136710903999dfac18,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b86c68081fbc50136710903999dfac18,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_39b13d6c4db4238ee0952bd46ff323ab,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Ashburn,VirusShare_39b13d6c4db4238ee0952bd46ff323ab,vundo,United States,2014,-77.4874,US,USA,184.26.93.81,39.0438,0
+Mountain View,VirusShare_39b13d6c4db4238ee0952bd46ff323ab,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_b1924ebed2b82e8e5c1dfa7305eec479,vundo,United States,2014,-122.139,US,USA,65.55.158.118,47.6475,0
+Washington,VirusShare_b1924ebed2b82e8e5c1dfa7305eec479,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Redmond,VirusShare_b1924ebed2b82e8e5c1dfa7305eec479,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_b1924ebed2b82e8e5c1dfa7305eec479,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_e1abb8fa50fd08d5f2cdcf06b516597b,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_e1abb8fa50fd08d5f2cdcf06b516597b,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Dallas,VirusShare_e1abb8fa50fd08d5f2cdcf06b516597b,vundo,United States,2014,-96.797,US,USA,23.67.252.18,32.7767,0
+Mountain View,VirusShare_e1abb8fa50fd08d5f2cdcf06b516597b,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_7d46c1b721be4736fb1528157400490a,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_7d46c1b721be4736fb1528157400490a,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_7d46c1b721be4736fb1528157400490a,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_7d46c1b721be4736fb1528157400490a,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Mountain View,VirusShare_cab138bccf673da8274e3736a84db627,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Newark,VirusShare_bbee82c3b97de1b4ba17a29b19936115,vundo,United States,2014,-74.1724,US,USA,157.56.144.215,40.7357,0
+Redmond,VirusShare_bbee82c3b97de1b4ba17a29b19936115,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Washington,VirusShare_bbee82c3b97de1b4ba17a29b19936115,vundo,United States,2014,-77.0369,US,USA,23.2.17.169,38.9072,0
+Mountain View,VirusShare_bbee82c3b97de1b4ba17a29b19936115,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Redmond,VirusShare_e2986e3b9a1397bc1d698b0e76e15f65,vundo,United States,2014,-122.128,US,USA,131.107.255.255,47.6393,0
+Mountain View,VirusShare_e2986e3b9a1397bc1d698b0e76e15f65,vundo,United States,2014,-122.085,US,USA,8.8.8.8,37.4229,0
+Ashburn,VirusShare_e2986e3b9a1397bc1d698b0e76e15f65,vundo,United States,2014,-77.4874,US,USA,184.26.93.58,39.0438,0
